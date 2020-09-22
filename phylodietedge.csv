@@ -1,0 +1,1045 @@
+,Species,Specimen,Site,variable,value
+2,Phylodactylus,12673,Carmabi,Diptera,0
+4,Phylodactylus,12704,Carmabi,Diptera,0
+6,Phylodactylus,12706,Carmabi,Diptera,0
+133,Phylodactylus,12673,Carmabi,Lepidoptera,0
+135,Phylodactylus,12704,Carmabi,Lepidoptera,0
+137,Phylodactylus,12706,Carmabi,Lepidoptera,0
+264,Phylodactylus,12673,Carmabi,Coleoptera,0
+266,Phylodactylus,12704,Carmabi,Coleoptera,0
+268,Phylodactylus,12706,Carmabi,Coleoptera,0
+395,Phylodactylus,12673,Carmabi,Archnid_scorp,0
+397,Phylodactylus,12704,Carmabi,Archnid_scorp,0
+399,Phylodactylus,12706,Carmabi,Archnid_scorp,0
+526,Phylodactylus,12673,Carmabi,Archnid_spider,0
+528,Phylodactylus,12704,Carmabi,Archnid_spider,0
+530,Phylodactylus,12706,Carmabi,Archnid_spider,0
+657,Phylodactylus,12673,Carmabi,Other,0
+659,Phylodactylus,12704,Carmabi,Other,0
+661,Phylodactylus,12706,Carmabi,Other,1
+788,Phylodactylus,12673,Carmabi,Centipede,0
+790,Phylodactylus,12704,Carmabi,Centipede,0
+792,Phylodactylus,12706,Carmabi,Centipede,0
+919,Phylodactylus,12673,Carmabi,Isopod,0
+921,Phylodactylus,12704,Carmabi,Isopod,0
+923,Phylodactylus,12706,Carmabi,Isopod,0
+1050,Phylodactylus,12673,Carmabi,Hemiptera,0
+1052,Phylodactylus,12704,Carmabi,Hemiptera,0
+1054,Phylodactylus,12706,Carmabi,Hemiptera,0
+1181,Phylodactylus,12673,Carmabi,Hymenoptera,1
+1183,Phylodactylus,12704,Carmabi,Hymenoptera,1
+1185,Phylodactylus,12706,Carmabi,Hymenoptera,0
+1312,Phylodactylus,12673,Carmabi,Orthoptera,0
+1314,Phylodactylus,12704,Carmabi,Orthoptera,0
+1316,Phylodactylus,12706,Carmabi,Orthoptera,0
+1443,Phylodactylus,12673,Carmabi,Ephermeroptera,0
+1445,Phylodactylus,12704,Carmabi,Ephermeroptera,0
+1447,Phylodactylus,12706,Carmabi,Ephermeroptera,0
+1574,Phylodactylus,12673,Carmabi,Gecko_skin,0
+1576,Phylodactylus,12704,Carmabi,Gecko_skin,0
+1578,Phylodactylus,12706,Carmabi,Gecko_skin,0
+1705,Phylodactylus,12673,Carmabi,Blattaria,0
+1707,Phylodactylus,12704,Carmabi,Blattaria,0
+1709,Phylodactylus,12706,Carmabi,Blattaria,0
+1836,Phylodactylus,12673,Carmabi,Empty,0
+1838,Phylodactylus,12704,Carmabi,Empty,0
+1840,Phylodactylus,12706,Carmabi,Empty,0
+1967,Phylodactylus,12673,Carmabi,Ramphotyphlops,0
+1969,Phylodactylus,12704,Carmabi,Ramphotyphlops,0
+1971,Phylodactylus,12706,Carmabi,Ramphotyphlops,0
+2098,Phylodactylus,12673,Carmabi,Gonatodes.antillensis,0
+2100,Phylodactylus,12704,Carmabi,Gonatodes.antillensis,0
+2102,Phylodactylus,12706,Carmabi,Gonatodes.antillensis,0
+2229,Phylodactylus,12673,Carmabi,Phylodactylus,0
+2231,Phylodactylus,12704,Carmabi,Phylodactylus,0
+2233,Phylodactylus,12706,Carmabi,Phylodactylus,0
+7,Phylodactylus,12678,Lagun,Diptera,0
+8,Phylodactylus,12679,Lagun,Diptera,0
+10,Phylodactylus,12689,Lagun,Diptera,0
+17,Phylodactylus,12697,Lagun,Diptera,0
+20,Phylodactylus,12709,Lagun,Diptera,0
+23,Phylodactylus,112710,Lagun,Diptera,0
+138,Phylodactylus,12678,Lagun,Lepidoptera,1
+139,Phylodactylus,12679,Lagun,Lepidoptera,0
+141,Phylodactylus,12689,Lagun,Lepidoptera,0
+148,Phylodactylus,12697,Lagun,Lepidoptera,0
+151,Phylodactylus,12709,Lagun,Lepidoptera,0
+154,Phylodactylus,112710,Lagun,Lepidoptera,0
+269,Phylodactylus,12678,Lagun,Coleoptera,0
+270,Phylodactylus,12679,Lagun,Coleoptera,0
+272,Phylodactylus,12689,Lagun,Coleoptera,0
+279,Phylodactylus,12697,Lagun,Coleoptera,0
+282,Phylodactylus,12709,Lagun,Coleoptera,0
+285,Phylodactylus,112710,Lagun,Coleoptera,0
+400,Phylodactylus,12678,Lagun,Archnid_scorp,0
+401,Phylodactylus,12679,Lagun,Archnid_scorp,0
+403,Phylodactylus,12689,Lagun,Archnid_scorp,0
+410,Phylodactylus,12697,Lagun,Archnid_scorp,0
+413,Phylodactylus,12709,Lagun,Archnid_scorp,0
+416,Phylodactylus,112710,Lagun,Archnid_scorp,1
+531,Phylodactylus,12678,Lagun,Archnid_spider,0
+532,Phylodactylus,12679,Lagun,Archnid_spider,0
+534,Phylodactylus,12689,Lagun,Archnid_spider,0.333333333
+541,Phylodactylus,12697,Lagun,Archnid_spider,0.5
+544,Phylodactylus,12709,Lagun,Archnid_spider,1
+547,Phylodactylus,112710,Lagun,Archnid_spider,0
+662,Phylodactylus,12678,Lagun,Other,0
+663,Phylodactylus,12679,Lagun,Other,0
+665,Phylodactylus,12689,Lagun,Other,0
+672,Phylodactylus,12697,Lagun,Other,0
+675,Phylodactylus,12709,Lagun,Other,0
+678,Phylodactylus,112710,Lagun,Other,0
+793,Phylodactylus,12678,Lagun,Centipede,0
+794,Phylodactylus,12679,Lagun,Centipede,0
+796,Phylodactylus,12689,Lagun,Centipede,0
+803,Phylodactylus,12697,Lagun,Centipede,0
+806,Phylodactylus,12709,Lagun,Centipede,0
+809,Phylodactylus,112710,Lagun,Centipede,0
+924,Phylodactylus,12678,Lagun,Isopod,0
+925,Phylodactylus,12679,Lagun,Isopod,0
+927,Phylodactylus,12689,Lagun,Isopod,0
+934,Phylodactylus,12697,Lagun,Isopod,0
+937,Phylodactylus,12709,Lagun,Isopod,0
+940,Phylodactylus,112710,Lagun,Isopod,0
+1055,Phylodactylus,12678,Lagun,Hemiptera,0
+1056,Phylodactylus,12679,Lagun,Hemiptera,0
+1058,Phylodactylus,12689,Lagun,Hemiptera,0
+1065,Phylodactylus,12697,Lagun,Hemiptera,0
+1068,Phylodactylus,12709,Lagun,Hemiptera,0
+1071,Phylodactylus,112710,Lagun,Hemiptera,0
+1186,Phylodactylus,12678,Lagun,Hymenoptera,0
+1187,Phylodactylus,12679,Lagun,Hymenoptera,0
+1189,Phylodactylus,12689,Lagun,Hymenoptera,0
+1196,Phylodactylus,12697,Lagun,Hymenoptera,0
+1199,Phylodactylus,12709,Lagun,Hymenoptera,0
+1202,Phylodactylus,112710,Lagun,Hymenoptera,0
+1317,Phylodactylus,12678,Lagun,Orthoptera,0
+1318,Phylodactylus,12679,Lagun,Orthoptera,1
+1320,Phylodactylus,12689,Lagun,Orthoptera,0.333333333
+1327,Phylodactylus,12697,Lagun,Orthoptera,0.5
+1330,Phylodactylus,12709,Lagun,Orthoptera,0
+1333,Phylodactylus,112710,Lagun,Orthoptera,0
+1448,Phylodactylus,12678,Lagun,Ephermeroptera,0
+1449,Phylodactylus,12679,Lagun,Ephermeroptera,0
+1451,Phylodactylus,12689,Lagun,Ephermeroptera,0
+1458,Phylodactylus,12697,Lagun,Ephermeroptera,0
+1461,Phylodactylus,12709,Lagun,Ephermeroptera,0
+1464,Phylodactylus,112710,Lagun,Ephermeroptera,0
+1579,Phylodactylus,12678,Lagun,Gecko_skin,0
+1580,Phylodactylus,12679,Lagun,Gecko_skin,0
+1582,Phylodactylus,12689,Lagun,Gecko_skin,0.333333333
+1589,Phylodactylus,12697,Lagun,Gecko_skin,0
+1592,Phylodactylus,12709,Lagun,Gecko_skin,0
+1595,Phylodactylus,112710,Lagun,Gecko_skin,0
+1710,Phylodactylus,12678,Lagun,Blattaria,0
+1711,Phylodactylus,12679,Lagun,Blattaria,0
+1713,Phylodactylus,12689,Lagun,Blattaria,0
+1720,Phylodactylus,12697,Lagun,Blattaria,0
+1723,Phylodactylus,12709,Lagun,Blattaria,0
+1726,Phylodactylus,112710,Lagun,Blattaria,0
+1841,Phylodactylus,12678,Lagun,Empty,0
+1842,Phylodactylus,12679,Lagun,Empty,0
+1844,Phylodactylus,12689,Lagun,Empty,0
+1851,Phylodactylus,12697,Lagun,Empty,0
+1854,Phylodactylus,12709,Lagun,Empty,0
+1857,Phylodactylus,112710,Lagun,Empty,0
+1972,Phylodactylus,12678,Lagun,Ramphotyphlops,0
+1973,Phylodactylus,12679,Lagun,Ramphotyphlops,0
+1975,Phylodactylus,12689,Lagun,Ramphotyphlops,0
+1982,Phylodactylus,12697,Lagun,Ramphotyphlops,0
+1985,Phylodactylus,12709,Lagun,Ramphotyphlops,0
+1988,Phylodactylus,112710,Lagun,Ramphotyphlops,0
+2103,Phylodactylus,12678,Lagun,Gonatodes.antillensis,0
+2104,Phylodactylus,12679,Lagun,Gonatodes.antillensis,0
+2106,Phylodactylus,12689,Lagun,Gonatodes.antillensis,0
+2113,Phylodactylus,12697,Lagun,Gonatodes.antillensis,0
+2116,Phylodactylus,12709,Lagun,Gonatodes.antillensis,0
+2119,Phylodactylus,112710,Lagun,Gonatodes.antillensis,0
+2234,Phylodactylus,12678,Lagun,Phylodactylus,0
+2235,Phylodactylus,12679,Lagun,Phylodactylus,0
+2237,Phylodactylus,12689,Lagun,Phylodactylus,0
+2244,Phylodactylus,12697,Lagun,Phylodactylus,0
+2247,Phylodactylus,12709,Lagun,Phylodactylus,0
+2250,Phylodactylus,112710,Lagun,Phylodactylus,0
+46,Phylodactylus,12513,Westpunt,Diptera,1
+47,Phylodactylus,12514,Westpunt,Diptera,0
+48,Phylodactylus,12515,Westpunt,Diptera,0
+49,Phylodactylus,12516,Westpunt,Diptera,0
+50,Phylodactylus,12517,Westpunt,Diptera,0
+51,Phylodactylus,12518,Westpunt,Diptera,0
+52,Phylodactylus,12520,Westpunt,Diptera,0
+53,Phylodactylus,12521,Westpunt,Diptera,0
+54,Phylodactylus,12522,Westpunt,Diptera,0.333333333
+55,Phylodactylus,12524,Westpunt,Diptera,0
+56,Phylodactylus,12525,Westpunt,Diptera,0
+58,Phylodactylus,12541,Westpunt,Diptera,0
+59,Phylodactylus,12543,Westpunt,Diptera,0
+60,Phylodactylus,12544,Westpunt,Diptera,0
+61,Phylodactylus,12547,Westpunt,Diptera,0
+62,Phylodactylus,12551,Westpunt,Diptera,0.5
+67,Phylodactylus,12582,Westpunt,Diptera,0.5
+68,Phylodactylus,12583,Westpunt,Diptera,0
+69,Phylodactylus,12584,Westpunt,Diptera,0
+70,Phylodactylus,12615,Westpunt,Diptera,0
+71,Phylodactylus,12618,Westpunt,Diptera,0
+72,Phylodactylus,12621,Westpunt,Diptera,0
+73,Phylodactylus,12622,Westpunt,Diptera,0
+74,Phylodactylus,12623,Westpunt,Diptera,0
+78,Phylodactylus,12636,Westpunt,Diptera,0
+79,Phylodactylus,12637,Westpunt,Diptera,0
+80,Phylodactylus,12638,Westpunt,Diptera,0
+81,Phylodactylus,12639,Westpunt,Diptera,0
+82,Phylodactylus,12640,Westpunt,Diptera,0
+85,Phylodactylus,MCB 1098,Westpunt,Diptera,0
+86,Phylodactylus,MCB 1099,Westpunt,Diptera,0
+87,Phylodactylus,MCB 1100,Westpunt,Diptera,1
+88,Phylodactylus,MCB 1101,Westpunt,Diptera,0
+89,Phylodactylus,MCB 1102,Westpunt,Diptera,0
+90,Phylodactylus,MCB 1103,Westpunt,Diptera,0
+91,Phylodactylus,MCB 1104,Westpunt,Diptera,0
+92,Phylodactylus,MCB 1105,Westpunt,Diptera,0
+93,Phylodactylus,MCB 1106,Westpunt,Diptera,0
+94,Phylodactylus,MCB 1107,Westpunt,Diptera,0
+95,Phylodactylus,MCB 1108,Westpunt,Diptera,0
+96,Phylodactylus,MCB 1109,Westpunt,Diptera,0.5
+97,Phylodactylus,MCB 1110,Westpunt,Diptera,0
+98,Phylodactylus,MCB 1111,Westpunt,Diptera,0
+99,Phylodactylus,MCB 1112,Westpunt,Diptera,0.5
+100,Phylodactylus,MCB 1113,Westpunt,Diptera,0
+101,Phylodactylus,MCB 1114,Westpunt,Diptera,0
+102,Phylodactylus,MCB 1115,Westpunt,Diptera,0
+103,Phylodactylus,MCB 1117,Westpunt,Diptera,0
+104,Phylodactylus,MCB 1118,Westpunt,Diptera,0
+177,Phylodactylus,12513,Westpunt,Lepidoptera,0
+178,Phylodactylus,12514,Westpunt,Lepidoptera,1
+179,Phylodactylus,12515,Westpunt,Lepidoptera,0.5
+180,Phylodactylus,12516,Westpunt,Lepidoptera,0
+181,Phylodactylus,12517,Westpunt,Lepidoptera,0
+182,Phylodactylus,12518,Westpunt,Lepidoptera,0
+183,Phylodactylus,12520,Westpunt,Lepidoptera,0
+184,Phylodactylus,12521,Westpunt,Lepidoptera,0
+185,Phylodactylus,12522,Westpunt,Lepidoptera,0
+186,Phylodactylus,12524,Westpunt,Lepidoptera,1
+187,Phylodactylus,12525,Westpunt,Lepidoptera,0.5
+189,Phylodactylus,12541,Westpunt,Lepidoptera,0
+190,Phylodactylus,12543,Westpunt,Lepidoptera,0
+191,Phylodactylus,12544,Westpunt,Lepidoptera,0
+192,Phylodactylus,12547,Westpunt,Lepidoptera,0
+193,Phylodactylus,12551,Westpunt,Lepidoptera,0
+198,Phylodactylus,12582,Westpunt,Lepidoptera,0
+199,Phylodactylus,12583,Westpunt,Lepidoptera,0
+200,Phylodactylus,12584,Westpunt,Lepidoptera,0
+201,Phylodactylus,12615,Westpunt,Lepidoptera,0
+202,Phylodactylus,12618,Westpunt,Lepidoptera,0
+203,Phylodactylus,12621,Westpunt,Lepidoptera,0
+204,Phylodactylus,12622,Westpunt,Lepidoptera,0
+205,Phylodactylus,12623,Westpunt,Lepidoptera,0
+209,Phylodactylus,12636,Westpunt,Lepidoptera,0
+210,Phylodactylus,12637,Westpunt,Lepidoptera,0.333333333
+211,Phylodactylus,12638,Westpunt,Lepidoptera,0
+212,Phylodactylus,12639,Westpunt,Lepidoptera,0
+213,Phylodactylus,12640,Westpunt,Lepidoptera,0
+216,Phylodactylus,MCB 1098,Westpunt,Lepidoptera,0
+217,Phylodactylus,MCB 1099,Westpunt,Lepidoptera,0
+218,Phylodactylus,MCB 1100,Westpunt,Lepidoptera,0
+219,Phylodactylus,MCB 1101,Westpunt,Lepidoptera,0
+220,Phylodactylus,MCB 1102,Westpunt,Lepidoptera,0
+221,Phylodactylus,MCB 1103,Westpunt,Lepidoptera,0
+222,Phylodactylus,MCB 1104,Westpunt,Lepidoptera,0
+223,Phylodactylus,MCB 1105,Westpunt,Lepidoptera,0
+224,Phylodactylus,MCB 1106,Westpunt,Lepidoptera,0
+225,Phylodactylus,MCB 1107,Westpunt,Lepidoptera,0
+226,Phylodactylus,MCB 1108,Westpunt,Lepidoptera,0
+227,Phylodactylus,MCB 1109,Westpunt,Lepidoptera,0
+228,Phylodactylus,MCB 1110,Westpunt,Lepidoptera,0
+229,Phylodactylus,MCB 1111,Westpunt,Lepidoptera,0.5
+230,Phylodactylus,MCB 1112,Westpunt,Lepidoptera,0
+231,Phylodactylus,MCB 1113,Westpunt,Lepidoptera,0
+232,Phylodactylus,MCB 1114,Westpunt,Lepidoptera,0
+233,Phylodactylus,MCB 1115,Westpunt,Lepidoptera,0
+234,Phylodactylus,MCB 1117,Westpunt,Lepidoptera,0
+235,Phylodactylus,MCB 1118,Westpunt,Lepidoptera,0
+308,Phylodactylus,12513,Westpunt,Coleoptera,0
+309,Phylodactylus,12514,Westpunt,Coleoptera,0
+310,Phylodactylus,12515,Westpunt,Coleoptera,0.5
+311,Phylodactylus,12516,Westpunt,Coleoptera,1
+312,Phylodactylus,12517,Westpunt,Coleoptera,0
+313,Phylodactylus,12518,Westpunt,Coleoptera,0
+314,Phylodactylus,12520,Westpunt,Coleoptera,0.5
+315,Phylodactylus,12521,Westpunt,Coleoptera,1
+316,Phylodactylus,12522,Westpunt,Coleoptera,0
+317,Phylodactylus,12524,Westpunt,Coleoptera,0
+318,Phylodactylus,12525,Westpunt,Coleoptera,0
+320,Phylodactylus,12541,Westpunt,Coleoptera,0
+321,Phylodactylus,12543,Westpunt,Coleoptera,0.5
+322,Phylodactylus,12544,Westpunt,Coleoptera,0
+323,Phylodactylus,12547,Westpunt,Coleoptera,0
+324,Phylodactylus,12551,Westpunt,Coleoptera,0.5
+329,Phylodactylus,12582,Westpunt,Coleoptera,0.5
+330,Phylodactylus,12583,Westpunt,Coleoptera,0
+331,Phylodactylus,12584,Westpunt,Coleoptera,0
+332,Phylodactylus,12615,Westpunt,Coleoptera,0
+333,Phylodactylus,12618,Westpunt,Coleoptera,0
+334,Phylodactylus,12621,Westpunt,Coleoptera,0
+335,Phylodactylus,12622,Westpunt,Coleoptera,0
+336,Phylodactylus,12623,Westpunt,Coleoptera,0
+340,Phylodactylus,12636,Westpunt,Coleoptera,1
+341,Phylodactylus,12637,Westpunt,Coleoptera,0.333333333
+342,Phylodactylus,12638,Westpunt,Coleoptera,0
+343,Phylodactylus,12639,Westpunt,Coleoptera,0
+344,Phylodactylus,12640,Westpunt,Coleoptera,0
+347,Phylodactylus,MCB 1098,Westpunt,Coleoptera,0.833333333
+348,Phylodactylus,MCB 1099,Westpunt,Coleoptera,0.5
+349,Phylodactylus,MCB 1100,Westpunt,Coleoptera,0
+350,Phylodactylus,MCB 1101,Westpunt,Coleoptera,1
+351,Phylodactylus,MCB 1102,Westpunt,Coleoptera,0
+352,Phylodactylus,MCB 1103,Westpunt,Coleoptera,1
+353,Phylodactylus,MCB 1104,Westpunt,Coleoptera,0
+354,Phylodactylus,MCB 1105,Westpunt,Coleoptera,0.5
+355,Phylodactylus,MCB 1106,Westpunt,Coleoptera,0.5
+356,Phylodactylus,MCB 1107,Westpunt,Coleoptera,0
+357,Phylodactylus,MCB 1108,Westpunt,Coleoptera,1
+358,Phylodactylus,MCB 1109,Westpunt,Coleoptera,0.5
+359,Phylodactylus,MCB 1110,Westpunt,Coleoptera,0
+360,Phylodactylus,MCB 1111,Westpunt,Coleoptera,0.5
+361,Phylodactylus,MCB 1112,Westpunt,Coleoptera,0.5
+362,Phylodactylus,MCB 1113,Westpunt,Coleoptera,1
+363,Phylodactylus,MCB 1114,Westpunt,Coleoptera,0
+364,Phylodactylus,MCB 1115,Westpunt,Coleoptera,0
+365,Phylodactylus,MCB 1117,Westpunt,Coleoptera,0
+366,Phylodactylus,MCB 1118,Westpunt,Coleoptera,0
+439,Phylodactylus,12513,Westpunt,Archnid_scorp,0
+440,Phylodactylus,12514,Westpunt,Archnid_scorp,0
+441,Phylodactylus,12515,Westpunt,Archnid_scorp,0
+442,Phylodactylus,12516,Westpunt,Archnid_scorp,0
+443,Phylodactylus,12517,Westpunt,Archnid_scorp,1
+444,Phylodactylus,12518,Westpunt,Archnid_scorp,0
+445,Phylodactylus,12520,Westpunt,Archnid_scorp,0.5
+446,Phylodactylus,12521,Westpunt,Archnid_scorp,0
+447,Phylodactylus,12522,Westpunt,Archnid_scorp,0
+448,Phylodactylus,12524,Westpunt,Archnid_scorp,0
+449,Phylodactylus,12525,Westpunt,Archnid_scorp,0
+451,Phylodactylus,12541,Westpunt,Archnid_scorp,0
+452,Phylodactylus,12543,Westpunt,Archnid_scorp,0
+453,Phylodactylus,12544,Westpunt,Archnid_scorp,0
+454,Phylodactylus,12547,Westpunt,Archnid_scorp,0
+455,Phylodactylus,12551,Westpunt,Archnid_scorp,0
+460,Phylodactylus,12582,Westpunt,Archnid_scorp,0
+461,Phylodactylus,12583,Westpunt,Archnid_scorp,0
+462,Phylodactylus,12584,Westpunt,Archnid_scorp,0
+463,Phylodactylus,12615,Westpunt,Archnid_scorp,0
+464,Phylodactylus,12618,Westpunt,Archnid_scorp,0
+465,Phylodactylus,12621,Westpunt,Archnid_scorp,0
+466,Phylodactylus,12622,Westpunt,Archnid_scorp,0
+467,Phylodactylus,12623,Westpunt,Archnid_scorp,0
+471,Phylodactylus,12636,Westpunt,Archnid_scorp,0
+472,Phylodactylus,12637,Westpunt,Archnid_scorp,0
+473,Phylodactylus,12638,Westpunt,Archnid_scorp,0
+474,Phylodactylus,12639,Westpunt,Archnid_scorp,0
+475,Phylodactylus,12640,Westpunt,Archnid_scorp,0
+478,Phylodactylus,MCB 1098,Westpunt,Archnid_scorp,0
+479,Phylodactylus,MCB 1099,Westpunt,Archnid_scorp,0
+480,Phylodactylus,MCB 1100,Westpunt,Archnid_scorp,0
+481,Phylodactylus,MCB 1101,Westpunt,Archnid_scorp,0
+482,Phylodactylus,MCB 1102,Westpunt,Archnid_scorp,0
+483,Phylodactylus,MCB 1103,Westpunt,Archnid_scorp,0
+484,Phylodactylus,MCB 1104,Westpunt,Archnid_scorp,0
+485,Phylodactylus,MCB 1105,Westpunt,Archnid_scorp,0
+486,Phylodactylus,MCB 1106,Westpunt,Archnid_scorp,0
+487,Phylodactylus,MCB 1107,Westpunt,Archnid_scorp,0
+488,Phylodactylus,MCB 1108,Westpunt,Archnid_scorp,0
+489,Phylodactylus,MCB 1109,Westpunt,Archnid_scorp,0
+490,Phylodactylus,MCB 1110,Westpunt,Archnid_scorp,0
+491,Phylodactylus,MCB 1111,Westpunt,Archnid_scorp,0
+492,Phylodactylus,MCB 1112,Westpunt,Archnid_scorp,0
+493,Phylodactylus,MCB 1113,Westpunt,Archnid_scorp,0
+494,Phylodactylus,MCB 1114,Westpunt,Archnid_scorp,0.666666667
+495,Phylodactylus,MCB 1115,Westpunt,Archnid_scorp,0
+496,Phylodactylus,MCB 1117,Westpunt,Archnid_scorp,0
+497,Phylodactylus,MCB 1118,Westpunt,Archnid_scorp,0
+570,Phylodactylus,12513,Westpunt,Archnid_spider,0
+571,Phylodactylus,12514,Westpunt,Archnid_spider,0
+572,Phylodactylus,12515,Westpunt,Archnid_spider,0
+573,Phylodactylus,12516,Westpunt,Archnid_spider,0
+574,Phylodactylus,12517,Westpunt,Archnid_spider,0
+575,Phylodactylus,12518,Westpunt,Archnid_spider,0
+576,Phylodactylus,12520,Westpunt,Archnid_spider,0
+577,Phylodactylus,12521,Westpunt,Archnid_spider,0
+578,Phylodactylus,12522,Westpunt,Archnid_spider,0
+579,Phylodactylus,12524,Westpunt,Archnid_spider,0
+580,Phylodactylus,12525,Westpunt,Archnid_spider,0
+582,Phylodactylus,12541,Westpunt,Archnid_spider,0
+583,Phylodactylus,12543,Westpunt,Archnid_spider,0.5
+584,Phylodactylus,12544,Westpunt,Archnid_spider,0
+585,Phylodactylus,12547,Westpunt,Archnid_spider,0
+586,Phylodactylus,12551,Westpunt,Archnid_spider,0
+591,Phylodactylus,12582,Westpunt,Archnid_spider,0
+592,Phylodactylus,12583,Westpunt,Archnid_spider,0
+593,Phylodactylus,12584,Westpunt,Archnid_spider,1
+594,Phylodactylus,12615,Westpunt,Archnid_spider,0
+595,Phylodactylus,12618,Westpunt,Archnid_spider,0
+596,Phylodactylus,12621,Westpunt,Archnid_spider,0
+597,Phylodactylus,12622,Westpunt,Archnid_spider,0
+598,Phylodactylus,12623,Westpunt,Archnid_spider,0
+602,Phylodactylus,12636,Westpunt,Archnid_spider,0
+603,Phylodactylus,12637,Westpunt,Archnid_spider,0
+604,Phylodactylus,12638,Westpunt,Archnid_spider,0
+605,Phylodactylus,12639,Westpunt,Archnid_spider,0
+606,Phylodactylus,12640,Westpunt,Archnid_spider,0.5
+609,Phylodactylus,MCB 1098,Westpunt,Archnid_spider,0
+610,Phylodactylus,MCB 1099,Westpunt,Archnid_spider,0
+611,Phylodactylus,MCB 1100,Westpunt,Archnid_spider,0
+612,Phylodactylus,MCB 1101,Westpunt,Archnid_spider,0
+613,Phylodactylus,MCB 1102,Westpunt,Archnid_spider,0
+614,Phylodactylus,MCB 1103,Westpunt,Archnid_spider,0
+615,Phylodactylus,MCB 1104,Westpunt,Archnid_spider,0
+616,Phylodactylus,MCB 1105,Westpunt,Archnid_spider,0
+617,Phylodactylus,MCB 1106,Westpunt,Archnid_spider,0
+618,Phylodactylus,MCB 1107,Westpunt,Archnid_spider,1
+619,Phylodactylus,MCB 1108,Westpunt,Archnid_spider,0
+620,Phylodactylus,MCB 1109,Westpunt,Archnid_spider,0
+621,Phylodactylus,MCB 1110,Westpunt,Archnid_spider,1
+622,Phylodactylus,MCB 1111,Westpunt,Archnid_spider,0
+623,Phylodactylus,MCB 1112,Westpunt,Archnid_spider,0
+624,Phylodactylus,MCB 1113,Westpunt,Archnid_spider,0
+625,Phylodactylus,MCB 1114,Westpunt,Archnid_spider,0.333333333
+626,Phylodactylus,MCB 1115,Westpunt,Archnid_spider,0
+627,Phylodactylus,MCB 1117,Westpunt,Archnid_spider,0
+628,Phylodactylus,MCB 1118,Westpunt,Archnid_spider,1
+701,Phylodactylus,12513,Westpunt,Other,0
+702,Phylodactylus,12514,Westpunt,Other,0
+703,Phylodactylus,12515,Westpunt,Other,0
+704,Phylodactylus,12516,Westpunt,Other,0
+705,Phylodactylus,12517,Westpunt,Other,0
+706,Phylodactylus,12518,Westpunt,Other,1
+707,Phylodactylus,12520,Westpunt,Other,0
+708,Phylodactylus,12521,Westpunt,Other,0
+709,Phylodactylus,12522,Westpunt,Other,0
+710,Phylodactylus,12524,Westpunt,Other,0
+711,Phylodactylus,12525,Westpunt,Other,0
+713,Phylodactylus,12541,Westpunt,Other,0
+714,Phylodactylus,12543,Westpunt,Other,0
+715,Phylodactylus,12544,Westpunt,Other,0
+716,Phylodactylus,12547,Westpunt,Other,0
+717,Phylodactylus,12551,Westpunt,Other,0
+722,Phylodactylus,12582,Westpunt,Other,0
+723,Phylodactylus,12583,Westpunt,Other,0
+724,Phylodactylus,12584,Westpunt,Other,0
+725,Phylodactylus,12615,Westpunt,Other,1
+726,Phylodactylus,12618,Westpunt,Other,0
+727,Phylodactylus,12621,Westpunt,Other,1
+728,Phylodactylus,12622,Westpunt,Other,1
+729,Phylodactylus,12623,Westpunt,Other,1
+733,Phylodactylus,12636,Westpunt,Other,0
+734,Phylodactylus,12637,Westpunt,Other,0
+735,Phylodactylus,12638,Westpunt,Other,0
+736,Phylodactylus,12639,Westpunt,Other,1
+737,Phylodactylus,12640,Westpunt,Other,0
+740,Phylodactylus,MCB 1098,Westpunt,Other,0
+741,Phylodactylus,MCB 1099,Westpunt,Other,0
+742,Phylodactylus,MCB 1100,Westpunt,Other,0
+743,Phylodactylus,MCB 1101,Westpunt,Other,0
+744,Phylodactylus,MCB 1102,Westpunt,Other,0
+745,Phylodactylus,MCB 1103,Westpunt,Other,0
+746,Phylodactylus,MCB 1104,Westpunt,Other,0
+747,Phylodactylus,MCB 1105,Westpunt,Other,0.5
+748,Phylodactylus,MCB 1106,Westpunt,Other,0
+749,Phylodactylus,MCB 1107,Westpunt,Other,0
+750,Phylodactylus,MCB 1108,Westpunt,Other,0
+751,Phylodactylus,MCB 1109,Westpunt,Other,0
+752,Phylodactylus,MCB 1110,Westpunt,Other,0
+753,Phylodactylus,MCB 1111,Westpunt,Other,0
+754,Phylodactylus,MCB 1112,Westpunt,Other,0
+755,Phylodactylus,MCB 1113,Westpunt,Other,0
+756,Phylodactylus,MCB 1114,Westpunt,Other,0
+757,Phylodactylus,MCB 1115,Westpunt,Other,1
+758,Phylodactylus,MCB 1117,Westpunt,Other,0
+759,Phylodactylus,MCB 1118,Westpunt,Other,0
+832,Phylodactylus,12513,Westpunt,Centipede,0
+833,Phylodactylus,12514,Westpunt,Centipede,0
+834,Phylodactylus,12515,Westpunt,Centipede,0
+835,Phylodactylus,12516,Westpunt,Centipede,0
+836,Phylodactylus,12517,Westpunt,Centipede,0
+837,Phylodactylus,12518,Westpunt,Centipede,0
+838,Phylodactylus,12520,Westpunt,Centipede,0
+839,Phylodactylus,12521,Westpunt,Centipede,0
+840,Phylodactylus,12522,Westpunt,Centipede,0.333333333
+841,Phylodactylus,12524,Westpunt,Centipede,0
+842,Phylodactylus,12525,Westpunt,Centipede,0
+844,Phylodactylus,12541,Westpunt,Centipede,0
+845,Phylodactylus,12543,Westpunt,Centipede,0
+846,Phylodactylus,12544,Westpunt,Centipede,0
+847,Phylodactylus,12547,Westpunt,Centipede,0
+848,Phylodactylus,12551,Westpunt,Centipede,0
+853,Phylodactylus,12582,Westpunt,Centipede,0
+854,Phylodactylus,12583,Westpunt,Centipede,0
+855,Phylodactylus,12584,Westpunt,Centipede,0
+856,Phylodactylus,12615,Westpunt,Centipede,0
+857,Phylodactylus,12618,Westpunt,Centipede,0
+858,Phylodactylus,12621,Westpunt,Centipede,0
+859,Phylodactylus,12622,Westpunt,Centipede,0
+860,Phylodactylus,12623,Westpunt,Centipede,0
+864,Phylodactylus,12636,Westpunt,Centipede,0
+865,Phylodactylus,12637,Westpunt,Centipede,0
+866,Phylodactylus,12638,Westpunt,Centipede,0
+867,Phylodactylus,12639,Westpunt,Centipede,0
+868,Phylodactylus,12640,Westpunt,Centipede,0
+871,Phylodactylus,MCB 1098,Westpunt,Centipede,0
+872,Phylodactylus,MCB 1099,Westpunt,Centipede,0
+873,Phylodactylus,MCB 1100,Westpunt,Centipede,0
+874,Phylodactylus,MCB 1101,Westpunt,Centipede,0
+875,Phylodactylus,MCB 1102,Westpunt,Centipede,0
+876,Phylodactylus,MCB 1103,Westpunt,Centipede,0
+877,Phylodactylus,MCB 1104,Westpunt,Centipede,0
+878,Phylodactylus,MCB 1105,Westpunt,Centipede,0
+879,Phylodactylus,MCB 1106,Westpunt,Centipede,0
+880,Phylodactylus,MCB 1107,Westpunt,Centipede,0
+881,Phylodactylus,MCB 1108,Westpunt,Centipede,0
+882,Phylodactylus,MCB 1109,Westpunt,Centipede,0
+883,Phylodactylus,MCB 1110,Westpunt,Centipede,0
+884,Phylodactylus,MCB 1111,Westpunt,Centipede,0
+885,Phylodactylus,MCB 1112,Westpunt,Centipede,0
+886,Phylodactylus,MCB 1113,Westpunt,Centipede,0
+887,Phylodactylus,MCB 1114,Westpunt,Centipede,0
+888,Phylodactylus,MCB 1115,Westpunt,Centipede,0
+889,Phylodactylus,MCB 1117,Westpunt,Centipede,0
+890,Phylodactylus,MCB 1118,Westpunt,Centipede,0
+963,Phylodactylus,12513,Westpunt,Isopod,0
+964,Phylodactylus,12514,Westpunt,Isopod,0
+965,Phylodactylus,12515,Westpunt,Isopod,0
+966,Phylodactylus,12516,Westpunt,Isopod,0
+967,Phylodactylus,12517,Westpunt,Isopod,0
+968,Phylodactylus,12518,Westpunt,Isopod,0
+969,Phylodactylus,12520,Westpunt,Isopod,0
+970,Phylodactylus,12521,Westpunt,Isopod,0
+971,Phylodactylus,12522,Westpunt,Isopod,0.333333333
+972,Phylodactylus,12524,Westpunt,Isopod,0
+973,Phylodactylus,12525,Westpunt,Isopod,0
+975,Phylodactylus,12541,Westpunt,Isopod,0
+976,Phylodactylus,12543,Westpunt,Isopod,0
+977,Phylodactylus,12544,Westpunt,Isopod,0
+978,Phylodactylus,12547,Westpunt,Isopod,0
+979,Phylodactylus,12551,Westpunt,Isopod,0
+984,Phylodactylus,12582,Westpunt,Isopod,0
+985,Phylodactylus,12583,Westpunt,Isopod,0
+986,Phylodactylus,12584,Westpunt,Isopod,0
+987,Phylodactylus,12615,Westpunt,Isopod,0
+988,Phylodactylus,12618,Westpunt,Isopod,0
+989,Phylodactylus,12621,Westpunt,Isopod,0
+990,Phylodactylus,12622,Westpunt,Isopod,0
+991,Phylodactylus,12623,Westpunt,Isopod,0
+995,Phylodactylus,12636,Westpunt,Isopod,0
+996,Phylodactylus,12637,Westpunt,Isopod,0
+997,Phylodactylus,12638,Westpunt,Isopod,0.333333333
+998,Phylodactylus,12639,Westpunt,Isopod,0
+999,Phylodactylus,12640,Westpunt,Isopod,0
+1002,Phylodactylus,MCB 1098,Westpunt,Isopod,0
+1003,Phylodactylus,MCB 1099,Westpunt,Isopod,0
+1004,Phylodactylus,MCB 1100,Westpunt,Isopod,0
+1005,Phylodactylus,MCB 1101,Westpunt,Isopod,0
+1006,Phylodactylus,MCB 1102,Westpunt,Isopod,0
+1007,Phylodactylus,MCB 1103,Westpunt,Isopod,0
+1008,Phylodactylus,MCB 1104,Westpunt,Isopod,0
+1009,Phylodactylus,MCB 1105,Westpunt,Isopod,0
+1010,Phylodactylus,MCB 1106,Westpunt,Isopod,0
+1011,Phylodactylus,MCB 1107,Westpunt,Isopod,0
+1012,Phylodactylus,MCB 1108,Westpunt,Isopod,0
+1013,Phylodactylus,MCB 1109,Westpunt,Isopod,0
+1014,Phylodactylus,MCB 1110,Westpunt,Isopod,0
+1015,Phylodactylus,MCB 1111,Westpunt,Isopod,0
+1016,Phylodactylus,MCB 1112,Westpunt,Isopod,0
+1017,Phylodactylus,MCB 1113,Westpunt,Isopod,0
+1018,Phylodactylus,MCB 1114,Westpunt,Isopod,0
+1019,Phylodactylus,MCB 1115,Westpunt,Isopod,0
+1020,Phylodactylus,MCB 1117,Westpunt,Isopod,0
+1021,Phylodactylus,MCB 1118,Westpunt,Isopod,0
+1094,Phylodactylus,12513,Westpunt,Hemiptera,0
+1095,Phylodactylus,12514,Westpunt,Hemiptera,0
+1096,Phylodactylus,12515,Westpunt,Hemiptera,0
+1097,Phylodactylus,12516,Westpunt,Hemiptera,0
+1098,Phylodactylus,12517,Westpunt,Hemiptera,0
+1099,Phylodactylus,12518,Westpunt,Hemiptera,0
+1100,Phylodactylus,12520,Westpunt,Hemiptera,0
+1101,Phylodactylus,12521,Westpunt,Hemiptera,0
+1102,Phylodactylus,12522,Westpunt,Hemiptera,0
+1103,Phylodactylus,12524,Westpunt,Hemiptera,0
+1104,Phylodactylus,12525,Westpunt,Hemiptera,0.5
+1106,Phylodactylus,12541,Westpunt,Hemiptera,0
+1107,Phylodactylus,12543,Westpunt,Hemiptera,0
+1108,Phylodactylus,12544,Westpunt,Hemiptera,0
+1109,Phylodactylus,12547,Westpunt,Hemiptera,0
+1110,Phylodactylus,12551,Westpunt,Hemiptera,0
+1115,Phylodactylus,12582,Westpunt,Hemiptera,0
+1116,Phylodactylus,12583,Westpunt,Hemiptera,0
+1117,Phylodactylus,12584,Westpunt,Hemiptera,0
+1118,Phylodactylus,12615,Westpunt,Hemiptera,0
+1119,Phylodactylus,12618,Westpunt,Hemiptera,0
+1120,Phylodactylus,12621,Westpunt,Hemiptera,0
+1121,Phylodactylus,12622,Westpunt,Hemiptera,0
+1122,Phylodactylus,12623,Westpunt,Hemiptera,0
+1126,Phylodactylus,12636,Westpunt,Hemiptera,0
+1127,Phylodactylus,12637,Westpunt,Hemiptera,0
+1128,Phylodactylus,12638,Westpunt,Hemiptera,0
+1129,Phylodactylus,12639,Westpunt,Hemiptera,0
+1130,Phylodactylus,12640,Westpunt,Hemiptera,0
+1133,Phylodactylus,MCB 1098,Westpunt,Hemiptera,0.166666667
+1134,Phylodactylus,MCB 1099,Westpunt,Hemiptera,0
+1135,Phylodactylus,MCB 1100,Westpunt,Hemiptera,0
+1136,Phylodactylus,MCB 1101,Westpunt,Hemiptera,0
+1137,Phylodactylus,MCB 1102,Westpunt,Hemiptera,0
+1138,Phylodactylus,MCB 1103,Westpunt,Hemiptera,0
+1139,Phylodactylus,MCB 1104,Westpunt,Hemiptera,0
+1140,Phylodactylus,MCB 1105,Westpunt,Hemiptera,0
+1141,Phylodactylus,MCB 1106,Westpunt,Hemiptera,0
+1142,Phylodactylus,MCB 1107,Westpunt,Hemiptera,0
+1143,Phylodactylus,MCB 1108,Westpunt,Hemiptera,0
+1144,Phylodactylus,MCB 1109,Westpunt,Hemiptera,0
+1145,Phylodactylus,MCB 1110,Westpunt,Hemiptera,0
+1146,Phylodactylus,MCB 1111,Westpunt,Hemiptera,0
+1147,Phylodactylus,MCB 1112,Westpunt,Hemiptera,0
+1148,Phylodactylus,MCB 1113,Westpunt,Hemiptera,0
+1149,Phylodactylus,MCB 1114,Westpunt,Hemiptera,0
+1150,Phylodactylus,MCB 1115,Westpunt,Hemiptera,0
+1151,Phylodactylus,MCB 1117,Westpunt,Hemiptera,0
+1152,Phylodactylus,MCB 1118,Westpunt,Hemiptera,0
+1225,Phylodactylus,12513,Westpunt,Hymenoptera,0
+1226,Phylodactylus,12514,Westpunt,Hymenoptera,0
+1227,Phylodactylus,12515,Westpunt,Hymenoptera,0
+1228,Phylodactylus,12516,Westpunt,Hymenoptera,0
+1229,Phylodactylus,12517,Westpunt,Hymenoptera,0
+1230,Phylodactylus,12518,Westpunt,Hymenoptera,0
+1231,Phylodactylus,12520,Westpunt,Hymenoptera,0
+1232,Phylodactylus,12521,Westpunt,Hymenoptera,0
+1233,Phylodactylus,12522,Westpunt,Hymenoptera,0
+1234,Phylodactylus,12524,Westpunt,Hymenoptera,0
+1235,Phylodactylus,12525,Westpunt,Hymenoptera,0
+1237,Phylodactylus,12541,Westpunt,Hymenoptera,0
+1238,Phylodactylus,12543,Westpunt,Hymenoptera,0
+1239,Phylodactylus,12544,Westpunt,Hymenoptera,1
+1240,Phylodactylus,12547,Westpunt,Hymenoptera,0
+1241,Phylodactylus,12551,Westpunt,Hymenoptera,0
+1246,Phylodactylus,12582,Westpunt,Hymenoptera,0
+1247,Phylodactylus,12583,Westpunt,Hymenoptera,0
+1248,Phylodactylus,12584,Westpunt,Hymenoptera,0
+1249,Phylodactylus,12615,Westpunt,Hymenoptera,0
+1250,Phylodactylus,12618,Westpunt,Hymenoptera,0
+1251,Phylodactylus,12621,Westpunt,Hymenoptera,0
+1252,Phylodactylus,12622,Westpunt,Hymenoptera,0
+1253,Phylodactylus,12623,Westpunt,Hymenoptera,0
+1257,Phylodactylus,12636,Westpunt,Hymenoptera,0
+1258,Phylodactylus,12637,Westpunt,Hymenoptera,0
+1259,Phylodactylus,12638,Westpunt,Hymenoptera,0.333333333
+1260,Phylodactylus,12639,Westpunt,Hymenoptera,0
+1261,Phylodactylus,12640,Westpunt,Hymenoptera,0
+1264,Phylodactylus,MCB 1098,Westpunt,Hymenoptera,0
+1265,Phylodactylus,MCB 1099,Westpunt,Hymenoptera,0.5
+1266,Phylodactylus,MCB 1100,Westpunt,Hymenoptera,0
+1267,Phylodactylus,MCB 1101,Westpunt,Hymenoptera,0
+1268,Phylodactylus,MCB 1102,Westpunt,Hymenoptera,0.5
+1269,Phylodactylus,MCB 1103,Westpunt,Hymenoptera,0
+1270,Phylodactylus,MCB 1104,Westpunt,Hymenoptera,0
+1271,Phylodactylus,MCB 1105,Westpunt,Hymenoptera,0
+1272,Phylodactylus,MCB 1106,Westpunt,Hymenoptera,0.5
+1273,Phylodactylus,MCB 1107,Westpunt,Hymenoptera,0
+1274,Phylodactylus,MCB 1108,Westpunt,Hymenoptera,0
+1275,Phylodactylus,MCB 1109,Westpunt,Hymenoptera,0
+1276,Phylodactylus,MCB 1110,Westpunt,Hymenoptera,0
+1277,Phylodactylus,MCB 1111,Westpunt,Hymenoptera,0
+1278,Phylodactylus,MCB 1112,Westpunt,Hymenoptera,0
+1279,Phylodactylus,MCB 1113,Westpunt,Hymenoptera,0
+1280,Phylodactylus,MCB 1114,Westpunt,Hymenoptera,0
+1281,Phylodactylus,MCB 1115,Westpunt,Hymenoptera,0
+1282,Phylodactylus,MCB 1117,Westpunt,Hymenoptera,0
+1283,Phylodactylus,MCB 1118,Westpunt,Hymenoptera,0
+1356,Phylodactylus,12513,Westpunt,Orthoptera,0
+1357,Phylodactylus,12514,Westpunt,Orthoptera,0
+1358,Phylodactylus,12515,Westpunt,Orthoptera,0
+1359,Phylodactylus,12516,Westpunt,Orthoptera,0
+1360,Phylodactylus,12517,Westpunt,Orthoptera,0
+1361,Phylodactylus,12518,Westpunt,Orthoptera,0
+1362,Phylodactylus,12520,Westpunt,Orthoptera,0
+1363,Phylodactylus,12521,Westpunt,Orthoptera,0
+1364,Phylodactylus,12522,Westpunt,Orthoptera,0
+1365,Phylodactylus,12524,Westpunt,Orthoptera,0
+1366,Phylodactylus,12525,Westpunt,Orthoptera,0
+1368,Phylodactylus,12541,Westpunt,Orthoptera,0
+1369,Phylodactylus,12543,Westpunt,Orthoptera,0
+1370,Phylodactylus,12544,Westpunt,Orthoptera,0
+1371,Phylodactylus,12547,Westpunt,Orthoptera,0
+1372,Phylodactylus,12551,Westpunt,Orthoptera,0
+1377,Phylodactylus,12582,Westpunt,Orthoptera,0
+1378,Phylodactylus,12583,Westpunt,Orthoptera,0
+1379,Phylodactylus,12584,Westpunt,Orthoptera,0
+1380,Phylodactylus,12615,Westpunt,Orthoptera,0
+1381,Phylodactylus,12618,Westpunt,Orthoptera,0
+1382,Phylodactylus,12621,Westpunt,Orthoptera,0
+1383,Phylodactylus,12622,Westpunt,Orthoptera,0
+1384,Phylodactylus,12623,Westpunt,Orthoptera,0
+1388,Phylodactylus,12636,Westpunt,Orthoptera,0
+1389,Phylodactylus,12637,Westpunt,Orthoptera,0.333333333
+1390,Phylodactylus,12638,Westpunt,Orthoptera,0
+1391,Phylodactylus,12639,Westpunt,Orthoptera,0
+1392,Phylodactylus,12640,Westpunt,Orthoptera,0
+1395,Phylodactylus,MCB 1098,Westpunt,Orthoptera,0
+1396,Phylodactylus,MCB 1099,Westpunt,Orthoptera,0
+1397,Phylodactylus,MCB 1100,Westpunt,Orthoptera,0
+1398,Phylodactylus,MCB 1101,Westpunt,Orthoptera,0
+1399,Phylodactylus,MCB 1102,Westpunt,Orthoptera,0.5
+1400,Phylodactylus,MCB 1103,Westpunt,Orthoptera,0
+1401,Phylodactylus,MCB 1104,Westpunt,Orthoptera,0
+1402,Phylodactylus,MCB 1105,Westpunt,Orthoptera,0
+1403,Phylodactylus,MCB 1106,Westpunt,Orthoptera,0
+1404,Phylodactylus,MCB 1107,Westpunt,Orthoptera,0
+1405,Phylodactylus,MCB 1108,Westpunt,Orthoptera,0
+1406,Phylodactylus,MCB 1109,Westpunt,Orthoptera,0
+1407,Phylodactylus,MCB 1110,Westpunt,Orthoptera,0
+1408,Phylodactylus,MCB 1111,Westpunt,Orthoptera,0
+1409,Phylodactylus,MCB 1112,Westpunt,Orthoptera,0
+1410,Phylodactylus,MCB 1113,Westpunt,Orthoptera,0
+1411,Phylodactylus,MCB 1114,Westpunt,Orthoptera,0
+1412,Phylodactylus,MCB 1115,Westpunt,Orthoptera,0
+1413,Phylodactylus,MCB 1117,Westpunt,Orthoptera,0
+1414,Phylodactylus,MCB 1118,Westpunt,Orthoptera,0
+1487,Phylodactylus,12513,Westpunt,Ephermeroptera,0
+1488,Phylodactylus,12514,Westpunt,Ephermeroptera,0
+1489,Phylodactylus,12515,Westpunt,Ephermeroptera,0
+1490,Phylodactylus,12516,Westpunt,Ephermeroptera,0
+1491,Phylodactylus,12517,Westpunt,Ephermeroptera,0
+1492,Phylodactylus,12518,Westpunt,Ephermeroptera,0
+1493,Phylodactylus,12520,Westpunt,Ephermeroptera,0
+1494,Phylodactylus,12521,Westpunt,Ephermeroptera,0
+1495,Phylodactylus,12522,Westpunt,Ephermeroptera,0
+1496,Phylodactylus,12524,Westpunt,Ephermeroptera,0
+1497,Phylodactylus,12525,Westpunt,Ephermeroptera,0
+1499,Phylodactylus,12541,Westpunt,Ephermeroptera,0
+1500,Phylodactylus,12543,Westpunt,Ephermeroptera,0
+1501,Phylodactylus,12544,Westpunt,Ephermeroptera,0
+1502,Phylodactylus,12547,Westpunt,Ephermeroptera,0
+1503,Phylodactylus,12551,Westpunt,Ephermeroptera,0
+1508,Phylodactylus,12582,Westpunt,Ephermeroptera,0
+1509,Phylodactylus,12583,Westpunt,Ephermeroptera,0
+1510,Phylodactylus,12584,Westpunt,Ephermeroptera,0
+1511,Phylodactylus,12615,Westpunt,Ephermeroptera,0
+1512,Phylodactylus,12618,Westpunt,Ephermeroptera,0
+1513,Phylodactylus,12621,Westpunt,Ephermeroptera,0
+1514,Phylodactylus,12622,Westpunt,Ephermeroptera,0
+1515,Phylodactylus,12623,Westpunt,Ephermeroptera,0
+1519,Phylodactylus,12636,Westpunt,Ephermeroptera,0
+1520,Phylodactylus,12637,Westpunt,Ephermeroptera,0
+1521,Phylodactylus,12638,Westpunt,Ephermeroptera,0.333333333
+1522,Phylodactylus,12639,Westpunt,Ephermeroptera,0
+1523,Phylodactylus,12640,Westpunt,Ephermeroptera,0
+1526,Phylodactylus,MCB 1098,Westpunt,Ephermeroptera,0
+1527,Phylodactylus,MCB 1099,Westpunt,Ephermeroptera,0
+1528,Phylodactylus,MCB 1100,Westpunt,Ephermeroptera,0
+1529,Phylodactylus,MCB 1101,Westpunt,Ephermeroptera,0
+1530,Phylodactylus,MCB 1102,Westpunt,Ephermeroptera,0
+1531,Phylodactylus,MCB 1103,Westpunt,Ephermeroptera,0
+1532,Phylodactylus,MCB 1104,Westpunt,Ephermeroptera,0
+1533,Phylodactylus,MCB 1105,Westpunt,Ephermeroptera,0
+1534,Phylodactylus,MCB 1106,Westpunt,Ephermeroptera,0
+1535,Phylodactylus,MCB 1107,Westpunt,Ephermeroptera,0
+1536,Phylodactylus,MCB 1108,Westpunt,Ephermeroptera,0
+1537,Phylodactylus,MCB 1109,Westpunt,Ephermeroptera,0
+1538,Phylodactylus,MCB 1110,Westpunt,Ephermeroptera,0
+1539,Phylodactylus,MCB 1111,Westpunt,Ephermeroptera,0
+1540,Phylodactylus,MCB 1112,Westpunt,Ephermeroptera,0
+1541,Phylodactylus,MCB 1113,Westpunt,Ephermeroptera,0
+1542,Phylodactylus,MCB 1114,Westpunt,Ephermeroptera,0
+1543,Phylodactylus,MCB 1115,Westpunt,Ephermeroptera,0
+1544,Phylodactylus,MCB 1117,Westpunt,Ephermeroptera,0
+1545,Phylodactylus,MCB 1118,Westpunt,Ephermeroptera,0
+1618,Phylodactylus,12513,Westpunt,Gecko_skin,0
+1619,Phylodactylus,12514,Westpunt,Gecko_skin,0
+1620,Phylodactylus,12515,Westpunt,Gecko_skin,0
+1621,Phylodactylus,12516,Westpunt,Gecko_skin,0
+1622,Phylodactylus,12517,Westpunt,Gecko_skin,0
+1623,Phylodactylus,12518,Westpunt,Gecko_skin,0
+1624,Phylodactylus,12520,Westpunt,Gecko_skin,0
+1625,Phylodactylus,12521,Westpunt,Gecko_skin,0
+1626,Phylodactylus,12522,Westpunt,Gecko_skin,0
+1627,Phylodactylus,12524,Westpunt,Gecko_skin,0
+1628,Phylodactylus,12525,Westpunt,Gecko_skin,0
+1630,Phylodactylus,12541,Westpunt,Gecko_skin,0
+1631,Phylodactylus,12543,Westpunt,Gecko_skin,0
+1632,Phylodactylus,12544,Westpunt,Gecko_skin,0
+1633,Phylodactylus,12547,Westpunt,Gecko_skin,0
+1634,Phylodactylus,12551,Westpunt,Gecko_skin,0
+1639,Phylodactylus,12582,Westpunt,Gecko_skin,0
+1640,Phylodactylus,12583,Westpunt,Gecko_skin,0
+1641,Phylodactylus,12584,Westpunt,Gecko_skin,0
+1642,Phylodactylus,12615,Westpunt,Gecko_skin,0
+1643,Phylodactylus,12618,Westpunt,Gecko_skin,0
+1644,Phylodactylus,12621,Westpunt,Gecko_skin,0
+1645,Phylodactylus,12622,Westpunt,Gecko_skin,0
+1646,Phylodactylus,12623,Westpunt,Gecko_skin,0
+1650,Phylodactylus,12636,Westpunt,Gecko_skin,0
+1651,Phylodactylus,12637,Westpunt,Gecko_skin,0
+1652,Phylodactylus,12638,Westpunt,Gecko_skin,0
+1653,Phylodactylus,12639,Westpunt,Gecko_skin,0
+1654,Phylodactylus,12640,Westpunt,Gecko_skin,0
+1657,Phylodactylus,MCB 1098,Westpunt,Gecko_skin,0
+1658,Phylodactylus,MCB 1099,Westpunt,Gecko_skin,0
+1659,Phylodactylus,MCB 1100,Westpunt,Gecko_skin,0
+1660,Phylodactylus,MCB 1101,Westpunt,Gecko_skin,0
+1661,Phylodactylus,MCB 1102,Westpunt,Gecko_skin,0
+1662,Phylodactylus,MCB 1103,Westpunt,Gecko_skin,0
+1663,Phylodactylus,MCB 1104,Westpunt,Gecko_skin,0
+1664,Phylodactylus,MCB 1105,Westpunt,Gecko_skin,0
+1665,Phylodactylus,MCB 1106,Westpunt,Gecko_skin,0
+1666,Phylodactylus,MCB 1107,Westpunt,Gecko_skin,0
+1667,Phylodactylus,MCB 1108,Westpunt,Gecko_skin,0
+1668,Phylodactylus,MCB 1109,Westpunt,Gecko_skin,0
+1669,Phylodactylus,MCB 1110,Westpunt,Gecko_skin,0
+1670,Phylodactylus,MCB 1111,Westpunt,Gecko_skin,0
+1671,Phylodactylus,MCB 1112,Westpunt,Gecko_skin,0
+1672,Phylodactylus,MCB 1113,Westpunt,Gecko_skin,0
+1673,Phylodactylus,MCB 1114,Westpunt,Gecko_skin,0
+1674,Phylodactylus,MCB 1115,Westpunt,Gecko_skin,0
+1675,Phylodactylus,MCB 1117,Westpunt,Gecko_skin,0
+1676,Phylodactylus,MCB 1118,Westpunt,Gecko_skin,0
+1749,Phylodactylus,12513,Westpunt,Blattaria,0
+1750,Phylodactylus,12514,Westpunt,Blattaria,0
+1751,Phylodactylus,12515,Westpunt,Blattaria,0
+1752,Phylodactylus,12516,Westpunt,Blattaria,0
+1753,Phylodactylus,12517,Westpunt,Blattaria,0
+1754,Phylodactylus,12518,Westpunt,Blattaria,0
+1755,Phylodactylus,12520,Westpunt,Blattaria,0
+1756,Phylodactylus,12521,Westpunt,Blattaria,0
+1757,Phylodactylus,12522,Westpunt,Blattaria,0
+1758,Phylodactylus,12524,Westpunt,Blattaria,0
+1759,Phylodactylus,12525,Westpunt,Blattaria,0
+1761,Phylodactylus,12541,Westpunt,Blattaria,0
+1762,Phylodactylus,12543,Westpunt,Blattaria,0
+1763,Phylodactylus,12544,Westpunt,Blattaria,0
+1764,Phylodactylus,12547,Westpunt,Blattaria,0
+1765,Phylodactylus,12551,Westpunt,Blattaria,0
+1770,Phylodactylus,12582,Westpunt,Blattaria,0
+1771,Phylodactylus,12583,Westpunt,Blattaria,0
+1772,Phylodactylus,12584,Westpunt,Blattaria,0
+1773,Phylodactylus,12615,Westpunt,Blattaria,0
+1774,Phylodactylus,12618,Westpunt,Blattaria,0
+1775,Phylodactylus,12621,Westpunt,Blattaria,0
+1776,Phylodactylus,12622,Westpunt,Blattaria,0
+1777,Phylodactylus,12623,Westpunt,Blattaria,0
+1781,Phylodactylus,12636,Westpunt,Blattaria,0
+1782,Phylodactylus,12637,Westpunt,Blattaria,0
+1783,Phylodactylus,12638,Westpunt,Blattaria,0
+1784,Phylodactylus,12639,Westpunt,Blattaria,0
+1785,Phylodactylus,12640,Westpunt,Blattaria,0
+1788,Phylodactylus,MCB 1098,Westpunt,Blattaria,0
+1789,Phylodactylus,MCB 1099,Westpunt,Blattaria,0
+1790,Phylodactylus,MCB 1100,Westpunt,Blattaria,0
+1791,Phylodactylus,MCB 1101,Westpunt,Blattaria,0
+1792,Phylodactylus,MCB 1102,Westpunt,Blattaria,0
+1793,Phylodactylus,MCB 1103,Westpunt,Blattaria,0
+1794,Phylodactylus,MCB 1104,Westpunt,Blattaria,0
+1795,Phylodactylus,MCB 1105,Westpunt,Blattaria,0
+1796,Phylodactylus,MCB 1106,Westpunt,Blattaria,0
+1797,Phylodactylus,MCB 1107,Westpunt,Blattaria,0
+1798,Phylodactylus,MCB 1108,Westpunt,Blattaria,0
+1799,Phylodactylus,MCB 1109,Westpunt,Blattaria,0
+1800,Phylodactylus,MCB 1110,Westpunt,Blattaria,0
+1801,Phylodactylus,MCB 1111,Westpunt,Blattaria,0
+1802,Phylodactylus,MCB 1112,Westpunt,Blattaria,0
+1803,Phylodactylus,MCB 1113,Westpunt,Blattaria,0
+1804,Phylodactylus,MCB 1114,Westpunt,Blattaria,0
+1805,Phylodactylus,MCB 1115,Westpunt,Blattaria,0
+1806,Phylodactylus,MCB 1117,Westpunt,Blattaria,0
+1807,Phylodactylus,MCB 1118,Westpunt,Blattaria,0
+1880,Phylodactylus,12513,Westpunt,Empty,0
+1881,Phylodactylus,12514,Westpunt,Empty,0
+1882,Phylodactylus,12515,Westpunt,Empty,0
+1883,Phylodactylus,12516,Westpunt,Empty,0
+1884,Phylodactylus,12517,Westpunt,Empty,0
+1885,Phylodactylus,12518,Westpunt,Empty,0
+1886,Phylodactylus,12520,Westpunt,Empty,0
+1887,Phylodactylus,12521,Westpunt,Empty,0
+1888,Phylodactylus,12522,Westpunt,Empty,0
+1889,Phylodactylus,12524,Westpunt,Empty,0
+1890,Phylodactylus,12525,Westpunt,Empty,0
+1892,Phylodactylus,12541,Westpunt,Empty,1
+1893,Phylodactylus,12543,Westpunt,Empty,0
+1894,Phylodactylus,12544,Westpunt,Empty,0
+1895,Phylodactylus,12547,Westpunt,Empty,1
+1896,Phylodactylus,12551,Westpunt,Empty,0
+1901,Phylodactylus,12582,Westpunt,Empty,0
+1902,Phylodactylus,12583,Westpunt,Empty,1
+1903,Phylodactylus,12584,Westpunt,Empty,0
+1904,Phylodactylus,12615,Westpunt,Empty,0
+1905,Phylodactylus,12618,Westpunt,Empty,1
+1906,Phylodactylus,12621,Westpunt,Empty,0
+1907,Phylodactylus,12622,Westpunt,Empty,0
+1908,Phylodactylus,12623,Westpunt,Empty,0
+1912,Phylodactylus,12636,Westpunt,Empty,0
+1913,Phylodactylus,12637,Westpunt,Empty,0
+1914,Phylodactylus,12638,Westpunt,Empty,0
+1915,Phylodactylus,12639,Westpunt,Empty,0
+1916,Phylodactylus,12640,Westpunt,Empty,0
+1919,Phylodactylus,MCB 1098,Westpunt,Empty,0
+1920,Phylodactylus,MCB 1099,Westpunt,Empty,0
+1921,Phylodactylus,MCB 1100,Westpunt,Empty,0
+1922,Phylodactylus,MCB 1101,Westpunt,Empty,0
+1923,Phylodactylus,MCB 1102,Westpunt,Empty,0
+1924,Phylodactylus,MCB 1103,Westpunt,Empty,0
+1925,Phylodactylus,MCB 1104,Westpunt,Empty,1
+1926,Phylodactylus,MCB 1105,Westpunt,Empty,0
+1927,Phylodactylus,MCB 1106,Westpunt,Empty,0
+1928,Phylodactylus,MCB 1107,Westpunt,Empty,0
+1929,Phylodactylus,MCB 1108,Westpunt,Empty,0
+1930,Phylodactylus,MCB 1109,Westpunt,Empty,0
+1931,Phylodactylus,MCB 1110,Westpunt,Empty,0
+1932,Phylodactylus,MCB 1111,Westpunt,Empty,0
+1933,Phylodactylus,MCB 1112,Westpunt,Empty,0
+1934,Phylodactylus,MCB 1113,Westpunt,Empty,0
+1935,Phylodactylus,MCB 1114,Westpunt,Empty,0
+1936,Phylodactylus,MCB 1115,Westpunt,Empty,0
+1937,Phylodactylus,MCB 1117,Westpunt,Empty,1
+1938,Phylodactylus,MCB 1118,Westpunt,Empty,0
+2011,Phylodactylus,12513,Westpunt,Ramphotyphlops,0
+2012,Phylodactylus,12514,Westpunt,Ramphotyphlops,0
+2013,Phylodactylus,12515,Westpunt,Ramphotyphlops,0
+2014,Phylodactylus,12516,Westpunt,Ramphotyphlops,0
+2015,Phylodactylus,12517,Westpunt,Ramphotyphlops,0
+2016,Phylodactylus,12518,Westpunt,Ramphotyphlops,0
+2017,Phylodactylus,12520,Westpunt,Ramphotyphlops,0
+2018,Phylodactylus,12521,Westpunt,Ramphotyphlops,0
+2019,Phylodactylus,12522,Westpunt,Ramphotyphlops,0
+2020,Phylodactylus,12524,Westpunt,Ramphotyphlops,0
+2021,Phylodactylus,12525,Westpunt,Ramphotyphlops,0
+2023,Phylodactylus,12541,Westpunt,Ramphotyphlops,0
+2024,Phylodactylus,12543,Westpunt,Ramphotyphlops,0
+2025,Phylodactylus,12544,Westpunt,Ramphotyphlops,0
+2026,Phylodactylus,12547,Westpunt,Ramphotyphlops,0
+2027,Phylodactylus,12551,Westpunt,Ramphotyphlops,0
+2032,Phylodactylus,12582,Westpunt,Ramphotyphlops,0
+2033,Phylodactylus,12583,Westpunt,Ramphotyphlops,0
+2034,Phylodactylus,12584,Westpunt,Ramphotyphlops,0
+2035,Phylodactylus,12615,Westpunt,Ramphotyphlops,0
+2036,Phylodactylus,12618,Westpunt,Ramphotyphlops,0
+2037,Phylodactylus,12621,Westpunt,Ramphotyphlops,0
+2038,Phylodactylus,12622,Westpunt,Ramphotyphlops,0
+2039,Phylodactylus,12623,Westpunt,Ramphotyphlops,0
+2043,Phylodactylus,12636,Westpunt,Ramphotyphlops,0
+2044,Phylodactylus,12637,Westpunt,Ramphotyphlops,0
+2045,Phylodactylus,12638,Westpunt,Ramphotyphlops,0
+2046,Phylodactylus,12639,Westpunt,Ramphotyphlops,0
+2047,Phylodactylus,12640,Westpunt,Ramphotyphlops,0
+2050,Phylodactylus,MCB 1098,Westpunt,Ramphotyphlops,0
+2051,Phylodactylus,MCB 1099,Westpunt,Ramphotyphlops,0
+2052,Phylodactylus,MCB 1100,Westpunt,Ramphotyphlops,0
+2053,Phylodactylus,MCB 1101,Westpunt,Ramphotyphlops,0
+2054,Phylodactylus,MCB 1102,Westpunt,Ramphotyphlops,0
+2055,Phylodactylus,MCB 1103,Westpunt,Ramphotyphlops,0
+2056,Phylodactylus,MCB 1104,Westpunt,Ramphotyphlops,0
+2057,Phylodactylus,MCB 1105,Westpunt,Ramphotyphlops,0
+2058,Phylodactylus,MCB 1106,Westpunt,Ramphotyphlops,0
+2059,Phylodactylus,MCB 1107,Westpunt,Ramphotyphlops,0
+2060,Phylodactylus,MCB 1108,Westpunt,Ramphotyphlops,0
+2061,Phylodactylus,MCB 1109,Westpunt,Ramphotyphlops,0
+2062,Phylodactylus,MCB 1110,Westpunt,Ramphotyphlops,0
+2063,Phylodactylus,MCB 1111,Westpunt,Ramphotyphlops,0
+2064,Phylodactylus,MCB 1112,Westpunt,Ramphotyphlops,0
+2065,Phylodactylus,MCB 1113,Westpunt,Ramphotyphlops,0
+2066,Phylodactylus,MCB 1114,Westpunt,Ramphotyphlops,0
+2067,Phylodactylus,MCB 1115,Westpunt,Ramphotyphlops,0
+2068,Phylodactylus,MCB 1117,Westpunt,Ramphotyphlops,0
+2069,Phylodactylus,MCB 1118,Westpunt,Ramphotyphlops,0
+2142,Phylodactylus,12513,Westpunt,Gonatodes.antillensis,0
+2143,Phylodactylus,12514,Westpunt,Gonatodes.antillensis,0
+2144,Phylodactylus,12515,Westpunt,Gonatodes.antillensis,0
+2145,Phylodactylus,12516,Westpunt,Gonatodes.antillensis,0
+2146,Phylodactylus,12517,Westpunt,Gonatodes.antillensis,0
+2147,Phylodactylus,12518,Westpunt,Gonatodes.antillensis,0
+2148,Phylodactylus,12520,Westpunt,Gonatodes.antillensis,0
+2149,Phylodactylus,12521,Westpunt,Gonatodes.antillensis,0
+2150,Phylodactylus,12522,Westpunt,Gonatodes.antillensis,0
+2151,Phylodactylus,12524,Westpunt,Gonatodes.antillensis,0
+2152,Phylodactylus,12525,Westpunt,Gonatodes.antillensis,0
+2154,Phylodactylus,12541,Westpunt,Gonatodes.antillensis,0
+2155,Phylodactylus,12543,Westpunt,Gonatodes.antillensis,0
+2156,Phylodactylus,12544,Westpunt,Gonatodes.antillensis,0
+2157,Phylodactylus,12547,Westpunt,Gonatodes.antillensis,0
+2158,Phylodactylus,12551,Westpunt,Gonatodes.antillensis,0
+2163,Phylodactylus,12582,Westpunt,Gonatodes.antillensis,0
+2164,Phylodactylus,12583,Westpunt,Gonatodes.antillensis,0
+2165,Phylodactylus,12584,Westpunt,Gonatodes.antillensis,0
+2166,Phylodactylus,12615,Westpunt,Gonatodes.antillensis,0
+2167,Phylodactylus,12618,Westpunt,Gonatodes.antillensis,0
+2168,Phylodactylus,12621,Westpunt,Gonatodes.antillensis,0
+2169,Phylodactylus,12622,Westpunt,Gonatodes.antillensis,0
+2170,Phylodactylus,12623,Westpunt,Gonatodes.antillensis,0
+2174,Phylodactylus,12636,Westpunt,Gonatodes.antillensis,0
+2175,Phylodactylus,12637,Westpunt,Gonatodes.antillensis,0
+2176,Phylodactylus,12638,Westpunt,Gonatodes.antillensis,0
+2177,Phylodactylus,12639,Westpunt,Gonatodes.antillensis,0
+2178,Phylodactylus,12640,Westpunt,Gonatodes.antillensis,0
+2181,Phylodactylus,MCB 1098,Westpunt,Gonatodes.antillensis,0
+2182,Phylodactylus,MCB 1099,Westpunt,Gonatodes.antillensis,0
+2183,Phylodactylus,MCB 1100,Westpunt,Gonatodes.antillensis,0
+2184,Phylodactylus,MCB 1101,Westpunt,Gonatodes.antillensis,0
+2185,Phylodactylus,MCB 1102,Westpunt,Gonatodes.antillensis,0
+2186,Phylodactylus,MCB 1103,Westpunt,Gonatodes.antillensis,0
+2187,Phylodactylus,MCB 1104,Westpunt,Gonatodes.antillensis,0
+2188,Phylodactylus,MCB 1105,Westpunt,Gonatodes.antillensis,0
+2189,Phylodactylus,MCB 1106,Westpunt,Gonatodes.antillensis,0
+2190,Phylodactylus,MCB 1107,Westpunt,Gonatodes.antillensis,0
+2191,Phylodactylus,MCB 1108,Westpunt,Gonatodes.antillensis,0
+2192,Phylodactylus,MCB 1109,Westpunt,Gonatodes.antillensis,0
+2193,Phylodactylus,MCB 1110,Westpunt,Gonatodes.antillensis,0
+2194,Phylodactylus,MCB 1111,Westpunt,Gonatodes.antillensis,0
+2195,Phylodactylus,MCB 1112,Westpunt,Gonatodes.antillensis,0
+2196,Phylodactylus,MCB 1113,Westpunt,Gonatodes.antillensis,0
+2197,Phylodactylus,MCB 1114,Westpunt,Gonatodes.antillensis,0
+2198,Phylodactylus,MCB 1115,Westpunt,Gonatodes.antillensis,0
+2199,Phylodactylus,MCB 1117,Westpunt,Gonatodes.antillensis,0
+2200,Phylodactylus,MCB 1118,Westpunt,Gonatodes.antillensis,0
+2273,Phylodactylus,12513,Westpunt,Phylodactylus,0
+2274,Phylodactylus,12514,Westpunt,Phylodactylus,0
+2275,Phylodactylus,12515,Westpunt,Phylodactylus,0
+2276,Phylodactylus,12516,Westpunt,Phylodactylus,0
+2277,Phylodactylus,12517,Westpunt,Phylodactylus,0
+2278,Phylodactylus,12518,Westpunt,Phylodactylus,0
+2279,Phylodactylus,12520,Westpunt,Phylodactylus,0
+2280,Phylodactylus,12521,Westpunt,Phylodactylus,0
+2281,Phylodactylus,12522,Westpunt,Phylodactylus,0
+2282,Phylodactylus,12524,Westpunt,Phylodactylus,0
+2283,Phylodactylus,12525,Westpunt,Phylodactylus,0
+2285,Phylodactylus,12541,Westpunt,Phylodactylus,0
+2286,Phylodactylus,12543,Westpunt,Phylodactylus,0
+2287,Phylodactylus,12544,Westpunt,Phylodactylus,0
+2288,Phylodactylus,12547,Westpunt,Phylodactylus,0
+2289,Phylodactylus,12551,Westpunt,Phylodactylus,0
+2294,Phylodactylus,12582,Westpunt,Phylodactylus,0
+2295,Phylodactylus,12583,Westpunt,Phylodactylus,0
+2296,Phylodactylus,12584,Westpunt,Phylodactylus,0
+2297,Phylodactylus,12615,Westpunt,Phylodactylus,0
+2298,Phylodactylus,12618,Westpunt,Phylodactylus,0
+2299,Phylodactylus,12621,Westpunt,Phylodactylus,0
+2300,Phylodactylus,12622,Westpunt,Phylodactylus,0
+2301,Phylodactylus,12623,Westpunt,Phylodactylus,0
+2305,Phylodactylus,12636,Westpunt,Phylodactylus,0
+2306,Phylodactylus,12637,Westpunt,Phylodactylus,0
+2307,Phylodactylus,12638,Westpunt,Phylodactylus,0
+2308,Phylodactylus,12639,Westpunt,Phylodactylus,0
+2309,Phylodactylus,12640,Westpunt,Phylodactylus,0
+2312,Phylodactylus,MCB 1098,Westpunt,Phylodactylus,0
+2313,Phylodactylus,MCB 1099,Westpunt,Phylodactylus,0
+2314,Phylodactylus,MCB 1100,Westpunt,Phylodactylus,0
+2315,Phylodactylus,MCB 1101,Westpunt,Phylodactylus,0
+2316,Phylodactylus,MCB 1102,Westpunt,Phylodactylus,0
+2317,Phylodactylus,MCB 1103,Westpunt,Phylodactylus,0
+2318,Phylodactylus,MCB 1104,Westpunt,Phylodactylus,0
+2319,Phylodactylus,MCB 1105,Westpunt,Phylodactylus,0
+2320,Phylodactylus,MCB 1106,Westpunt,Phylodactylus,0
+2321,Phylodactylus,MCB 1107,Westpunt,Phylodactylus,0
+2322,Phylodactylus,MCB 1108,Westpunt,Phylodactylus,0
+2323,Phylodactylus,MCB 1109,Westpunt,Phylodactylus,0
+2324,Phylodactylus,MCB 1110,Westpunt,Phylodactylus,0
+2325,Phylodactylus,MCB 1111,Westpunt,Phylodactylus,0
+2326,Phylodactylus,MCB 1112,Westpunt,Phylodactylus,0
+2327,Phylodactylus,MCB 1113,Westpunt,Phylodactylus,0
+2328,Phylodactylus,MCB 1114,Westpunt,Phylodactylus,0
+2329,Phylodactylus,MCB 1115,Westpunt,Phylodactylus,0
+2330,Phylodactylus,MCB 1117,Westpunt,Phylodactylus,0
+2331,Phylodactylus,MCB 1118,Westpunt,Phylodactylus,0

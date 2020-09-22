@@ -1,0 +1,109 @@
+Species,Site,Site2,Sex,Catalog#,Specimen#,Diptera,Lepidoptera,Coleoptera,Archnid_scorp,Archnid_spider,Other,Nematodes,Centipede,Isopod,Hemiptera,Hymenoptera,Orthoptera,Ephermeroptera,Gecko_skin,Blattaria,Ramphotyphlops,Gonatodes_antillensis,Phyllodactylus_martini
+phyllodactylus,carmabi,Curacao,F,R18437,12673,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+phyllodactylus,carmabi,Curacao,M,R18435,12704,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+phyllodactylus,carmabi,Curacao,F,R18436,12706,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,lagun,Curacao,M,R18462,12678,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,lagun,Curacao,F,R18463,12679,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+phyllodactylus,lagun,Curacao,F,R18466,12689,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+phyllodactylus,lagun,Curacao,F,R18461,12697,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+phyllodactylus,lagun,Curacao,M,R18467,12709,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,lagun,Curacao,M,R18626,112710,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,M,R18342,12644,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,F,R18343,12645,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,M,R18344,12646,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,M,R18345,12647,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,F,R18346,12648,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,F,R18347,12649,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,F,R18348,12650,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,F,R18349,12651,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,F,R18629,112714,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,M,R18625,112715,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,F,R18624,112716,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,M,R18627,112717,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,F,R18628,112718,0,1,0,1,1,0,0,0,5,0,0,1,0,0,0,0,0,0
+phyllodactylus,shete,Curacao,na,na,112719,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18168,12513,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18169,12514,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18170,12515,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18171,12516,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18172,12517,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18173,12518,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18175,12520,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18176,12521,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18177,12522,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18179,12524,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18180,12525,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18183,12543,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18184,12544,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18165,12547,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18167,12551,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18185,12582,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18187,12584,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18616,12615,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18612,12618,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18617,12621,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18614,12622,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18645,12623,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18646,12636,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18622,12637,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18623,12638,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R18611,12639,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R18619,12640,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17585,MCB 1098,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17586,MCB 1099,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R17587,MCB 1100,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17588,MCB 1101,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R17589,MCB 1102,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R17590,MCB 1103,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R17592,MCB 1105,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17593,MCB 1106,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R17594,MCB 1107,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17595,MCB 1108,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R17596,MCB 1109,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R17597,MCB 1110,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17598,MCB 1111,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17599,MCB 1112,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17600,MCB 1113,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17601,MCB 1114,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,M,R17602,MCB 1115,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+phyllodactylus,westpunt,Curacao,F,R17607,MCB 1118,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,lagun,Curacao,M,na,12681,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+hemidactylus,lagun,Curacao,na,na,12690,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,lagun,Curacao,na,na,12691,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+hemidactylus,lagun,Curacao,na,na,12692,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,lagun,Curacao,na,na,12695,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+hemidactylus,lagun,Curacao,M,na,12696,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+hemidactylus,lagun,Curacao,na,na,12702,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,carmabi,Curacao,M,na,12703,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+hemidactylus,carmabi,Curacao,F,na,12705,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,lagun,Curacao,F,na,12708,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,lagun,Curacao,na,na,12712,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,willemstad,Curacao,M,na,12714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+hemidactylus,willemstad,Curacao,M,na,12715,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+hemidactylus,willemstad,Curacao,M,na,12716,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+hemidactylus,willemstad,Curacao,M,na,12718,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,na,12506,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,na,12507,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,na,12508,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,na,12510,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,na,12540,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,na,12552,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,na,12576,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+hemidactylus,marriot resort,Curacao,na,na,12591,0,1,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0
+hemidactylus,marriot resort,Curacao,na,na,12594,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+hemidactylus,carmabi,Curacao,na,na,12595,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,na,12596,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+hemidactylus,willemstad,Curacao,na,na,12598,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,M,na,12634,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,willemstad,Curacao,na,na,12669,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+hemidactylus,willemstad,Curacao,M,na,12671,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17557,na,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17564,na,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17565,na,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17566,na,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17568,na,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17569,na,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17570,na,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17571,na,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17573,na,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemidactylus,westpunt,Curacao,na,R17576,na,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

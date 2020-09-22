@@ -1,0 +1,132 @@
+Species,Specimen,Site,Diptera,Lepidoptera,Coleoptera,Archnid_scorp,Archnid_spider,Other,Centipede,Isopod,Hemiptera,Hymenoptera,Orthoptera,Ephermeroptera,Gecko_skin,Blattaria,Empty,Ramphotyphlops,Gonatodes antillensis,Phylodactylus
+Hemidactylus mabuoia,12595,Carmabi,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12673,Carmabi,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12703,Carmabi,0,0,0,0,0,0,0,0,0.5,0.5,0,0,0,0,0,0,0,0
+Phylodactylus,12704,Carmabi,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12705,Carmabi,0,0,0.5,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12706,Carmabi,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12678,Lagun,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12679,Lagun,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12681,Lagun,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0
+Phylodactylus,12689,Lagun,0,0,0,0,0.333333333,0,0,0,0,0,0.333333333,0,0.333333333,0,0,0,0,0
+Hemidactylus mabuoia,12690,Lagun,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12691,Lagun,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12692,Lagun,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12694,Lagun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12695,Lagun,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12696,Lagun,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Phylodactylus,12697,Lagun,0,0,0,0,0.5,0,0,0,0,0,0.5,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12702,Lagun,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12708,Lagun,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12709,Lagun,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12711,Lagun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12712,Lagun,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,112710,Lagun,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12591,Marriot Resort,0,0.2,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12592,Marriot Resort,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12594,Marriot Resort,0,0.5,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0
+Phylodactylus,12644,Shete,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12645,Shete,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12646,Shete,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12647,Shete,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12648,Shete,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12649,Shete,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12650,Shete,0,0,0,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0
+Phylodactylus,12651,Shete,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,112714,Shete,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,112715,Shete,0,0,0,0,0.333333333,0,0,0.333333333,0,0,0.333333333,0,0,0,0,0,0,0
+Phylodactylus,112716,Shete,0,0,0.5,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0
+Phylodactylus,112717,Shete,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Phylodactylus,112718,Shete,0,0.111111111,0,0.111111111,0.111111111,0,0,0.555555556,0,0,0.111111111,0,0,0,0,0,0,0
+Phylodactylus,112719,Shete,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12506,Westpunt,0.333333333,0,0,0,0.666666667,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12507,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12508,Westpunt,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12509,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Hemidactylus mabuoia,12510,Westpunt,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12513,Westpunt,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12514,Westpunt,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12515,Westpunt,0,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12516,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12517,Westpunt,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12518,Westpunt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12520,Westpunt,0,0,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12521,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12522,Westpunt,0.333333333,0,0,0,0,0,0.333333333,0.333333333,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12524,Westpunt,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12525,Westpunt,0,0.5,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12540,Westpunt,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12541,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Phylodactylus,12543,Westpunt,0,0,0.5,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12544,Westpunt,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Phylodactylus,12547,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Phylodactylus,12551,Westpunt,0.5,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12552,Westpunt,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12575,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12576,Westpunt,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12577,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Phylodactylus,12582,Westpunt,0.5,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12583,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Phylodactylus,12584,Westpunt,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12615,Westpunt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12618,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Phylodactylus,12621,Westpunt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12622,Westpunt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12623,Westpunt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12632,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12633,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12634,Westpunt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12636,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12637,Westpunt,0,0.333333333,0.333333333,0,0,0,0,0,0,0,0.333333333,0,0,0,0,0,0,0
+Phylodactylus,12638,Westpunt,0,0,0,0,0,0,0,0.333333333,0,0.333333333,0,0.333333333,0,0,0,0,0,0
+Phylodactylus,12639,Westpunt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,12640,Westpunt,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12674,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12676,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Phylodactylus,MCB 1098,Westpunt,0,0,0.833333333,0,0,0,0,0,0.166666667,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1099,Westpunt,0,0,0.5,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1100,Westpunt,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1101,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1102,Westpunt,0,0,0,0,0,0,0,0,0,0.5,0.5,0,0,0,0,0,0,0
+Phylodactylus,MCB 1103,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1104,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Phylodactylus,MCB 1105,Westpunt,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1106,Westpunt,0,0,0.5,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1107,Westpunt,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1108,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1109,Westpunt,0.5,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1110,Westpunt,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1111,Westpunt,0,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1112,Westpunt,0.5,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1113,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1114,Westpunt,0,0,0,0.666666667,0.333333333,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1115,Westpunt,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phylodactylus,MCB 1117,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Phylodactylus,MCB 1118,Westpunt,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a1,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a2,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,a3,Westpunt,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a4,Westpunt,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a5,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a6,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,a7,Westpunt,0,0,0.5,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0
+Hemidactylus mabuoia,a8,Westpunt,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a9,Westpunt,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a10,Westpunt,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a11,Westpunt,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a12,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Hemidactylus mabuoia,a13,Westpunt,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,a14,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,a15,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,a16,Westpunt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Hemidactylus mabuoia,12596,Willemstad,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12598,Willemstad,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12669,Willemstad,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12670,Willemstad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12671,Willemstad,0,0,0,0,0.5,0,0,0,0,0.5,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12672,Willemstad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12714,Willemstad,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Hemidactylus mabuoia,12715,Willemstad,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Hemidactylus mabuoia,12716,Willemstad,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Hemidactylus mabuoia,12717,Willemstad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemidactylus mabuoia,12718,Willemstad,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0

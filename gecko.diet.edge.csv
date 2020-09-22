@@ -1,0 +1,1855 @@
+"","Species","Specimen","Site","variable","value"
+"1","Hemidactylus mabuoia","12595","Carmabi","Diptera",0
+"2","Phylodactylus","12673","Carmabi","Diptera",0
+"3","Hemidactylus mabuoia","12703","Carmabi","Diptera",0
+"4","Phylodactylus","12704","Carmabi","Diptera",0
+"5","Hemidactylus mabuoia","12705","Carmabi","Diptera",0
+"6","Phylodactylus","12706","Carmabi","Diptera",0
+"132","Hemidactylus mabuoia","12595","Carmabi","Lepidoptera",0
+"133","Phylodactylus","12673","Carmabi","Lepidoptera",0
+"134","Hemidactylus mabuoia","12703","Carmabi","Lepidoptera",0
+"135","Phylodactylus","12704","Carmabi","Lepidoptera",0
+"136","Hemidactylus mabuoia","12705","Carmabi","Lepidoptera",0
+"137","Phylodactylus","12706","Carmabi","Lepidoptera",0
+"263","Hemidactylus mabuoia","12595","Carmabi","Coleoptera",0
+"264","Phylodactylus","12673","Carmabi","Coleoptera",0
+"265","Hemidactylus mabuoia","12703","Carmabi","Coleoptera",0
+"266","Phylodactylus","12704","Carmabi","Coleoptera",0
+"267","Hemidactylus mabuoia","12705","Carmabi","Coleoptera",0.5
+"268","Phylodactylus","12706","Carmabi","Coleoptera",0
+"394","Hemidactylus mabuoia","12595","Carmabi","Archnid_scorp",0
+"395","Phylodactylus","12673","Carmabi","Archnid_scorp",0
+"396","Hemidactylus mabuoia","12703","Carmabi","Archnid_scorp",0
+"397","Phylodactylus","12704","Carmabi","Archnid_scorp",0
+"398","Hemidactylus mabuoia","12705","Carmabi","Archnid_scorp",0
+"399","Phylodactylus","12706","Carmabi","Archnid_scorp",0
+"525","Hemidactylus mabuoia","12595","Carmabi","Archnid_spider",0
+"526","Phylodactylus","12673","Carmabi","Archnid_spider",0
+"527","Hemidactylus mabuoia","12703","Carmabi","Archnid_spider",0
+"528","Phylodactylus","12704","Carmabi","Archnid_spider",0
+"529","Hemidactylus mabuoia","12705","Carmabi","Archnid_spider",0.5
+"530","Phylodactylus","12706","Carmabi","Archnid_spider",0
+"656","Hemidactylus mabuoia","12595","Carmabi","Other",0
+"657","Phylodactylus","12673","Carmabi","Other",0
+"658","Hemidactylus mabuoia","12703","Carmabi","Other",0
+"659","Phylodactylus","12704","Carmabi","Other",0
+"660","Hemidactylus mabuoia","12705","Carmabi","Other",0
+"661","Phylodactylus","12706","Carmabi","Other",1
+"787","Hemidactylus mabuoia","12595","Carmabi","Centipede",0
+"788","Phylodactylus","12673","Carmabi","Centipede",0
+"789","Hemidactylus mabuoia","12703","Carmabi","Centipede",0
+"790","Phylodactylus","12704","Carmabi","Centipede",0
+"791","Hemidactylus mabuoia","12705","Carmabi","Centipede",0
+"792","Phylodactylus","12706","Carmabi","Centipede",0
+"918","Hemidactylus mabuoia","12595","Carmabi","Isopod",1
+"919","Phylodactylus","12673","Carmabi","Isopod",0
+"920","Hemidactylus mabuoia","12703","Carmabi","Isopod",0
+"921","Phylodactylus","12704","Carmabi","Isopod",0
+"922","Hemidactylus mabuoia","12705","Carmabi","Isopod",0
+"923","Phylodactylus","12706","Carmabi","Isopod",0
+"1049","Hemidactylus mabuoia","12595","Carmabi","Hemiptera",0
+"1050","Phylodactylus","12673","Carmabi","Hemiptera",0
+"1051","Hemidactylus mabuoia","12703","Carmabi","Hemiptera",0.5
+"1052","Phylodactylus","12704","Carmabi","Hemiptera",0
+"1053","Hemidactylus mabuoia","12705","Carmabi","Hemiptera",0
+"1054","Phylodactylus","12706","Carmabi","Hemiptera",0
+"1180","Hemidactylus mabuoia","12595","Carmabi","Hymenoptera",0
+"1181","Phylodactylus","12673","Carmabi","Hymenoptera",1
+"1182","Hemidactylus mabuoia","12703","Carmabi","Hymenoptera",0.5
+"1183","Phylodactylus","12704","Carmabi","Hymenoptera",1
+"1184","Hemidactylus mabuoia","12705","Carmabi","Hymenoptera",0
+"1185","Phylodactylus","12706","Carmabi","Hymenoptera",0
+"1311","Hemidactylus mabuoia","12595","Carmabi","Orthoptera",0
+"1312","Phylodactylus","12673","Carmabi","Orthoptera",0
+"1313","Hemidactylus mabuoia","12703","Carmabi","Orthoptera",0
+"1314","Phylodactylus","12704","Carmabi","Orthoptera",0
+"1315","Hemidactylus mabuoia","12705","Carmabi","Orthoptera",0
+"1316","Phylodactylus","12706","Carmabi","Orthoptera",0
+"1442","Hemidactylus mabuoia","12595","Carmabi","Ephermeroptera",0
+"1443","Phylodactylus","12673","Carmabi","Ephermeroptera",0
+"1444","Hemidactylus mabuoia","12703","Carmabi","Ephermeroptera",0
+"1445","Phylodactylus","12704","Carmabi","Ephermeroptera",0
+"1446","Hemidactylus mabuoia","12705","Carmabi","Ephermeroptera",0
+"1447","Phylodactylus","12706","Carmabi","Ephermeroptera",0
+"1573","Hemidactylus mabuoia","12595","Carmabi","Gecko_skin",0
+"1574","Phylodactylus","12673","Carmabi","Gecko_skin",0
+"1575","Hemidactylus mabuoia","12703","Carmabi","Gecko_skin",0
+"1576","Phylodactylus","12704","Carmabi","Gecko_skin",0
+"1577","Hemidactylus mabuoia","12705","Carmabi","Gecko_skin",0
+"1578","Phylodactylus","12706","Carmabi","Gecko_skin",0
+"1704","Hemidactylus mabuoia","12595","Carmabi","Blattaria",0
+"1705","Phylodactylus","12673","Carmabi","Blattaria",0
+"1706","Hemidactylus mabuoia","12703","Carmabi","Blattaria",0
+"1707","Phylodactylus","12704","Carmabi","Blattaria",0
+"1708","Hemidactylus mabuoia","12705","Carmabi","Blattaria",0
+"1709","Phylodactylus","12706","Carmabi","Blattaria",0
+"1835","Hemidactylus mabuoia","12595","Carmabi","Empty",0
+"1836","Phylodactylus","12673","Carmabi","Empty",0
+"1837","Hemidactylus mabuoia","12703","Carmabi","Empty",0
+"1838","Phylodactylus","12704","Carmabi","Empty",0
+"1839","Hemidactylus mabuoia","12705","Carmabi","Empty",0
+"1840","Phylodactylus","12706","Carmabi","Empty",0
+"1966","Hemidactylus mabuoia","12595","Carmabi","Ramphotyphlops",0
+"1967","Phylodactylus","12673","Carmabi","Ramphotyphlops",0
+"1968","Hemidactylus mabuoia","12703","Carmabi","Ramphotyphlops",0
+"1969","Phylodactylus","12704","Carmabi","Ramphotyphlops",0
+"1970","Hemidactylus mabuoia","12705","Carmabi","Ramphotyphlops",0
+"1971","Phylodactylus","12706","Carmabi","Ramphotyphlops",0
+"2097","Hemidactylus mabuoia","12595","Carmabi","Gonatodes.antillensis",0
+"2098","Phylodactylus","12673","Carmabi","Gonatodes.antillensis",0
+"2099","Hemidactylus mabuoia","12703","Carmabi","Gonatodes.antillensis",0
+"2100","Phylodactylus","12704","Carmabi","Gonatodes.antillensis",0
+"2101","Hemidactylus mabuoia","12705","Carmabi","Gonatodes.antillensis",0
+"2102","Phylodactylus","12706","Carmabi","Gonatodes.antillensis",0
+"2228","Hemidactylus mabuoia","12595","Carmabi","Phylodactylus",0
+"2229","Phylodactylus","12673","Carmabi","Phylodactylus",0
+"2230","Hemidactylus mabuoia","12703","Carmabi","Phylodactylus",0
+"2231","Phylodactylus","12704","Carmabi","Phylodactylus",0
+"2232","Hemidactylus mabuoia","12705","Carmabi","Phylodactylus",0
+"2233","Phylodactylus","12706","Carmabi","Phylodactylus",0
+"7","Phylodactylus","12678","Lagun","Diptera",0
+"8","Phylodactylus","12679","Lagun","Diptera",0
+"9","Hemidactylus mabuoia","12681","Lagun","Diptera",0
+"10","Phylodactylus","12689","Lagun","Diptera",0
+"11","Hemidactylus mabuoia","12690","Lagun","Diptera",0
+"12","Hemidactylus mabuoia","12691","Lagun","Diptera",0
+"13","Hemidactylus mabuoia","12692","Lagun","Diptera",0
+"14","Hemidactylus mabuoia","12694","Lagun","Diptera",0
+"15","Hemidactylus mabuoia","12695","Lagun","Diptera",0
+"16","Hemidactylus mabuoia","12696","Lagun","Diptera",0
+"17","Phylodactylus","12697","Lagun","Diptera",0
+"18","Hemidactylus mabuoia","12702","Lagun","Diptera",1
+"19","Hemidactylus mabuoia","12708","Lagun","Diptera",0
+"20","Phylodactylus","12709","Lagun","Diptera",0
+"21","Hemidactylus mabuoia","12711","Lagun","Diptera",0
+"22","Hemidactylus mabuoia","12712","Lagun","Diptera",0
+"23","Phylodactylus","112710","Lagun","Diptera",0
+"138","Phylodactylus","12678","Lagun","Lepidoptera",1
+"139","Phylodactylus","12679","Lagun","Lepidoptera",0
+"140","Hemidactylus mabuoia","12681","Lagun","Lepidoptera",0.5
+"141","Phylodactylus","12689","Lagun","Lepidoptera",0
+"142","Hemidactylus mabuoia","12690","Lagun","Lepidoptera",0
+"143","Hemidactylus mabuoia","12691","Lagun","Lepidoptera",0
+"144","Hemidactylus mabuoia","12692","Lagun","Lepidoptera",0
+"145","Hemidactylus mabuoia","12694","Lagun","Lepidoptera",0
+"146","Hemidactylus mabuoia","12695","Lagun","Lepidoptera",0
+"147","Hemidactylus mabuoia","12696","Lagun","Lepidoptera",0
+"148","Phylodactylus","12697","Lagun","Lepidoptera",0
+"149","Hemidactylus mabuoia","12702","Lagun","Lepidoptera",0
+"150","Hemidactylus mabuoia","12708","Lagun","Lepidoptera",0
+"151","Phylodactylus","12709","Lagun","Lepidoptera",0
+"152","Hemidactylus mabuoia","12711","Lagun","Lepidoptera",0
+"153","Hemidactylus mabuoia","12712","Lagun","Lepidoptera",1
+"154","Phylodactylus","112710","Lagun","Lepidoptera",0
+"269","Phylodactylus","12678","Lagun","Coleoptera",0
+"270","Phylodactylus","12679","Lagun","Coleoptera",0
+"271","Hemidactylus mabuoia","12681","Lagun","Coleoptera",0
+"272","Phylodactylus","12689","Lagun","Coleoptera",0
+"273","Hemidactylus mabuoia","12690","Lagun","Coleoptera",1
+"274","Hemidactylus mabuoia","12691","Lagun","Coleoptera",0
+"275","Hemidactylus mabuoia","12692","Lagun","Coleoptera",0
+"276","Hemidactylus mabuoia","12694","Lagun","Coleoptera",0
+"277","Hemidactylus mabuoia","12695","Lagun","Coleoptera",0
+"278","Hemidactylus mabuoia","12696","Lagun","Coleoptera",0
+"279","Phylodactylus","12697","Lagun","Coleoptera",0
+"280","Hemidactylus mabuoia","12702","Lagun","Coleoptera",0
+"281","Hemidactylus mabuoia","12708","Lagun","Coleoptera",1
+"282","Phylodactylus","12709","Lagun","Coleoptera",0
+"283","Hemidactylus mabuoia","12711","Lagun","Coleoptera",0
+"284","Hemidactylus mabuoia","12712","Lagun","Coleoptera",0
+"285","Phylodactylus","112710","Lagun","Coleoptera",0
+"400","Phylodactylus","12678","Lagun","Archnid_scorp",0
+"401","Phylodactylus","12679","Lagun","Archnid_scorp",0
+"402","Hemidactylus mabuoia","12681","Lagun","Archnid_scorp",0
+"403","Phylodactylus","12689","Lagun","Archnid_scorp",0
+"404","Hemidactylus mabuoia","12690","Lagun","Archnid_scorp",0
+"405","Hemidactylus mabuoia","12691","Lagun","Archnid_scorp",0
+"406","Hemidactylus mabuoia","12692","Lagun","Archnid_scorp",0
+"407","Hemidactylus mabuoia","12694","Lagun","Archnid_scorp",0
+"408","Hemidactylus mabuoia","12695","Lagun","Archnid_scorp",0
+"409","Hemidactylus mabuoia","12696","Lagun","Archnid_scorp",0
+"410","Phylodactylus","12697","Lagun","Archnid_scorp",0
+"411","Hemidactylus mabuoia","12702","Lagun","Archnid_scorp",0
+"412","Hemidactylus mabuoia","12708","Lagun","Archnid_scorp",0
+"413","Phylodactylus","12709","Lagun","Archnid_scorp",0
+"414","Hemidactylus mabuoia","12711","Lagun","Archnid_scorp",0
+"415","Hemidactylus mabuoia","12712","Lagun","Archnid_scorp",0
+"416","Phylodactylus","112710","Lagun","Archnid_scorp",1
+"531","Phylodactylus","12678","Lagun","Archnid_spider",0
+"532","Phylodactylus","12679","Lagun","Archnid_spider",0
+"533","Hemidactylus mabuoia","12681","Lagun","Archnid_spider",0
+"534","Phylodactylus","12689","Lagun","Archnid_spider",0.333333333
+"535","Hemidactylus mabuoia","12690","Lagun","Archnid_spider",0
+"536","Hemidactylus mabuoia","12691","Lagun","Archnid_spider",0
+"537","Hemidactylus mabuoia","12692","Lagun","Archnid_spider",1
+"538","Hemidactylus mabuoia","12694","Lagun","Archnid_spider",0
+"539","Hemidactylus mabuoia","12695","Lagun","Archnid_spider",0
+"540","Hemidactylus mabuoia","12696","Lagun","Archnid_spider",0
+"541","Phylodactylus","12697","Lagun","Archnid_spider",0.5
+"542","Hemidactylus mabuoia","12702","Lagun","Archnid_spider",0
+"543","Hemidactylus mabuoia","12708","Lagun","Archnid_spider",0
+"544","Phylodactylus","12709","Lagun","Archnid_spider",1
+"545","Hemidactylus mabuoia","12711","Lagun","Archnid_spider",0
+"546","Hemidactylus mabuoia","12712","Lagun","Archnid_spider",0
+"547","Phylodactylus","112710","Lagun","Archnid_spider",0
+"662","Phylodactylus","12678","Lagun","Other",0
+"663","Phylodactylus","12679","Lagun","Other",0
+"664","Hemidactylus mabuoia","12681","Lagun","Other",0
+"665","Phylodactylus","12689","Lagun","Other",0
+"666","Hemidactylus mabuoia","12690","Lagun","Other",0
+"667","Hemidactylus mabuoia","12691","Lagun","Other",0
+"668","Hemidactylus mabuoia","12692","Lagun","Other",0
+"669","Hemidactylus mabuoia","12694","Lagun","Other",0
+"670","Hemidactylus mabuoia","12695","Lagun","Other",0
+"671","Hemidactylus mabuoia","12696","Lagun","Other",0
+"672","Phylodactylus","12697","Lagun","Other",0
+"673","Hemidactylus mabuoia","12702","Lagun","Other",0
+"674","Hemidactylus mabuoia","12708","Lagun","Other",0
+"675","Phylodactylus","12709","Lagun","Other",0
+"676","Hemidactylus mabuoia","12711","Lagun","Other",0
+"677","Hemidactylus mabuoia","12712","Lagun","Other",0
+"678","Phylodactylus","112710","Lagun","Other",0
+"793","Phylodactylus","12678","Lagun","Centipede",0
+"794","Phylodactylus","12679","Lagun","Centipede",0
+"795","Hemidactylus mabuoia","12681","Lagun","Centipede",0
+"796","Phylodactylus","12689","Lagun","Centipede",0
+"797","Hemidactylus mabuoia","12690","Lagun","Centipede",0
+"798","Hemidactylus mabuoia","12691","Lagun","Centipede",0
+"799","Hemidactylus mabuoia","12692","Lagun","Centipede",0
+"800","Hemidactylus mabuoia","12694","Lagun","Centipede",0
+"801","Hemidactylus mabuoia","12695","Lagun","Centipede",0
+"802","Hemidactylus mabuoia","12696","Lagun","Centipede",0
+"803","Phylodactylus","12697","Lagun","Centipede",0
+"804","Hemidactylus mabuoia","12702","Lagun","Centipede",0
+"805","Hemidactylus mabuoia","12708","Lagun","Centipede",0
+"806","Phylodactylus","12709","Lagun","Centipede",0
+"807","Hemidactylus mabuoia","12711","Lagun","Centipede",0
+"808","Hemidactylus mabuoia","12712","Lagun","Centipede",0
+"809","Phylodactylus","112710","Lagun","Centipede",0
+"924","Phylodactylus","12678","Lagun","Isopod",0
+"925","Phylodactylus","12679","Lagun","Isopod",0
+"926","Hemidactylus mabuoia","12681","Lagun","Isopod",0
+"927","Phylodactylus","12689","Lagun","Isopod",0
+"928","Hemidactylus mabuoia","12690","Lagun","Isopod",0
+"929","Hemidactylus mabuoia","12691","Lagun","Isopod",0
+"930","Hemidactylus mabuoia","12692","Lagun","Isopod",0
+"931","Hemidactylus mabuoia","12694","Lagun","Isopod",0
+"932","Hemidactylus mabuoia","12695","Lagun","Isopod",1
+"933","Hemidactylus mabuoia","12696","Lagun","Isopod",0
+"934","Phylodactylus","12697","Lagun","Isopod",0
+"935","Hemidactylus mabuoia","12702","Lagun","Isopod",0
+"936","Hemidactylus mabuoia","12708","Lagun","Isopod",0
+"937","Phylodactylus","12709","Lagun","Isopod",0
+"938","Hemidactylus mabuoia","12711","Lagun","Isopod",0
+"939","Hemidactylus mabuoia","12712","Lagun","Isopod",0
+"940","Phylodactylus","112710","Lagun","Isopod",0
+"1055","Phylodactylus","12678","Lagun","Hemiptera",0
+"1056","Phylodactylus","12679","Lagun","Hemiptera",0
+"1057","Hemidactylus mabuoia","12681","Lagun","Hemiptera",0
+"1058","Phylodactylus","12689","Lagun","Hemiptera",0
+"1059","Hemidactylus mabuoia","12690","Lagun","Hemiptera",0
+"1060","Hemidactylus mabuoia","12691","Lagun","Hemiptera",0
+"1061","Hemidactylus mabuoia","12692","Lagun","Hemiptera",0
+"1062","Hemidactylus mabuoia","12694","Lagun","Hemiptera",0
+"1063","Hemidactylus mabuoia","12695","Lagun","Hemiptera",0
+"1064","Hemidactylus mabuoia","12696","Lagun","Hemiptera",0
+"1065","Phylodactylus","12697","Lagun","Hemiptera",0
+"1066","Hemidactylus mabuoia","12702","Lagun","Hemiptera",0
+"1067","Hemidactylus mabuoia","12708","Lagun","Hemiptera",0
+"1068","Phylodactylus","12709","Lagun","Hemiptera",0
+"1069","Hemidactylus mabuoia","12711","Lagun","Hemiptera",0
+"1070","Hemidactylus mabuoia","12712","Lagun","Hemiptera",0
+"1071","Phylodactylus","112710","Lagun","Hemiptera",0
+"1186","Phylodactylus","12678","Lagun","Hymenoptera",0
+"1187","Phylodactylus","12679","Lagun","Hymenoptera",0
+"1188","Hemidactylus mabuoia","12681","Lagun","Hymenoptera",0
+"1189","Phylodactylus","12689","Lagun","Hymenoptera",0
+"1190","Hemidactylus mabuoia","12690","Lagun","Hymenoptera",0
+"1191","Hemidactylus mabuoia","12691","Lagun","Hymenoptera",0
+"1192","Hemidactylus mabuoia","12692","Lagun","Hymenoptera",0
+"1193","Hemidactylus mabuoia","12694","Lagun","Hymenoptera",0
+"1194","Hemidactylus mabuoia","12695","Lagun","Hymenoptera",0
+"1195","Hemidactylus mabuoia","12696","Lagun","Hymenoptera",0
+"1196","Phylodactylus","12697","Lagun","Hymenoptera",0
+"1197","Hemidactylus mabuoia","12702","Lagun","Hymenoptera",0
+"1198","Hemidactylus mabuoia","12708","Lagun","Hymenoptera",0
+"1199","Phylodactylus","12709","Lagun","Hymenoptera",0
+"1200","Hemidactylus mabuoia","12711","Lagun","Hymenoptera",0
+"1201","Hemidactylus mabuoia","12712","Lagun","Hymenoptera",0
+"1202","Phylodactylus","112710","Lagun","Hymenoptera",0
+"1317","Phylodactylus","12678","Lagun","Orthoptera",0
+"1318","Phylodactylus","12679","Lagun","Orthoptera",1
+"1319","Hemidactylus mabuoia","12681","Lagun","Orthoptera",0
+"1320","Phylodactylus","12689","Lagun","Orthoptera",0.333333333
+"1321","Hemidactylus mabuoia","12690","Lagun","Orthoptera",0
+"1322","Hemidactylus mabuoia","12691","Lagun","Orthoptera",1
+"1323","Hemidactylus mabuoia","12692","Lagun","Orthoptera",0
+"1324","Hemidactylus mabuoia","12694","Lagun","Orthoptera",0
+"1325","Hemidactylus mabuoia","12695","Lagun","Orthoptera",0
+"1326","Hemidactylus mabuoia","12696","Lagun","Orthoptera",1
+"1327","Phylodactylus","12697","Lagun","Orthoptera",0.5
+"1328","Hemidactylus mabuoia","12702","Lagun","Orthoptera",0
+"1329","Hemidactylus mabuoia","12708","Lagun","Orthoptera",0
+"1330","Phylodactylus","12709","Lagun","Orthoptera",0
+"1331","Hemidactylus mabuoia","12711","Lagun","Orthoptera",0
+"1332","Hemidactylus mabuoia","12712","Lagun","Orthoptera",0
+"1333","Phylodactylus","112710","Lagun","Orthoptera",0
+"1448","Phylodactylus","12678","Lagun","Ephermeroptera",0
+"1449","Phylodactylus","12679","Lagun","Ephermeroptera",0
+"1450","Hemidactylus mabuoia","12681","Lagun","Ephermeroptera",0
+"1451","Phylodactylus","12689","Lagun","Ephermeroptera",0
+"1452","Hemidactylus mabuoia","12690","Lagun","Ephermeroptera",0
+"1453","Hemidactylus mabuoia","12691","Lagun","Ephermeroptera",0
+"1454","Hemidactylus mabuoia","12692","Lagun","Ephermeroptera",0
+"1455","Hemidactylus mabuoia","12694","Lagun","Ephermeroptera",0
+"1456","Hemidactylus mabuoia","12695","Lagun","Ephermeroptera",0
+"1457","Hemidactylus mabuoia","12696","Lagun","Ephermeroptera",0
+"1458","Phylodactylus","12697","Lagun","Ephermeroptera",0
+"1459","Hemidactylus mabuoia","12702","Lagun","Ephermeroptera",0
+"1460","Hemidactylus mabuoia","12708","Lagun","Ephermeroptera",0
+"1461","Phylodactylus","12709","Lagun","Ephermeroptera",0
+"1462","Hemidactylus mabuoia","12711","Lagun","Ephermeroptera",0
+"1463","Hemidactylus mabuoia","12712","Lagun","Ephermeroptera",0
+"1464","Phylodactylus","112710","Lagun","Ephermeroptera",0
+"1579","Phylodactylus","12678","Lagun","Gecko_skin",0
+"1580","Phylodactylus","12679","Lagun","Gecko_skin",0
+"1581","Hemidactylus mabuoia","12681","Lagun","Gecko_skin",0
+"1582","Phylodactylus","12689","Lagun","Gecko_skin",0.333333333
+"1583","Hemidactylus mabuoia","12690","Lagun","Gecko_skin",0
+"1584","Hemidactylus mabuoia","12691","Lagun","Gecko_skin",0
+"1585","Hemidactylus mabuoia","12692","Lagun","Gecko_skin",0
+"1586","Hemidactylus mabuoia","12694","Lagun","Gecko_skin",0
+"1587","Hemidactylus mabuoia","12695","Lagun","Gecko_skin",0
+"1588","Hemidactylus mabuoia","12696","Lagun","Gecko_skin",0
+"1589","Phylodactylus","12697","Lagun","Gecko_skin",0
+"1590","Hemidactylus mabuoia","12702","Lagun","Gecko_skin",0
+"1591","Hemidactylus mabuoia","12708","Lagun","Gecko_skin",0
+"1592","Phylodactylus","12709","Lagun","Gecko_skin",0
+"1593","Hemidactylus mabuoia","12711","Lagun","Gecko_skin",0
+"1594","Hemidactylus mabuoia","12712","Lagun","Gecko_skin",0
+"1595","Phylodactylus","112710","Lagun","Gecko_skin",0
+"1710","Phylodactylus","12678","Lagun","Blattaria",0
+"1711","Phylodactylus","12679","Lagun","Blattaria",0
+"1712","Hemidactylus mabuoia","12681","Lagun","Blattaria",0.5
+"1713","Phylodactylus","12689","Lagun","Blattaria",0
+"1714","Hemidactylus mabuoia","12690","Lagun","Blattaria",0
+"1715","Hemidactylus mabuoia","12691","Lagun","Blattaria",0
+"1716","Hemidactylus mabuoia","12692","Lagun","Blattaria",0
+"1717","Hemidactylus mabuoia","12694","Lagun","Blattaria",0
+"1718","Hemidactylus mabuoia","12695","Lagun","Blattaria",0
+"1719","Hemidactylus mabuoia","12696","Lagun","Blattaria",0
+"1720","Phylodactylus","12697","Lagun","Blattaria",0
+"1721","Hemidactylus mabuoia","12702","Lagun","Blattaria",0
+"1722","Hemidactylus mabuoia","12708","Lagun","Blattaria",0
+"1723","Phylodactylus","12709","Lagun","Blattaria",0
+"1724","Hemidactylus mabuoia","12711","Lagun","Blattaria",0
+"1725","Hemidactylus mabuoia","12712","Lagun","Blattaria",0
+"1726","Phylodactylus","112710","Lagun","Blattaria",0
+"1841","Phylodactylus","12678","Lagun","Empty",0
+"1842","Phylodactylus","12679","Lagun","Empty",0
+"1843","Hemidactylus mabuoia","12681","Lagun","Empty",0
+"1844","Phylodactylus","12689","Lagun","Empty",0
+"1845","Hemidactylus mabuoia","12690","Lagun","Empty",0
+"1846","Hemidactylus mabuoia","12691","Lagun","Empty",0
+"1847","Hemidactylus mabuoia","12692","Lagun","Empty",0
+"1848","Hemidactylus mabuoia","12694","Lagun","Empty",1
+"1849","Hemidactylus mabuoia","12695","Lagun","Empty",0
+"1850","Hemidactylus mabuoia","12696","Lagun","Empty",0
+"1851","Phylodactylus","12697","Lagun","Empty",0
+"1852","Hemidactylus mabuoia","12702","Lagun","Empty",0
+"1853","Hemidactylus mabuoia","12708","Lagun","Empty",0
+"1854","Phylodactylus","12709","Lagun","Empty",0
+"1855","Hemidactylus mabuoia","12711","Lagun","Empty",1
+"1856","Hemidactylus mabuoia","12712","Lagun","Empty",0
+"1857","Phylodactylus","112710","Lagun","Empty",0
+"1972","Phylodactylus","12678","Lagun","Ramphotyphlops",0
+"1973","Phylodactylus","12679","Lagun","Ramphotyphlops",0
+"1974","Hemidactylus mabuoia","12681","Lagun","Ramphotyphlops",0
+"1975","Phylodactylus","12689","Lagun","Ramphotyphlops",0
+"1976","Hemidactylus mabuoia","12690","Lagun","Ramphotyphlops",0
+"1977","Hemidactylus mabuoia","12691","Lagun","Ramphotyphlops",0
+"1978","Hemidactylus mabuoia","12692","Lagun","Ramphotyphlops",0
+"1979","Hemidactylus mabuoia","12694","Lagun","Ramphotyphlops",0
+"1980","Hemidactylus mabuoia","12695","Lagun","Ramphotyphlops",0
+"1981","Hemidactylus mabuoia","12696","Lagun","Ramphotyphlops",0
+"1982","Phylodactylus","12697","Lagun","Ramphotyphlops",0
+"1983","Hemidactylus mabuoia","12702","Lagun","Ramphotyphlops",0
+"1984","Hemidactylus mabuoia","12708","Lagun","Ramphotyphlops",0
+"1985","Phylodactylus","12709","Lagun","Ramphotyphlops",0
+"1986","Hemidactylus mabuoia","12711","Lagun","Ramphotyphlops",0
+"1987","Hemidactylus mabuoia","12712","Lagun","Ramphotyphlops",0
+"1988","Phylodactylus","112710","Lagun","Ramphotyphlops",0
+"2103","Phylodactylus","12678","Lagun","Gonatodes.antillensis",0
+"2104","Phylodactylus","12679","Lagun","Gonatodes.antillensis",0
+"2105","Hemidactylus mabuoia","12681","Lagun","Gonatodes.antillensis",0
+"2106","Phylodactylus","12689","Lagun","Gonatodes.antillensis",0
+"2107","Hemidactylus mabuoia","12690","Lagun","Gonatodes.antillensis",0
+"2108","Hemidactylus mabuoia","12691","Lagun","Gonatodes.antillensis",0
+"2109","Hemidactylus mabuoia","12692","Lagun","Gonatodes.antillensis",0
+"2110","Hemidactylus mabuoia","12694","Lagun","Gonatodes.antillensis",0
+"2111","Hemidactylus mabuoia","12695","Lagun","Gonatodes.antillensis",0
+"2112","Hemidactylus mabuoia","12696","Lagun","Gonatodes.antillensis",0
+"2113","Phylodactylus","12697","Lagun","Gonatodes.antillensis",0
+"2114","Hemidactylus mabuoia","12702","Lagun","Gonatodes.antillensis",0
+"2115","Hemidactylus mabuoia","12708","Lagun","Gonatodes.antillensis",0
+"2116","Phylodactylus","12709","Lagun","Gonatodes.antillensis",0
+"2117","Hemidactylus mabuoia","12711","Lagun","Gonatodes.antillensis",0
+"2118","Hemidactylus mabuoia","12712","Lagun","Gonatodes.antillensis",0
+"2119","Phylodactylus","112710","Lagun","Gonatodes.antillensis",0
+"2234","Phylodactylus","12678","Lagun","Phylodactylus",0
+"2235","Phylodactylus","12679","Lagun","Phylodactylus",0
+"2236","Hemidactylus mabuoia","12681","Lagun","Phylodactylus",0
+"2237","Phylodactylus","12689","Lagun","Phylodactylus",0
+"2238","Hemidactylus mabuoia","12690","Lagun","Phylodactylus",0
+"2239","Hemidactylus mabuoia","12691","Lagun","Phylodactylus",0
+"2240","Hemidactylus mabuoia","12692","Lagun","Phylodactylus",0
+"2241","Hemidactylus mabuoia","12694","Lagun","Phylodactylus",0
+"2242","Hemidactylus mabuoia","12695","Lagun","Phylodactylus",0
+"2243","Hemidactylus mabuoia","12696","Lagun","Phylodactylus",0
+"2244","Phylodactylus","12697","Lagun","Phylodactylus",0
+"2245","Hemidactylus mabuoia","12702","Lagun","Phylodactylus",0
+"2246","Hemidactylus mabuoia","12708","Lagun","Phylodactylus",0
+"2247","Phylodactylus","12709","Lagun","Phylodactylus",0
+"2248","Hemidactylus mabuoia","12711","Lagun","Phylodactylus",0
+"2249","Hemidactylus mabuoia","12712","Lagun","Phylodactylus",0
+"2250","Phylodactylus","112710","Lagun","Phylodactylus",0
+"41","Hemidactylus mabuoia","12506","Westpunt","Diptera",0.333333333
+"42","Hemidactylus mabuoia","12507","Westpunt","Diptera",0
+"43","Hemidactylus mabuoia","12508","Westpunt","Diptera",1
+"44","Hemidactylus mabuoia","12509","Westpunt","Diptera",0
+"45","Hemidactylus mabuoia","12510","Westpunt","Diptera",0
+"46","Phylodactylus","12513","Westpunt","Diptera",1
+"47","Phylodactylus","12514","Westpunt","Diptera",0
+"48","Phylodactylus","12515","Westpunt","Diptera",0
+"49","Phylodactylus","12516","Westpunt","Diptera",0
+"50","Phylodactylus","12517","Westpunt","Diptera",0
+"51","Phylodactylus","12518","Westpunt","Diptera",0
+"52","Phylodactylus","12520","Westpunt","Diptera",0
+"53","Phylodactylus","12521","Westpunt","Diptera",0
+"54","Phylodactylus","12522","Westpunt","Diptera",0.333333333
+"55","Phylodactylus","12524","Westpunt","Diptera",0
+"56","Phylodactylus","12525","Westpunt","Diptera",0
+"57","Hemidactylus mabuoia","12540","Westpunt","Diptera",0.5
+"58","Phylodactylus","12541","Westpunt","Diptera",0
+"59","Phylodactylus","12543","Westpunt","Diptera",0
+"60","Phylodactylus","12544","Westpunt","Diptera",0
+"61","Phylodactylus","12547","Westpunt","Diptera",0
+"62","Phylodactylus","12551","Westpunt","Diptera",0.5
+"63","Hemidactylus mabuoia","12552","Westpunt","Diptera",0
+"64","Hemidactylus mabuoia","12575","Westpunt","Diptera",0
+"65","Hemidactylus mabuoia","12576","Westpunt","Diptera",0
+"66","Hemidactylus mabuoia","12577","Westpunt","Diptera",0
+"67","Phylodactylus","12582","Westpunt","Diptera",0.5
+"68","Phylodactylus","12583","Westpunt","Diptera",0
+"69","Phylodactylus","12584","Westpunt","Diptera",0
+"70","Phylodactylus","12615","Westpunt","Diptera",0
+"71","Phylodactylus","12618","Westpunt","Diptera",0
+"72","Phylodactylus","12621","Westpunt","Diptera",0
+"73","Phylodactylus","12622","Westpunt","Diptera",0
+"74","Phylodactylus","12623","Westpunt","Diptera",0
+"75","Hemidactylus mabuoia","12632","Westpunt","Diptera",0
+"76","Hemidactylus mabuoia","12633","Westpunt","Diptera",0
+"77","Hemidactylus mabuoia","12634","Westpunt","Diptera",0
+"78","Phylodactylus","12636","Westpunt","Diptera",0
+"79","Phylodactylus","12637","Westpunt","Diptera",0
+"80","Phylodactylus","12638","Westpunt","Diptera",0
+"81","Phylodactylus","12639","Westpunt","Diptera",0
+"82","Phylodactylus","12640","Westpunt","Diptera",0
+"83","Hemidactylus mabuoia","12674","Westpunt","Diptera",0
+"84","Hemidactylus mabuoia","12676","Westpunt","Diptera",0
+"85","Phylodactylus","MCB 1098","Westpunt","Diptera",0
+"86","Phylodactylus","MCB 1099","Westpunt","Diptera",0
+"87","Phylodactylus","MCB 1100","Westpunt","Diptera",1
+"88","Phylodactylus","MCB 1101","Westpunt","Diptera",0
+"89","Phylodactylus","MCB 1102","Westpunt","Diptera",0
+"90","Phylodactylus","MCB 1103","Westpunt","Diptera",0
+"91","Phylodactylus","MCB 1104","Westpunt","Diptera",0
+"92","Phylodactylus","MCB 1105","Westpunt","Diptera",0
+"93","Phylodactylus","MCB 1106","Westpunt","Diptera",0
+"94","Phylodactylus","MCB 1107","Westpunt","Diptera",0
+"95","Phylodactylus","MCB 1108","Westpunt","Diptera",0
+"96","Phylodactylus","MCB 1109","Westpunt","Diptera",0.5
+"97","Phylodactylus","MCB 1110","Westpunt","Diptera",0
+"98","Phylodactylus","MCB 1111","Westpunt","Diptera",0
+"99","Phylodactylus","MCB 1112","Westpunt","Diptera",0.5
+"100","Phylodactylus","MCB 1113","Westpunt","Diptera",0
+"101","Phylodactylus","MCB 1114","Westpunt","Diptera",0
+"102","Phylodactylus","MCB 1115","Westpunt","Diptera",0
+"103","Phylodactylus","MCB 1117","Westpunt","Diptera",0
+"104","Phylodactylus","MCB 1118","Westpunt","Diptera",0
+"105","Hemidactylus mabuoia","a1","Westpunt","Diptera",0
+"106","Hemidactylus mabuoia","a2","Westpunt","Diptera",0
+"107","Hemidactylus mabuoia","a3","Westpunt","Diptera",0
+"108","Hemidactylus mabuoia","a4","Westpunt","Diptera",0
+"109","Hemidactylus mabuoia","a5","Westpunt","Diptera",0
+"110","Hemidactylus mabuoia","a6","Westpunt","Diptera",0
+"111","Hemidactylus mabuoia","a7","Westpunt","Diptera",0
+"112","Hemidactylus mabuoia","a8","Westpunt","Diptera",0
+"113","Hemidactylus mabuoia","a9","Westpunt","Diptera",0
+"114","Hemidactylus mabuoia","a10","Westpunt","Diptera",0
+"115","Hemidactylus mabuoia","a11","Westpunt","Diptera",0
+"116","Hemidactylus mabuoia","a12","Westpunt","Diptera",0
+"117","Hemidactylus mabuoia","a13","Westpunt","Diptera",0
+"118","Hemidactylus mabuoia","a14","Westpunt","Diptera",0
+"119","Hemidactylus mabuoia","a15","Westpunt","Diptera",0
+"120","Hemidactylus mabuoia","a16","Westpunt","Diptera",0
+"172","Hemidactylus mabuoia","12506","Westpunt","Lepidoptera",0
+"173","Hemidactylus mabuoia","12507","Westpunt","Lepidoptera",0
+"174","Hemidactylus mabuoia","12508","Westpunt","Lepidoptera",0
+"175","Hemidactylus mabuoia","12509","Westpunt","Lepidoptera",0
+"176","Hemidactylus mabuoia","12510","Westpunt","Lepidoptera",1
+"177","Phylodactylus","12513","Westpunt","Lepidoptera",0
+"178","Phylodactylus","12514","Westpunt","Lepidoptera",1
+"179","Phylodactylus","12515","Westpunt","Lepidoptera",0.5
+"180","Phylodactylus","12516","Westpunt","Lepidoptera",0
+"181","Phylodactylus","12517","Westpunt","Lepidoptera",0
+"182","Phylodactylus","12518","Westpunt","Lepidoptera",0
+"183","Phylodactylus","12520","Westpunt","Lepidoptera",0
+"184","Phylodactylus","12521","Westpunt","Lepidoptera",0
+"185","Phylodactylus","12522","Westpunt","Lepidoptera",0
+"186","Phylodactylus","12524","Westpunt","Lepidoptera",1
+"187","Phylodactylus","12525","Westpunt","Lepidoptera",0.5
+"188","Hemidactylus mabuoia","12540","Westpunt","Lepidoptera",0.5
+"189","Phylodactylus","12541","Westpunt","Lepidoptera",0
+"190","Phylodactylus","12543","Westpunt","Lepidoptera",0
+"191","Phylodactylus","12544","Westpunt","Lepidoptera",0
+"192","Phylodactylus","12547","Westpunt","Lepidoptera",0
+"193","Phylodactylus","12551","Westpunt","Lepidoptera",0
+"194","Hemidactylus mabuoia","12552","Westpunt","Lepidoptera",0
+"195","Hemidactylus mabuoia","12575","Westpunt","Lepidoptera",0
+"196","Hemidactylus mabuoia","12576","Westpunt","Lepidoptera",0
+"197","Hemidactylus mabuoia","12577","Westpunt","Lepidoptera",0
+"198","Phylodactylus","12582","Westpunt","Lepidoptera",0
+"199","Phylodactylus","12583","Westpunt","Lepidoptera",0
+"200","Phylodactylus","12584","Westpunt","Lepidoptera",0
+"201","Phylodactylus","12615","Westpunt","Lepidoptera",0
+"202","Phylodactylus","12618","Westpunt","Lepidoptera",0
+"203","Phylodactylus","12621","Westpunt","Lepidoptera",0
+"204","Phylodactylus","12622","Westpunt","Lepidoptera",0
+"205","Phylodactylus","12623","Westpunt","Lepidoptera",0
+"206","Hemidactylus mabuoia","12632","Westpunt","Lepidoptera",0
+"207","Hemidactylus mabuoia","12633","Westpunt","Lepidoptera",0
+"208","Hemidactylus mabuoia","12634","Westpunt","Lepidoptera",0
+"209","Phylodactylus","12636","Westpunt","Lepidoptera",0
+"210","Phylodactylus","12637","Westpunt","Lepidoptera",0.333333333
+"211","Phylodactylus","12638","Westpunt","Lepidoptera",0
+"212","Phylodactylus","12639","Westpunt","Lepidoptera",0
+"213","Phylodactylus","12640","Westpunt","Lepidoptera",0
+"214","Hemidactylus mabuoia","12674","Westpunt","Lepidoptera",0
+"215","Hemidactylus mabuoia","12676","Westpunt","Lepidoptera",0
+"216","Phylodactylus","MCB 1098","Westpunt","Lepidoptera",0
+"217","Phylodactylus","MCB 1099","Westpunt","Lepidoptera",0
+"218","Phylodactylus","MCB 1100","Westpunt","Lepidoptera",0
+"219","Phylodactylus","MCB 1101","Westpunt","Lepidoptera",0
+"220","Phylodactylus","MCB 1102","Westpunt","Lepidoptera",0
+"221","Phylodactylus","MCB 1103","Westpunt","Lepidoptera",0
+"222","Phylodactylus","MCB 1104","Westpunt","Lepidoptera",0
+"223","Phylodactylus","MCB 1105","Westpunt","Lepidoptera",0
+"224","Phylodactylus","MCB 1106","Westpunt","Lepidoptera",0
+"225","Phylodactylus","MCB 1107","Westpunt","Lepidoptera",0
+"226","Phylodactylus","MCB 1108","Westpunt","Lepidoptera",0
+"227","Phylodactylus","MCB 1109","Westpunt","Lepidoptera",0
+"228","Phylodactylus","MCB 1110","Westpunt","Lepidoptera",0
+"229","Phylodactylus","MCB 1111","Westpunt","Lepidoptera",0.5
+"230","Phylodactylus","MCB 1112","Westpunt","Lepidoptera",0
+"231","Phylodactylus","MCB 1113","Westpunt","Lepidoptera",0
+"232","Phylodactylus","MCB 1114","Westpunt","Lepidoptera",0
+"233","Phylodactylus","MCB 1115","Westpunt","Lepidoptera",0
+"234","Phylodactylus","MCB 1117","Westpunt","Lepidoptera",0
+"235","Phylodactylus","MCB 1118","Westpunt","Lepidoptera",0
+"236","Hemidactylus mabuoia","a1","Westpunt","Lepidoptera",0
+"237","Hemidactylus mabuoia","a2","Westpunt","Lepidoptera",0
+"238","Hemidactylus mabuoia","a3","Westpunt","Lepidoptera",0
+"239","Hemidactylus mabuoia","a4","Westpunt","Lepidoptera",0
+"240","Hemidactylus mabuoia","a5","Westpunt","Lepidoptera",0
+"241","Hemidactylus mabuoia","a6","Westpunt","Lepidoptera",0
+"242","Hemidactylus mabuoia","a7","Westpunt","Lepidoptera",0
+"243","Hemidactylus mabuoia","a8","Westpunt","Lepidoptera",0
+"244","Hemidactylus mabuoia","a9","Westpunt","Lepidoptera",1
+"245","Hemidactylus mabuoia","a10","Westpunt","Lepidoptera",0
+"246","Hemidactylus mabuoia","a11","Westpunt","Lepidoptera",0
+"247","Hemidactylus mabuoia","a12","Westpunt","Lepidoptera",0
+"248","Hemidactylus mabuoia","a13","Westpunt","Lepidoptera",0
+"249","Hemidactylus mabuoia","a14","Westpunt","Lepidoptera",0
+"250","Hemidactylus mabuoia","a15","Westpunt","Lepidoptera",0
+"251","Hemidactylus mabuoia","a16","Westpunt","Lepidoptera",0
+"303","Hemidactylus mabuoia","12506","Westpunt","Coleoptera",0
+"304","Hemidactylus mabuoia","12507","Westpunt","Coleoptera",1
+"305","Hemidactylus mabuoia","12508","Westpunt","Coleoptera",0
+"306","Hemidactylus mabuoia","12509","Westpunt","Coleoptera",0
+"307","Hemidactylus mabuoia","12510","Westpunt","Coleoptera",0
+"308","Phylodactylus","12513","Westpunt","Coleoptera",0
+"309","Phylodactylus","12514","Westpunt","Coleoptera",0
+"310","Phylodactylus","12515","Westpunt","Coleoptera",0.5
+"311","Phylodactylus","12516","Westpunt","Coleoptera",1
+"312","Phylodactylus","12517","Westpunt","Coleoptera",0
+"313","Phylodactylus","12518","Westpunt","Coleoptera",0
+"314","Phylodactylus","12520","Westpunt","Coleoptera",0.5
+"315","Phylodactylus","12521","Westpunt","Coleoptera",1
+"316","Phylodactylus","12522","Westpunt","Coleoptera",0
+"317","Phylodactylus","12524","Westpunt","Coleoptera",0
+"318","Phylodactylus","12525","Westpunt","Coleoptera",0
+"319","Hemidactylus mabuoia","12540","Westpunt","Coleoptera",0
+"320","Phylodactylus","12541","Westpunt","Coleoptera",0
+"321","Phylodactylus","12543","Westpunt","Coleoptera",0.5
+"322","Phylodactylus","12544","Westpunt","Coleoptera",0
+"323","Phylodactylus","12547","Westpunt","Coleoptera",0
+"324","Phylodactylus","12551","Westpunt","Coleoptera",0.5
+"325","Hemidactylus mabuoia","12552","Westpunt","Coleoptera",0
+"326","Hemidactylus mabuoia","12575","Westpunt","Coleoptera",0
+"327","Hemidactylus mabuoia","12576","Westpunt","Coleoptera",0
+"328","Hemidactylus mabuoia","12577","Westpunt","Coleoptera",0
+"329","Phylodactylus","12582","Westpunt","Coleoptera",0.5
+"330","Phylodactylus","12583","Westpunt","Coleoptera",0
+"331","Phylodactylus","12584","Westpunt","Coleoptera",0
+"332","Phylodactylus","12615","Westpunt","Coleoptera",0
+"333","Phylodactylus","12618","Westpunt","Coleoptera",0
+"334","Phylodactylus","12621","Westpunt","Coleoptera",0
+"335","Phylodactylus","12622","Westpunt","Coleoptera",0
+"336","Phylodactylus","12623","Westpunt","Coleoptera",0
+"337","Hemidactylus mabuoia","12632","Westpunt","Coleoptera",0
+"338","Hemidactylus mabuoia","12633","Westpunt","Coleoptera",0
+"339","Hemidactylus mabuoia","12634","Westpunt","Coleoptera",0
+"340","Phylodactylus","12636","Westpunt","Coleoptera",1
+"341","Phylodactylus","12637","Westpunt","Coleoptera",0.333333333
+"342","Phylodactylus","12638","Westpunt","Coleoptera",0
+"343","Phylodactylus","12639","Westpunt","Coleoptera",0
+"344","Phylodactylus","12640","Westpunt","Coleoptera",0
+"345","Hemidactylus mabuoia","12674","Westpunt","Coleoptera",0
+"346","Hemidactylus mabuoia","12676","Westpunt","Coleoptera",0
+"347","Phylodactylus","MCB 1098","Westpunt","Coleoptera",0.833333333
+"348","Phylodactylus","MCB 1099","Westpunt","Coleoptera",0.5
+"349","Phylodactylus","MCB 1100","Westpunt","Coleoptera",0
+"350","Phylodactylus","MCB 1101","Westpunt","Coleoptera",1
+"351","Phylodactylus","MCB 1102","Westpunt","Coleoptera",0
+"352","Phylodactylus","MCB 1103","Westpunt","Coleoptera",1
+"353","Phylodactylus","MCB 1104","Westpunt","Coleoptera",0
+"354","Phylodactylus","MCB 1105","Westpunt","Coleoptera",0.5
+"355","Phylodactylus","MCB 1106","Westpunt","Coleoptera",0.5
+"356","Phylodactylus","MCB 1107","Westpunt","Coleoptera",0
+"357","Phylodactylus","MCB 1108","Westpunt","Coleoptera",1
+"358","Phylodactylus","MCB 1109","Westpunt","Coleoptera",0.5
+"359","Phylodactylus","MCB 1110","Westpunt","Coleoptera",0
+"360","Phylodactylus","MCB 1111","Westpunt","Coleoptera",0.5
+"361","Phylodactylus","MCB 1112","Westpunt","Coleoptera",0.5
+"362","Phylodactylus","MCB 1113","Westpunt","Coleoptera",1
+"363","Phylodactylus","MCB 1114","Westpunt","Coleoptera",0
+"364","Phylodactylus","MCB 1115","Westpunt","Coleoptera",0
+"365","Phylodactylus","MCB 1117","Westpunt","Coleoptera",0
+"366","Phylodactylus","MCB 1118","Westpunt","Coleoptera",0
+"367","Hemidactylus mabuoia","a1","Westpunt","Coleoptera",1
+"368","Hemidactylus mabuoia","a2","Westpunt","Coleoptera",0
+"369","Hemidactylus mabuoia","a3","Westpunt","Coleoptera",0
+"370","Hemidactylus mabuoia","a4","Westpunt","Coleoptera",0
+"371","Hemidactylus mabuoia","a5","Westpunt","Coleoptera",1
+"372","Hemidactylus mabuoia","a6","Westpunt","Coleoptera",0
+"373","Hemidactylus mabuoia","a7","Westpunt","Coleoptera",0.5
+"374","Hemidactylus mabuoia","a8","Westpunt","Coleoptera",0
+"375","Hemidactylus mabuoia","a9","Westpunt","Coleoptera",0
+"376","Hemidactylus mabuoia","a10","Westpunt","Coleoptera",0
+"377","Hemidactylus mabuoia","a11","Westpunt","Coleoptera",0
+"378","Hemidactylus mabuoia","a12","Westpunt","Coleoptera",0
+"379","Hemidactylus mabuoia","a13","Westpunt","Coleoptera",1
+"380","Hemidactylus mabuoia","a14","Westpunt","Coleoptera",0
+"381","Hemidactylus mabuoia","a15","Westpunt","Coleoptera",0
+"382","Hemidactylus mabuoia","a16","Westpunt","Coleoptera",0
+"434","Hemidactylus mabuoia","12506","Westpunt","Archnid_scorp",0
+"435","Hemidactylus mabuoia","12507","Westpunt","Archnid_scorp",0
+"436","Hemidactylus mabuoia","12508","Westpunt","Archnid_scorp",0
+"437","Hemidactylus mabuoia","12509","Westpunt","Archnid_scorp",0
+"438","Hemidactylus mabuoia","12510","Westpunt","Archnid_scorp",0
+"439","Phylodactylus","12513","Westpunt","Archnid_scorp",0
+"440","Phylodactylus","12514","Westpunt","Archnid_scorp",0
+"441","Phylodactylus","12515","Westpunt","Archnid_scorp",0
+"442","Phylodactylus","12516","Westpunt","Archnid_scorp",0
+"443","Phylodactylus","12517","Westpunt","Archnid_scorp",1
+"444","Phylodactylus","12518","Westpunt","Archnid_scorp",0
+"445","Phylodactylus","12520","Westpunt","Archnid_scorp",0.5
+"446","Phylodactylus","12521","Westpunt","Archnid_scorp",0
+"447","Phylodactylus","12522","Westpunt","Archnid_scorp",0
+"448","Phylodactylus","12524","Westpunt","Archnid_scorp",0
+"449","Phylodactylus","12525","Westpunt","Archnid_scorp",0
+"450","Hemidactylus mabuoia","12540","Westpunt","Archnid_scorp",0
+"451","Phylodactylus","12541","Westpunt","Archnid_scorp",0
+"452","Phylodactylus","12543","Westpunt","Archnid_scorp",0
+"453","Phylodactylus","12544","Westpunt","Archnid_scorp",0
+"454","Phylodactylus","12547","Westpunt","Archnid_scorp",0
+"455","Phylodactylus","12551","Westpunt","Archnid_scorp",0
+"456","Hemidactylus mabuoia","12552","Westpunt","Archnid_scorp",0
+"457","Hemidactylus mabuoia","12575","Westpunt","Archnid_scorp",0
+"458","Hemidactylus mabuoia","12576","Westpunt","Archnid_scorp",0
+"459","Hemidactylus mabuoia","12577","Westpunt","Archnid_scorp",0
+"460","Phylodactylus","12582","Westpunt","Archnid_scorp",0
+"461","Phylodactylus","12583","Westpunt","Archnid_scorp",0
+"462","Phylodactylus","12584","Westpunt","Archnid_scorp",0
+"463","Phylodactylus","12615","Westpunt","Archnid_scorp",0
+"464","Phylodactylus","12618","Westpunt","Archnid_scorp",0
+"465","Phylodactylus","12621","Westpunt","Archnid_scorp",0
+"466","Phylodactylus","12622","Westpunt","Archnid_scorp",0
+"467","Phylodactylus","12623","Westpunt","Archnid_scorp",0
+"468","Hemidactylus mabuoia","12632","Westpunt","Archnid_scorp",0
+"469","Hemidactylus mabuoia","12633","Westpunt","Archnid_scorp",0
+"470","Hemidactylus mabuoia","12634","Westpunt","Archnid_scorp",0
+"471","Phylodactylus","12636","Westpunt","Archnid_scorp",0
+"472","Phylodactylus","12637","Westpunt","Archnid_scorp",0
+"473","Phylodactylus","12638","Westpunt","Archnid_scorp",0
+"474","Phylodactylus","12639","Westpunt","Archnid_scorp",0
+"475","Phylodactylus","12640","Westpunt","Archnid_scorp",0
+"476","Hemidactylus mabuoia","12674","Westpunt","Archnid_scorp",0
+"477","Hemidactylus mabuoia","12676","Westpunt","Archnid_scorp",0
+"478","Phylodactylus","MCB 1098","Westpunt","Archnid_scorp",0
+"479","Phylodactylus","MCB 1099","Westpunt","Archnid_scorp",0
+"480","Phylodactylus","MCB 1100","Westpunt","Archnid_scorp",0
+"481","Phylodactylus","MCB 1101","Westpunt","Archnid_scorp",0
+"482","Phylodactylus","MCB 1102","Westpunt","Archnid_scorp",0
+"483","Phylodactylus","MCB 1103","Westpunt","Archnid_scorp",0
+"484","Phylodactylus","MCB 1104","Westpunt","Archnid_scorp",0
+"485","Phylodactylus","MCB 1105","Westpunt","Archnid_scorp",0
+"486","Phylodactylus","MCB 1106","Westpunt","Archnid_scorp",0
+"487","Phylodactylus","MCB 1107","Westpunt","Archnid_scorp",0
+"488","Phylodactylus","MCB 1108","Westpunt","Archnid_scorp",0
+"489","Phylodactylus","MCB 1109","Westpunt","Archnid_scorp",0
+"490","Phylodactylus","MCB 1110","Westpunt","Archnid_scorp",0
+"491","Phylodactylus","MCB 1111","Westpunt","Archnid_scorp",0
+"492","Phylodactylus","MCB 1112","Westpunt","Archnid_scorp",0
+"493","Phylodactylus","MCB 1113","Westpunt","Archnid_scorp",0
+"494","Phylodactylus","MCB 1114","Westpunt","Archnid_scorp",0.666666667
+"495","Phylodactylus","MCB 1115","Westpunt","Archnid_scorp",0
+"496","Phylodactylus","MCB 1117","Westpunt","Archnid_scorp",0
+"497","Phylodactylus","MCB 1118","Westpunt","Archnid_scorp",0
+"498","Hemidactylus mabuoia","a1","Westpunt","Archnid_scorp",0
+"499","Hemidactylus mabuoia","a2","Westpunt","Archnid_scorp",0
+"500","Hemidactylus mabuoia","a3","Westpunt","Archnid_scorp",0
+"501","Hemidactylus mabuoia","a4","Westpunt","Archnid_scorp",0
+"502","Hemidactylus mabuoia","a5","Westpunt","Archnid_scorp",0
+"503","Hemidactylus mabuoia","a6","Westpunt","Archnid_scorp",0
+"504","Hemidactylus mabuoia","a7","Westpunt","Archnid_scorp",0
+"505","Hemidactylus mabuoia","a8","Westpunt","Archnid_scorp",0
+"506","Hemidactylus mabuoia","a9","Westpunt","Archnid_scorp",0
+"507","Hemidactylus mabuoia","a10","Westpunt","Archnid_scorp",0
+"508","Hemidactylus mabuoia","a11","Westpunt","Archnid_scorp",0
+"509","Hemidactylus mabuoia","a12","Westpunt","Archnid_scorp",0
+"510","Hemidactylus mabuoia","a13","Westpunt","Archnid_scorp",0
+"511","Hemidactylus mabuoia","a14","Westpunt","Archnid_scorp",0
+"512","Hemidactylus mabuoia","a15","Westpunt","Archnid_scorp",0
+"513","Hemidactylus mabuoia","a16","Westpunt","Archnid_scorp",0
+"565","Hemidactylus mabuoia","12506","Westpunt","Archnid_spider",0.666666667
+"566","Hemidactylus mabuoia","12507","Westpunt","Archnid_spider",0
+"567","Hemidactylus mabuoia","12508","Westpunt","Archnid_spider",0
+"568","Hemidactylus mabuoia","12509","Westpunt","Archnid_spider",0
+"569","Hemidactylus mabuoia","12510","Westpunt","Archnid_spider",0
+"570","Phylodactylus","12513","Westpunt","Archnid_spider",0
+"571","Phylodactylus","12514","Westpunt","Archnid_spider",0
+"572","Phylodactylus","12515","Westpunt","Archnid_spider",0
+"573","Phylodactylus","12516","Westpunt","Archnid_spider",0
+"574","Phylodactylus","12517","Westpunt","Archnid_spider",0
+"575","Phylodactylus","12518","Westpunt","Archnid_spider",0
+"576","Phylodactylus","12520","Westpunt","Archnid_spider",0
+"577","Phylodactylus","12521","Westpunt","Archnid_spider",0
+"578","Phylodactylus","12522","Westpunt","Archnid_spider",0
+"579","Phylodactylus","12524","Westpunt","Archnid_spider",0
+"580","Phylodactylus","12525","Westpunt","Archnid_spider",0
+"581","Hemidactylus mabuoia","12540","Westpunt","Archnid_spider",0
+"582","Phylodactylus","12541","Westpunt","Archnid_spider",0
+"583","Phylodactylus","12543","Westpunt","Archnid_spider",0.5
+"584","Phylodactylus","12544","Westpunt","Archnid_spider",0
+"585","Phylodactylus","12547","Westpunt","Archnid_spider",0
+"586","Phylodactylus","12551","Westpunt","Archnid_spider",0
+"587","Hemidactylus mabuoia","12552","Westpunt","Archnid_spider",0
+"588","Hemidactylus mabuoia","12575","Westpunt","Archnid_spider",0
+"589","Hemidactylus mabuoia","12576","Westpunt","Archnid_spider",0
+"590","Hemidactylus mabuoia","12577","Westpunt","Archnid_spider",0
+"591","Phylodactylus","12582","Westpunt","Archnid_spider",0
+"592","Phylodactylus","12583","Westpunt","Archnid_spider",0
+"593","Phylodactylus","12584","Westpunt","Archnid_spider",1
+"594","Phylodactylus","12615","Westpunt","Archnid_spider",0
+"595","Phylodactylus","12618","Westpunt","Archnid_spider",0
+"596","Phylodactylus","12621","Westpunt","Archnid_spider",0
+"597","Phylodactylus","12622","Westpunt","Archnid_spider",0
+"598","Phylodactylus","12623","Westpunt","Archnid_spider",0
+"599","Hemidactylus mabuoia","12632","Westpunt","Archnid_spider",0
+"600","Hemidactylus mabuoia","12633","Westpunt","Archnid_spider",0
+"601","Hemidactylus mabuoia","12634","Westpunt","Archnid_spider",0
+"602","Phylodactylus","12636","Westpunt","Archnid_spider",0
+"603","Phylodactylus","12637","Westpunt","Archnid_spider",0
+"604","Phylodactylus","12638","Westpunt","Archnid_spider",0
+"605","Phylodactylus","12639","Westpunt","Archnid_spider",0
+"606","Phylodactylus","12640","Westpunt","Archnid_spider",0.5
+"607","Hemidactylus mabuoia","12674","Westpunt","Archnid_spider",0
+"608","Hemidactylus mabuoia","12676","Westpunt","Archnid_spider",0
+"609","Phylodactylus","MCB 1098","Westpunt","Archnid_spider",0
+"610","Phylodactylus","MCB 1099","Westpunt","Archnid_spider",0
+"611","Phylodactylus","MCB 1100","Westpunt","Archnid_spider",0
+"612","Phylodactylus","MCB 1101","Westpunt","Archnid_spider",0
+"613","Phylodactylus","MCB 1102","Westpunt","Archnid_spider",0
+"614","Phylodactylus","MCB 1103","Westpunt","Archnid_spider",0
+"615","Phylodactylus","MCB 1104","Westpunt","Archnid_spider",0
+"616","Phylodactylus","MCB 1105","Westpunt","Archnid_spider",0
+"617","Phylodactylus","MCB 1106","Westpunt","Archnid_spider",0
+"618","Phylodactylus","MCB 1107","Westpunt","Archnid_spider",1
+"619","Phylodactylus","MCB 1108","Westpunt","Archnid_spider",0
+"620","Phylodactylus","MCB 1109","Westpunt","Archnid_spider",0
+"621","Phylodactylus","MCB 1110","Westpunt","Archnid_spider",1
+"622","Phylodactylus","MCB 1111","Westpunt","Archnid_spider",0
+"623","Phylodactylus","MCB 1112","Westpunt","Archnid_spider",0
+"624","Phylodactylus","MCB 1113","Westpunt","Archnid_spider",0
+"625","Phylodactylus","MCB 1114","Westpunt","Archnid_spider",0.333333333
+"626","Phylodactylus","MCB 1115","Westpunt","Archnid_spider",0
+"627","Phylodactylus","MCB 1117","Westpunt","Archnid_spider",0
+"628","Phylodactylus","MCB 1118","Westpunt","Archnid_spider",1
+"629","Hemidactylus mabuoia","a1","Westpunt","Archnid_spider",0
+"630","Hemidactylus mabuoia","a2","Westpunt","Archnid_spider",0
+"631","Hemidactylus mabuoia","a3","Westpunt","Archnid_spider",0
+"632","Hemidactylus mabuoia","a4","Westpunt","Archnid_spider",0
+"633","Hemidactylus mabuoia","a5","Westpunt","Archnid_spider",0
+"634","Hemidactylus mabuoia","a6","Westpunt","Archnid_spider",0
+"635","Hemidactylus mabuoia","a7","Westpunt","Archnid_spider",0
+"636","Hemidactylus mabuoia","a8","Westpunt","Archnid_spider",0
+"637","Hemidactylus mabuoia","a9","Westpunt","Archnid_spider",0
+"638","Hemidactylus mabuoia","a10","Westpunt","Archnid_spider",1
+"639","Hemidactylus mabuoia","a11","Westpunt","Archnid_spider",1
+"640","Hemidactylus mabuoia","a12","Westpunt","Archnid_spider",0
+"641","Hemidactylus mabuoia","a13","Westpunt","Archnid_spider",0
+"642","Hemidactylus mabuoia","a14","Westpunt","Archnid_spider",0
+"643","Hemidactylus mabuoia","a15","Westpunt","Archnid_spider",0
+"644","Hemidactylus mabuoia","a16","Westpunt","Archnid_spider",0
+"696","Hemidactylus mabuoia","12506","Westpunt","Other",0
+"697","Hemidactylus mabuoia","12507","Westpunt","Other",0
+"698","Hemidactylus mabuoia","12508","Westpunt","Other",0
+"699","Hemidactylus mabuoia","12509","Westpunt","Other",0
+"700","Hemidactylus mabuoia","12510","Westpunt","Other",0
+"701","Phylodactylus","12513","Westpunt","Other",0
+"702","Phylodactylus","12514","Westpunt","Other",0
+"703","Phylodactylus","12515","Westpunt","Other",0
+"704","Phylodactylus","12516","Westpunt","Other",0
+"705","Phylodactylus","12517","Westpunt","Other",0
+"706","Phylodactylus","12518","Westpunt","Other",1
+"707","Phylodactylus","12520","Westpunt","Other",0
+"708","Phylodactylus","12521","Westpunt","Other",0
+"709","Phylodactylus","12522","Westpunt","Other",0
+"710","Phylodactylus","12524","Westpunt","Other",0
+"711","Phylodactylus","12525","Westpunt","Other",0
+"712","Hemidactylus mabuoia","12540","Westpunt","Other",0
+"713","Phylodactylus","12541","Westpunt","Other",0
+"714","Phylodactylus","12543","Westpunt","Other",0
+"715","Phylodactylus","12544","Westpunt","Other",0
+"716","Phylodactylus","12547","Westpunt","Other",0
+"717","Phylodactylus","12551","Westpunt","Other",0
+"718","Hemidactylus mabuoia","12552","Westpunt","Other",0
+"719","Hemidactylus mabuoia","12575","Westpunt","Other",0
+"720","Hemidactylus mabuoia","12576","Westpunt","Other",0
+"721","Hemidactylus mabuoia","12577","Westpunt","Other",0
+"722","Phylodactylus","12582","Westpunt","Other",0
+"723","Phylodactylus","12583","Westpunt","Other",0
+"724","Phylodactylus","12584","Westpunt","Other",0
+"725","Phylodactylus","12615","Westpunt","Other",1
+"726","Phylodactylus","12618","Westpunt","Other",0
+"727","Phylodactylus","12621","Westpunt","Other",1
+"728","Phylodactylus","12622","Westpunt","Other",1
+"729","Phylodactylus","12623","Westpunt","Other",1
+"730","Hemidactylus mabuoia","12632","Westpunt","Other",0
+"731","Hemidactylus mabuoia","12633","Westpunt","Other",0
+"732","Hemidactylus mabuoia","12634","Westpunt","Other",1
+"733","Phylodactylus","12636","Westpunt","Other",0
+"734","Phylodactylus","12637","Westpunt","Other",0
+"735","Phylodactylus","12638","Westpunt","Other",0
+"736","Phylodactylus","12639","Westpunt","Other",1
+"737","Phylodactylus","12640","Westpunt","Other",0
+"738","Hemidactylus mabuoia","12674","Westpunt","Other",0
+"739","Hemidactylus mabuoia","12676","Westpunt","Other",0
+"740","Phylodactylus","MCB 1098","Westpunt","Other",0
+"741","Phylodactylus","MCB 1099","Westpunt","Other",0
+"742","Phylodactylus","MCB 1100","Westpunt","Other",0
+"743","Phylodactylus","MCB 1101","Westpunt","Other",0
+"744","Phylodactylus","MCB 1102","Westpunt","Other",0
+"745","Phylodactylus","MCB 1103","Westpunt","Other",0
+"746","Phylodactylus","MCB 1104","Westpunt","Other",0
+"747","Phylodactylus","MCB 1105","Westpunt","Other",0.5
+"748","Phylodactylus","MCB 1106","Westpunt","Other",0
+"749","Phylodactylus","MCB 1107","Westpunt","Other",0
+"750","Phylodactylus","MCB 1108","Westpunt","Other",0
+"751","Phylodactylus","MCB 1109","Westpunt","Other",0
+"752","Phylodactylus","MCB 1110","Westpunt","Other",0
+"753","Phylodactylus","MCB 1111","Westpunt","Other",0
+"754","Phylodactylus","MCB 1112","Westpunt","Other",0
+"755","Phylodactylus","MCB 1113","Westpunt","Other",0
+"756","Phylodactylus","MCB 1114","Westpunt","Other",0
+"757","Phylodactylus","MCB 1115","Westpunt","Other",1
+"758","Phylodactylus","MCB 1117","Westpunt","Other",0
+"759","Phylodactylus","MCB 1118","Westpunt","Other",0
+"760","Hemidactylus mabuoia","a1","Westpunt","Other",0
+"761","Hemidactylus mabuoia","a2","Westpunt","Other",0
+"762","Hemidactylus mabuoia","a3","Westpunt","Other",0
+"763","Hemidactylus mabuoia","a4","Westpunt","Other",0
+"764","Hemidactylus mabuoia","a5","Westpunt","Other",0
+"765","Hemidactylus mabuoia","a6","Westpunt","Other",0
+"766","Hemidactylus mabuoia","a7","Westpunt","Other",0
+"767","Hemidactylus mabuoia","a8","Westpunt","Other",0
+"768","Hemidactylus mabuoia","a9","Westpunt","Other",0
+"769","Hemidactylus mabuoia","a10","Westpunt","Other",0
+"770","Hemidactylus mabuoia","a11","Westpunt","Other",0
+"771","Hemidactylus mabuoia","a12","Westpunt","Other",0
+"772","Hemidactylus mabuoia","a13","Westpunt","Other",0
+"773","Hemidactylus mabuoia","a14","Westpunt","Other",0
+"774","Hemidactylus mabuoia","a15","Westpunt","Other",0
+"775","Hemidactylus mabuoia","a16","Westpunt","Other",0
+"827","Hemidactylus mabuoia","12506","Westpunt","Centipede",0
+"828","Hemidactylus mabuoia","12507","Westpunt","Centipede",0
+"829","Hemidactylus mabuoia","12508","Westpunt","Centipede",0
+"830","Hemidactylus mabuoia","12509","Westpunt","Centipede",0
+"831","Hemidactylus mabuoia","12510","Westpunt","Centipede",0
+"832","Phylodactylus","12513","Westpunt","Centipede",0
+"833","Phylodactylus","12514","Westpunt","Centipede",0
+"834","Phylodactylus","12515","Westpunt","Centipede",0
+"835","Phylodactylus","12516","Westpunt","Centipede",0
+"836","Phylodactylus","12517","Westpunt","Centipede",0
+"837","Phylodactylus","12518","Westpunt","Centipede",0
+"838","Phylodactylus","12520","Westpunt","Centipede",0
+"839","Phylodactylus","12521","Westpunt","Centipede",0
+"840","Phylodactylus","12522","Westpunt","Centipede",0.333333333
+"841","Phylodactylus","12524","Westpunt","Centipede",0
+"842","Phylodactylus","12525","Westpunt","Centipede",0
+"843","Hemidactylus mabuoia","12540","Westpunt","Centipede",0
+"844","Phylodactylus","12541","Westpunt","Centipede",0
+"845","Phylodactylus","12543","Westpunt","Centipede",0
+"846","Phylodactylus","12544","Westpunt","Centipede",0
+"847","Phylodactylus","12547","Westpunt","Centipede",0
+"848","Phylodactylus","12551","Westpunt","Centipede",0
+"849","Hemidactylus mabuoia","12552","Westpunt","Centipede",0
+"850","Hemidactylus mabuoia","12575","Westpunt","Centipede",0
+"851","Hemidactylus mabuoia","12576","Westpunt","Centipede",0
+"852","Hemidactylus mabuoia","12577","Westpunt","Centipede",0
+"853","Phylodactylus","12582","Westpunt","Centipede",0
+"854","Phylodactylus","12583","Westpunt","Centipede",0
+"855","Phylodactylus","12584","Westpunt","Centipede",0
+"856","Phylodactylus","12615","Westpunt","Centipede",0
+"857","Phylodactylus","12618","Westpunt","Centipede",0
+"858","Phylodactylus","12621","Westpunt","Centipede",0
+"859","Phylodactylus","12622","Westpunt","Centipede",0
+"860","Phylodactylus","12623","Westpunt","Centipede",0
+"861","Hemidactylus mabuoia","12632","Westpunt","Centipede",0
+"862","Hemidactylus mabuoia","12633","Westpunt","Centipede",0
+"863","Hemidactylus mabuoia","12634","Westpunt","Centipede",0
+"864","Phylodactylus","12636","Westpunt","Centipede",0
+"865","Phylodactylus","12637","Westpunt","Centipede",0
+"866","Phylodactylus","12638","Westpunt","Centipede",0
+"867","Phylodactylus","12639","Westpunt","Centipede",0
+"868","Phylodactylus","12640","Westpunt","Centipede",0
+"869","Hemidactylus mabuoia","12674","Westpunt","Centipede",0
+"870","Hemidactylus mabuoia","12676","Westpunt","Centipede",0
+"871","Phylodactylus","MCB 1098","Westpunt","Centipede",0
+"872","Phylodactylus","MCB 1099","Westpunt","Centipede",0
+"873","Phylodactylus","MCB 1100","Westpunt","Centipede",0
+"874","Phylodactylus","MCB 1101","Westpunt","Centipede",0
+"875","Phylodactylus","MCB 1102","Westpunt","Centipede",0
+"876","Phylodactylus","MCB 1103","Westpunt","Centipede",0
+"877","Phylodactylus","MCB 1104","Westpunt","Centipede",0
+"878","Phylodactylus","MCB 1105","Westpunt","Centipede",0
+"879","Phylodactylus","MCB 1106","Westpunt","Centipede",0
+"880","Phylodactylus","MCB 1107","Westpunt","Centipede",0
+"881","Phylodactylus","MCB 1108","Westpunt","Centipede",0
+"882","Phylodactylus","MCB 1109","Westpunt","Centipede",0
+"883","Phylodactylus","MCB 1110","Westpunt","Centipede",0
+"884","Phylodactylus","MCB 1111","Westpunt","Centipede",0
+"885","Phylodactylus","MCB 1112","Westpunt","Centipede",0
+"886","Phylodactylus","MCB 1113","Westpunt","Centipede",0
+"887","Phylodactylus","MCB 1114","Westpunt","Centipede",0
+"888","Phylodactylus","MCB 1115","Westpunt","Centipede",0
+"889","Phylodactylus","MCB 1117","Westpunt","Centipede",0
+"890","Phylodactylus","MCB 1118","Westpunt","Centipede",0
+"891","Hemidactylus mabuoia","a1","Westpunt","Centipede",0
+"892","Hemidactylus mabuoia","a2","Westpunt","Centipede",0
+"893","Hemidactylus mabuoia","a3","Westpunt","Centipede",0
+"894","Hemidactylus mabuoia","a4","Westpunt","Centipede",0
+"895","Hemidactylus mabuoia","a5","Westpunt","Centipede",0
+"896","Hemidactylus mabuoia","a6","Westpunt","Centipede",0
+"897","Hemidactylus mabuoia","a7","Westpunt","Centipede",0
+"898","Hemidactylus mabuoia","a8","Westpunt","Centipede",0
+"899","Hemidactylus mabuoia","a9","Westpunt","Centipede",0
+"900","Hemidactylus mabuoia","a10","Westpunt","Centipede",0
+"901","Hemidactylus mabuoia","a11","Westpunt","Centipede",0
+"902","Hemidactylus mabuoia","a12","Westpunt","Centipede",0
+"903","Hemidactylus mabuoia","a13","Westpunt","Centipede",0
+"904","Hemidactylus mabuoia","a14","Westpunt","Centipede",0
+"905","Hemidactylus mabuoia","a15","Westpunt","Centipede",0
+"906","Hemidactylus mabuoia","a16","Westpunt","Centipede",0
+"958","Hemidactylus mabuoia","12506","Westpunt","Isopod",0
+"959","Hemidactylus mabuoia","12507","Westpunt","Isopod",0
+"960","Hemidactylus mabuoia","12508","Westpunt","Isopod",0
+"961","Hemidactylus mabuoia","12509","Westpunt","Isopod",0
+"962","Hemidactylus mabuoia","12510","Westpunt","Isopod",0
+"963","Phylodactylus","12513","Westpunt","Isopod",0
+"964","Phylodactylus","12514","Westpunt","Isopod",0
+"965","Phylodactylus","12515","Westpunt","Isopod",0
+"966","Phylodactylus","12516","Westpunt","Isopod",0
+"967","Phylodactylus","12517","Westpunt","Isopod",0
+"968","Phylodactylus","12518","Westpunt","Isopod",0
+"969","Phylodactylus","12520","Westpunt","Isopod",0
+"970","Phylodactylus","12521","Westpunt","Isopod",0
+"971","Phylodactylus","12522","Westpunt","Isopod",0.333333333
+"972","Phylodactylus","12524","Westpunt","Isopod",0
+"973","Phylodactylus","12525","Westpunt","Isopod",0
+"974","Hemidactylus mabuoia","12540","Westpunt","Isopod",0
+"975","Phylodactylus","12541","Westpunt","Isopod",0
+"976","Phylodactylus","12543","Westpunt","Isopod",0
+"977","Phylodactylus","12544","Westpunt","Isopod",0
+"978","Phylodactylus","12547","Westpunt","Isopod",0
+"979","Phylodactylus","12551","Westpunt","Isopod",0
+"980","Hemidactylus mabuoia","12552","Westpunt","Isopod",1
+"981","Hemidactylus mabuoia","12575","Westpunt","Isopod",0
+"982","Hemidactylus mabuoia","12576","Westpunt","Isopod",1
+"983","Hemidactylus mabuoia","12577","Westpunt","Isopod",0
+"984","Phylodactylus","12582","Westpunt","Isopod",0
+"985","Phylodactylus","12583","Westpunt","Isopod",0
+"986","Phylodactylus","12584","Westpunt","Isopod",0
+"987","Phylodactylus","12615","Westpunt","Isopod",0
+"988","Phylodactylus","12618","Westpunt","Isopod",0
+"989","Phylodactylus","12621","Westpunt","Isopod",0
+"990","Phylodactylus","12622","Westpunt","Isopod",0
+"991","Phylodactylus","12623","Westpunt","Isopod",0
+"992","Hemidactylus mabuoia","12632","Westpunt","Isopod",0
+"993","Hemidactylus mabuoia","12633","Westpunt","Isopod",0
+"994","Hemidactylus mabuoia","12634","Westpunt","Isopod",0
+"995","Phylodactylus","12636","Westpunt","Isopod",0
+"996","Phylodactylus","12637","Westpunt","Isopod",0
+"997","Phylodactylus","12638","Westpunt","Isopod",0.333333333
+"998","Phylodactylus","12639","Westpunt","Isopod",0
+"999","Phylodactylus","12640","Westpunt","Isopod",0
+"1000","Hemidactylus mabuoia","12674","Westpunt","Isopod",0
+"1001","Hemidactylus mabuoia","12676","Westpunt","Isopod",0
+"1002","Phylodactylus","MCB 1098","Westpunt","Isopod",0
+"1003","Phylodactylus","MCB 1099","Westpunt","Isopod",0
+"1004","Phylodactylus","MCB 1100","Westpunt","Isopod",0
+"1005","Phylodactylus","MCB 1101","Westpunt","Isopod",0
+"1006","Phylodactylus","MCB 1102","Westpunt","Isopod",0
+"1007","Phylodactylus","MCB 1103","Westpunt","Isopod",0
+"1008","Phylodactylus","MCB 1104","Westpunt","Isopod",0
+"1009","Phylodactylus","MCB 1105","Westpunt","Isopod",0
+"1010","Phylodactylus","MCB 1106","Westpunt","Isopod",0
+"1011","Phylodactylus","MCB 1107","Westpunt","Isopod",0
+"1012","Phylodactylus","MCB 1108","Westpunt","Isopod",0
+"1013","Phylodactylus","MCB 1109","Westpunt","Isopod",0
+"1014","Phylodactylus","MCB 1110","Westpunt","Isopod",0
+"1015","Phylodactylus","MCB 1111","Westpunt","Isopod",0
+"1016","Phylodactylus","MCB 1112","Westpunt","Isopod",0
+"1017","Phylodactylus","MCB 1113","Westpunt","Isopod",0
+"1018","Phylodactylus","MCB 1114","Westpunt","Isopod",0
+"1019","Phylodactylus","MCB 1115","Westpunt","Isopod",0
+"1020","Phylodactylus","MCB 1117","Westpunt","Isopod",0
+"1021","Phylodactylus","MCB 1118","Westpunt","Isopod",0
+"1022","Hemidactylus mabuoia","a1","Westpunt","Isopod",0
+"1023","Hemidactylus mabuoia","a2","Westpunt","Isopod",0
+"1024","Hemidactylus mabuoia","a3","Westpunt","Isopod",0
+"1025","Hemidactylus mabuoia","a4","Westpunt","Isopod",0
+"1026","Hemidactylus mabuoia","a5","Westpunt","Isopod",0
+"1027","Hemidactylus mabuoia","a6","Westpunt","Isopod",0
+"1028","Hemidactylus mabuoia","a7","Westpunt","Isopod",0
+"1029","Hemidactylus mabuoia","a8","Westpunt","Isopod",0
+"1030","Hemidactylus mabuoia","a9","Westpunt","Isopod",0
+"1031","Hemidactylus mabuoia","a10","Westpunt","Isopod",0
+"1032","Hemidactylus mabuoia","a11","Westpunt","Isopod",0
+"1033","Hemidactylus mabuoia","a12","Westpunt","Isopod",0
+"1034","Hemidactylus mabuoia","a13","Westpunt","Isopod",0
+"1035","Hemidactylus mabuoia","a14","Westpunt","Isopod",0
+"1036","Hemidactylus mabuoia","a15","Westpunt","Isopod",0
+"1037","Hemidactylus mabuoia","a16","Westpunt","Isopod",0
+"1089","Hemidactylus mabuoia","12506","Westpunt","Hemiptera",0
+"1090","Hemidactylus mabuoia","12507","Westpunt","Hemiptera",0
+"1091","Hemidactylus mabuoia","12508","Westpunt","Hemiptera",0
+"1092","Hemidactylus mabuoia","12509","Westpunt","Hemiptera",0
+"1093","Hemidactylus mabuoia","12510","Westpunt","Hemiptera",0
+"1094","Phylodactylus","12513","Westpunt","Hemiptera",0
+"1095","Phylodactylus","12514","Westpunt","Hemiptera",0
+"1096","Phylodactylus","12515","Westpunt","Hemiptera",0
+"1097","Phylodactylus","12516","Westpunt","Hemiptera",0
+"1098","Phylodactylus","12517","Westpunt","Hemiptera",0
+"1099","Phylodactylus","12518","Westpunt","Hemiptera",0
+"1100","Phylodactylus","12520","Westpunt","Hemiptera",0
+"1101","Phylodactylus","12521","Westpunt","Hemiptera",0
+"1102","Phylodactylus","12522","Westpunt","Hemiptera",0
+"1103","Phylodactylus","12524","Westpunt","Hemiptera",0
+"1104","Phylodactylus","12525","Westpunt","Hemiptera",0.5
+"1105","Hemidactylus mabuoia","12540","Westpunt","Hemiptera",0
+"1106","Phylodactylus","12541","Westpunt","Hemiptera",0
+"1107","Phylodactylus","12543","Westpunt","Hemiptera",0
+"1108","Phylodactylus","12544","Westpunt","Hemiptera",0
+"1109","Phylodactylus","12547","Westpunt","Hemiptera",0
+"1110","Phylodactylus","12551","Westpunt","Hemiptera",0
+"1111","Hemidactylus mabuoia","12552","Westpunt","Hemiptera",0
+"1112","Hemidactylus mabuoia","12575","Westpunt","Hemiptera",0
+"1113","Hemidactylus mabuoia","12576","Westpunt","Hemiptera",0
+"1114","Hemidactylus mabuoia","12577","Westpunt","Hemiptera",0
+"1115","Phylodactylus","12582","Westpunt","Hemiptera",0
+"1116","Phylodactylus","12583","Westpunt","Hemiptera",0
+"1117","Phylodactylus","12584","Westpunt","Hemiptera",0
+"1118","Phylodactylus","12615","Westpunt","Hemiptera",0
+"1119","Phylodactylus","12618","Westpunt","Hemiptera",0
+"1120","Phylodactylus","12621","Westpunt","Hemiptera",0
+"1121","Phylodactylus","12622","Westpunt","Hemiptera",0
+"1122","Phylodactylus","12623","Westpunt","Hemiptera",0
+"1123","Hemidactylus mabuoia","12632","Westpunt","Hemiptera",0
+"1124","Hemidactylus mabuoia","12633","Westpunt","Hemiptera",0
+"1125","Hemidactylus mabuoia","12634","Westpunt","Hemiptera",0
+"1126","Phylodactylus","12636","Westpunt","Hemiptera",0
+"1127","Phylodactylus","12637","Westpunt","Hemiptera",0
+"1128","Phylodactylus","12638","Westpunt","Hemiptera",0
+"1129","Phylodactylus","12639","Westpunt","Hemiptera",0
+"1130","Phylodactylus","12640","Westpunt","Hemiptera",0
+"1131","Hemidactylus mabuoia","12674","Westpunt","Hemiptera",0
+"1132","Hemidactylus mabuoia","12676","Westpunt","Hemiptera",0
+"1133","Phylodactylus","MCB 1098","Westpunt","Hemiptera",0.166666667
+"1134","Phylodactylus","MCB 1099","Westpunt","Hemiptera",0
+"1135","Phylodactylus","MCB 1100","Westpunt","Hemiptera",0
+"1136","Phylodactylus","MCB 1101","Westpunt","Hemiptera",0
+"1137","Phylodactylus","MCB 1102","Westpunt","Hemiptera",0
+"1138","Phylodactylus","MCB 1103","Westpunt","Hemiptera",0
+"1139","Phylodactylus","MCB 1104","Westpunt","Hemiptera",0
+"1140","Phylodactylus","MCB 1105","Westpunt","Hemiptera",0
+"1141","Phylodactylus","MCB 1106","Westpunt","Hemiptera",0
+"1142","Phylodactylus","MCB 1107","Westpunt","Hemiptera",0
+"1143","Phylodactylus","MCB 1108","Westpunt","Hemiptera",0
+"1144","Phylodactylus","MCB 1109","Westpunt","Hemiptera",0
+"1145","Phylodactylus","MCB 1110","Westpunt","Hemiptera",0
+"1146","Phylodactylus","MCB 1111","Westpunt","Hemiptera",0
+"1147","Phylodactylus","MCB 1112","Westpunt","Hemiptera",0
+"1148","Phylodactylus","MCB 1113","Westpunt","Hemiptera",0
+"1149","Phylodactylus","MCB 1114","Westpunt","Hemiptera",0
+"1150","Phylodactylus","MCB 1115","Westpunt","Hemiptera",0
+"1151","Phylodactylus","MCB 1117","Westpunt","Hemiptera",0
+"1152","Phylodactylus","MCB 1118","Westpunt","Hemiptera",0
+"1153","Hemidactylus mabuoia","a1","Westpunt","Hemiptera",0
+"1154","Hemidactylus mabuoia","a2","Westpunt","Hemiptera",0
+"1155","Hemidactylus mabuoia","a3","Westpunt","Hemiptera",0
+"1156","Hemidactylus mabuoia","a4","Westpunt","Hemiptera",0
+"1157","Hemidactylus mabuoia","a5","Westpunt","Hemiptera",0
+"1158","Hemidactylus mabuoia","a6","Westpunt","Hemiptera",0
+"1159","Hemidactylus mabuoia","a7","Westpunt","Hemiptera",0
+"1160","Hemidactylus mabuoia","a8","Westpunt","Hemiptera",0
+"1161","Hemidactylus mabuoia","a9","Westpunt","Hemiptera",0
+"1162","Hemidactylus mabuoia","a10","Westpunt","Hemiptera",0
+"1163","Hemidactylus mabuoia","a11","Westpunt","Hemiptera",0
+"1164","Hemidactylus mabuoia","a12","Westpunt","Hemiptera",0
+"1165","Hemidactylus mabuoia","a13","Westpunt","Hemiptera",0
+"1166","Hemidactylus mabuoia","a14","Westpunt","Hemiptera",0
+"1167","Hemidactylus mabuoia","a15","Westpunt","Hemiptera",0
+"1168","Hemidactylus mabuoia","a16","Westpunt","Hemiptera",0
+"1220","Hemidactylus mabuoia","12506","Westpunt","Hymenoptera",0
+"1221","Hemidactylus mabuoia","12507","Westpunt","Hymenoptera",0
+"1222","Hemidactylus mabuoia","12508","Westpunt","Hymenoptera",0
+"1223","Hemidactylus mabuoia","12509","Westpunt","Hymenoptera",0
+"1224","Hemidactylus mabuoia","12510","Westpunt","Hymenoptera",0
+"1225","Phylodactylus","12513","Westpunt","Hymenoptera",0
+"1226","Phylodactylus","12514","Westpunt","Hymenoptera",0
+"1227","Phylodactylus","12515","Westpunt","Hymenoptera",0
+"1228","Phylodactylus","12516","Westpunt","Hymenoptera",0
+"1229","Phylodactylus","12517","Westpunt","Hymenoptera",0
+"1230","Phylodactylus","12518","Westpunt","Hymenoptera",0
+"1231","Phylodactylus","12520","Westpunt","Hymenoptera",0
+"1232","Phylodactylus","12521","Westpunt","Hymenoptera",0
+"1233","Phylodactylus","12522","Westpunt","Hymenoptera",0
+"1234","Phylodactylus","12524","Westpunt","Hymenoptera",0
+"1235","Phylodactylus","12525","Westpunt","Hymenoptera",0
+"1236","Hemidactylus mabuoia","12540","Westpunt","Hymenoptera",0
+"1237","Phylodactylus","12541","Westpunt","Hymenoptera",0
+"1238","Phylodactylus","12543","Westpunt","Hymenoptera",0
+"1239","Phylodactylus","12544","Westpunt","Hymenoptera",1
+"1240","Phylodactylus","12547","Westpunt","Hymenoptera",0
+"1241","Phylodactylus","12551","Westpunt","Hymenoptera",0
+"1242","Hemidactylus mabuoia","12552","Westpunt","Hymenoptera",0
+"1243","Hemidactylus mabuoia","12575","Westpunt","Hymenoptera",0
+"1244","Hemidactylus mabuoia","12576","Westpunt","Hymenoptera",0
+"1245","Hemidactylus mabuoia","12577","Westpunt","Hymenoptera",0
+"1246","Phylodactylus","12582","Westpunt","Hymenoptera",0
+"1247","Phylodactylus","12583","Westpunt","Hymenoptera",0
+"1248","Phylodactylus","12584","Westpunt","Hymenoptera",0
+"1249","Phylodactylus","12615","Westpunt","Hymenoptera",0
+"1250","Phylodactylus","12618","Westpunt","Hymenoptera",0
+"1251","Phylodactylus","12621","Westpunt","Hymenoptera",0
+"1252","Phylodactylus","12622","Westpunt","Hymenoptera",0
+"1253","Phylodactylus","12623","Westpunt","Hymenoptera",0
+"1254","Hemidactylus mabuoia","12632","Westpunt","Hymenoptera",0
+"1255","Hemidactylus mabuoia","12633","Westpunt","Hymenoptera",0
+"1256","Hemidactylus mabuoia","12634","Westpunt","Hymenoptera",0
+"1257","Phylodactylus","12636","Westpunt","Hymenoptera",0
+"1258","Phylodactylus","12637","Westpunt","Hymenoptera",0
+"1259","Phylodactylus","12638","Westpunt","Hymenoptera",0.333333333
+"1260","Phylodactylus","12639","Westpunt","Hymenoptera",0
+"1261","Phylodactylus","12640","Westpunt","Hymenoptera",0
+"1262","Hemidactylus mabuoia","12674","Westpunt","Hymenoptera",0
+"1263","Hemidactylus mabuoia","12676","Westpunt","Hymenoptera",0
+"1264","Phylodactylus","MCB 1098","Westpunt","Hymenoptera",0
+"1265","Phylodactylus","MCB 1099","Westpunt","Hymenoptera",0.5
+"1266","Phylodactylus","MCB 1100","Westpunt","Hymenoptera",0
+"1267","Phylodactylus","MCB 1101","Westpunt","Hymenoptera",0
+"1268","Phylodactylus","MCB 1102","Westpunt","Hymenoptera",0.5
+"1269","Phylodactylus","MCB 1103","Westpunt","Hymenoptera",0
+"1270","Phylodactylus","MCB 1104","Westpunt","Hymenoptera",0
+"1271","Phylodactylus","MCB 1105","Westpunt","Hymenoptera",0
+"1272","Phylodactylus","MCB 1106","Westpunt","Hymenoptera",0.5
+"1273","Phylodactylus","MCB 1107","Westpunt","Hymenoptera",0
+"1274","Phylodactylus","MCB 1108","Westpunt","Hymenoptera",0
+"1275","Phylodactylus","MCB 1109","Westpunt","Hymenoptera",0
+"1276","Phylodactylus","MCB 1110","Westpunt","Hymenoptera",0
+"1277","Phylodactylus","MCB 1111","Westpunt","Hymenoptera",0
+"1278","Phylodactylus","MCB 1112","Westpunt","Hymenoptera",0
+"1279","Phylodactylus","MCB 1113","Westpunt","Hymenoptera",0
+"1280","Phylodactylus","MCB 1114","Westpunt","Hymenoptera",0
+"1281","Phylodactylus","MCB 1115","Westpunt","Hymenoptera",0
+"1282","Phylodactylus","MCB 1117","Westpunt","Hymenoptera",0
+"1283","Phylodactylus","MCB 1118","Westpunt","Hymenoptera",0
+"1284","Hemidactylus mabuoia","a1","Westpunt","Hymenoptera",0
+"1285","Hemidactylus mabuoia","a2","Westpunt","Hymenoptera",0
+"1286","Hemidactylus mabuoia","a3","Westpunt","Hymenoptera",1
+"1287","Hemidactylus mabuoia","a4","Westpunt","Hymenoptera",1
+"1288","Hemidactylus mabuoia","a5","Westpunt","Hymenoptera",0
+"1289","Hemidactylus mabuoia","a6","Westpunt","Hymenoptera",0
+"1290","Hemidactylus mabuoia","a7","Westpunt","Hymenoptera",0
+"1291","Hemidactylus mabuoia","a8","Westpunt","Hymenoptera",1
+"1292","Hemidactylus mabuoia","a9","Westpunt","Hymenoptera",0
+"1293","Hemidactylus mabuoia","a10","Westpunt","Hymenoptera",0
+"1294","Hemidactylus mabuoia","a11","Westpunt","Hymenoptera",0
+"1295","Hemidactylus mabuoia","a12","Westpunt","Hymenoptera",0
+"1296","Hemidactylus mabuoia","a13","Westpunt","Hymenoptera",0
+"1297","Hemidactylus mabuoia","a14","Westpunt","Hymenoptera",0
+"1298","Hemidactylus mabuoia","a15","Westpunt","Hymenoptera",0
+"1299","Hemidactylus mabuoia","a16","Westpunt","Hymenoptera",0
+"1351","Hemidactylus mabuoia","12506","Westpunt","Orthoptera",0
+"1352","Hemidactylus mabuoia","12507","Westpunt","Orthoptera",0
+"1353","Hemidactylus mabuoia","12508","Westpunt","Orthoptera",0
+"1354","Hemidactylus mabuoia","12509","Westpunt","Orthoptera",0
+"1355","Hemidactylus mabuoia","12510","Westpunt","Orthoptera",0
+"1356","Phylodactylus","12513","Westpunt","Orthoptera",0
+"1357","Phylodactylus","12514","Westpunt","Orthoptera",0
+"1358","Phylodactylus","12515","Westpunt","Orthoptera",0
+"1359","Phylodactylus","12516","Westpunt","Orthoptera",0
+"1360","Phylodactylus","12517","Westpunt","Orthoptera",0
+"1361","Phylodactylus","12518","Westpunt","Orthoptera",0
+"1362","Phylodactylus","12520","Westpunt","Orthoptera",0
+"1363","Phylodactylus","12521","Westpunt","Orthoptera",0
+"1364","Phylodactylus","12522","Westpunt","Orthoptera",0
+"1365","Phylodactylus","12524","Westpunt","Orthoptera",0
+"1366","Phylodactylus","12525","Westpunt","Orthoptera",0
+"1367","Hemidactylus mabuoia","12540","Westpunt","Orthoptera",0
+"1368","Phylodactylus","12541","Westpunt","Orthoptera",0
+"1369","Phylodactylus","12543","Westpunt","Orthoptera",0
+"1370","Phylodactylus","12544","Westpunt","Orthoptera",0
+"1371","Phylodactylus","12547","Westpunt","Orthoptera",0
+"1372","Phylodactylus","12551","Westpunt","Orthoptera",0
+"1373","Hemidactylus mabuoia","12552","Westpunt","Orthoptera",0
+"1374","Hemidactylus mabuoia","12575","Westpunt","Orthoptera",0
+"1375","Hemidactylus mabuoia","12576","Westpunt","Orthoptera",0
+"1376","Hemidactylus mabuoia","12577","Westpunt","Orthoptera",0
+"1377","Phylodactylus","12582","Westpunt","Orthoptera",0
+"1378","Phylodactylus","12583","Westpunt","Orthoptera",0
+"1379","Phylodactylus","12584","Westpunt","Orthoptera",0
+"1380","Phylodactylus","12615","Westpunt","Orthoptera",0
+"1381","Phylodactylus","12618","Westpunt","Orthoptera",0
+"1382","Phylodactylus","12621","Westpunt","Orthoptera",0
+"1383","Phylodactylus","12622","Westpunt","Orthoptera",0
+"1384","Phylodactylus","12623","Westpunt","Orthoptera",0
+"1385","Hemidactylus mabuoia","12632","Westpunt","Orthoptera",0
+"1386","Hemidactylus mabuoia","12633","Westpunt","Orthoptera",0
+"1387","Hemidactylus mabuoia","12634","Westpunt","Orthoptera",0
+"1388","Phylodactylus","12636","Westpunt","Orthoptera",0
+"1389","Phylodactylus","12637","Westpunt","Orthoptera",0.333333333
+"1390","Phylodactylus","12638","Westpunt","Orthoptera",0
+"1391","Phylodactylus","12639","Westpunt","Orthoptera",0
+"1392","Phylodactylus","12640","Westpunt","Orthoptera",0
+"1393","Hemidactylus mabuoia","12674","Westpunt","Orthoptera",0
+"1394","Hemidactylus mabuoia","12676","Westpunt","Orthoptera",0
+"1395","Phylodactylus","MCB 1098","Westpunt","Orthoptera",0
+"1396","Phylodactylus","MCB 1099","Westpunt","Orthoptera",0
+"1397","Phylodactylus","MCB 1100","Westpunt","Orthoptera",0
+"1398","Phylodactylus","MCB 1101","Westpunt","Orthoptera",0
+"1399","Phylodactylus","MCB 1102","Westpunt","Orthoptera",0.5
+"1400","Phylodactylus","MCB 1103","Westpunt","Orthoptera",0
+"1401","Phylodactylus","MCB 1104","Westpunt","Orthoptera",0
+"1402","Phylodactylus","MCB 1105","Westpunt","Orthoptera",0
+"1403","Phylodactylus","MCB 1106","Westpunt","Orthoptera",0
+"1404","Phylodactylus","MCB 1107","Westpunt","Orthoptera",0
+"1405","Phylodactylus","MCB 1108","Westpunt","Orthoptera",0
+"1406","Phylodactylus","MCB 1109","Westpunt","Orthoptera",0
+"1407","Phylodactylus","MCB 1110","Westpunt","Orthoptera",0
+"1408","Phylodactylus","MCB 1111","Westpunt","Orthoptera",0
+"1409","Phylodactylus","MCB 1112","Westpunt","Orthoptera",0
+"1410","Phylodactylus","MCB 1113","Westpunt","Orthoptera",0
+"1411","Phylodactylus","MCB 1114","Westpunt","Orthoptera",0
+"1412","Phylodactylus","MCB 1115","Westpunt","Orthoptera",0
+"1413","Phylodactylus","MCB 1117","Westpunt","Orthoptera",0
+"1414","Phylodactylus","MCB 1118","Westpunt","Orthoptera",0
+"1415","Hemidactylus mabuoia","a1","Westpunt","Orthoptera",0
+"1416","Hemidactylus mabuoia","a2","Westpunt","Orthoptera",0
+"1417","Hemidactylus mabuoia","a3","Westpunt","Orthoptera",0
+"1418","Hemidactylus mabuoia","a4","Westpunt","Orthoptera",0
+"1419","Hemidactylus mabuoia","a5","Westpunt","Orthoptera",0
+"1420","Hemidactylus mabuoia","a6","Westpunt","Orthoptera",0
+"1421","Hemidactylus mabuoia","a7","Westpunt","Orthoptera",0
+"1422","Hemidactylus mabuoia","a8","Westpunt","Orthoptera",0
+"1423","Hemidactylus mabuoia","a9","Westpunt","Orthoptera",0
+"1424","Hemidactylus mabuoia","a10","Westpunt","Orthoptera",0
+"1425","Hemidactylus mabuoia","a11","Westpunt","Orthoptera",0
+"1426","Hemidactylus mabuoia","a12","Westpunt","Orthoptera",0
+"1427","Hemidactylus mabuoia","a13","Westpunt","Orthoptera",0
+"1428","Hemidactylus mabuoia","a14","Westpunt","Orthoptera",0
+"1429","Hemidactylus mabuoia","a15","Westpunt","Orthoptera",0
+"1430","Hemidactylus mabuoia","a16","Westpunt","Orthoptera",0
+"1482","Hemidactylus mabuoia","12506","Westpunt","Ephermeroptera",0
+"1483","Hemidactylus mabuoia","12507","Westpunt","Ephermeroptera",0
+"1484","Hemidactylus mabuoia","12508","Westpunt","Ephermeroptera",0
+"1485","Hemidactylus mabuoia","12509","Westpunt","Ephermeroptera",0
+"1486","Hemidactylus mabuoia","12510","Westpunt","Ephermeroptera",0
+"1487","Phylodactylus","12513","Westpunt","Ephermeroptera",0
+"1488","Phylodactylus","12514","Westpunt","Ephermeroptera",0
+"1489","Phylodactylus","12515","Westpunt","Ephermeroptera",0
+"1490","Phylodactylus","12516","Westpunt","Ephermeroptera",0
+"1491","Phylodactylus","12517","Westpunt","Ephermeroptera",0
+"1492","Phylodactylus","12518","Westpunt","Ephermeroptera",0
+"1493","Phylodactylus","12520","Westpunt","Ephermeroptera",0
+"1494","Phylodactylus","12521","Westpunt","Ephermeroptera",0
+"1495","Phylodactylus","12522","Westpunt","Ephermeroptera",0
+"1496","Phylodactylus","12524","Westpunt","Ephermeroptera",0
+"1497","Phylodactylus","12525","Westpunt","Ephermeroptera",0
+"1498","Hemidactylus mabuoia","12540","Westpunt","Ephermeroptera",0
+"1499","Phylodactylus","12541","Westpunt","Ephermeroptera",0
+"1500","Phylodactylus","12543","Westpunt","Ephermeroptera",0
+"1501","Phylodactylus","12544","Westpunt","Ephermeroptera",0
+"1502","Phylodactylus","12547","Westpunt","Ephermeroptera",0
+"1503","Phylodactylus","12551","Westpunt","Ephermeroptera",0
+"1504","Hemidactylus mabuoia","12552","Westpunt","Ephermeroptera",0
+"1505","Hemidactylus mabuoia","12575","Westpunt","Ephermeroptera",0
+"1506","Hemidactylus mabuoia","12576","Westpunt","Ephermeroptera",0
+"1507","Hemidactylus mabuoia","12577","Westpunt","Ephermeroptera",0
+"1508","Phylodactylus","12582","Westpunt","Ephermeroptera",0
+"1509","Phylodactylus","12583","Westpunt","Ephermeroptera",0
+"1510","Phylodactylus","12584","Westpunt","Ephermeroptera",0
+"1511","Phylodactylus","12615","Westpunt","Ephermeroptera",0
+"1512","Phylodactylus","12618","Westpunt","Ephermeroptera",0
+"1513","Phylodactylus","12621","Westpunt","Ephermeroptera",0
+"1514","Phylodactylus","12622","Westpunt","Ephermeroptera",0
+"1515","Phylodactylus","12623","Westpunt","Ephermeroptera",0
+"1516","Hemidactylus mabuoia","12632","Westpunt","Ephermeroptera",0
+"1517","Hemidactylus mabuoia","12633","Westpunt","Ephermeroptera",0
+"1518","Hemidactylus mabuoia","12634","Westpunt","Ephermeroptera",0
+"1519","Phylodactylus","12636","Westpunt","Ephermeroptera",0
+"1520","Phylodactylus","12637","Westpunt","Ephermeroptera",0
+"1521","Phylodactylus","12638","Westpunt","Ephermeroptera",0.333333333
+"1522","Phylodactylus","12639","Westpunt","Ephermeroptera",0
+"1523","Phylodactylus","12640","Westpunt","Ephermeroptera",0
+"1524","Hemidactylus mabuoia","12674","Westpunt","Ephermeroptera",0
+"1525","Hemidactylus mabuoia","12676","Westpunt","Ephermeroptera",0
+"1526","Phylodactylus","MCB 1098","Westpunt","Ephermeroptera",0
+"1527","Phylodactylus","MCB 1099","Westpunt","Ephermeroptera",0
+"1528","Phylodactylus","MCB 1100","Westpunt","Ephermeroptera",0
+"1529","Phylodactylus","MCB 1101","Westpunt","Ephermeroptera",0
+"1530","Phylodactylus","MCB 1102","Westpunt","Ephermeroptera",0
+"1531","Phylodactylus","MCB 1103","Westpunt","Ephermeroptera",0
+"1532","Phylodactylus","MCB 1104","Westpunt","Ephermeroptera",0
+"1533","Phylodactylus","MCB 1105","Westpunt","Ephermeroptera",0
+"1534","Phylodactylus","MCB 1106","Westpunt","Ephermeroptera",0
+"1535","Phylodactylus","MCB 1107","Westpunt","Ephermeroptera",0
+"1536","Phylodactylus","MCB 1108","Westpunt","Ephermeroptera",0
+"1537","Phylodactylus","MCB 1109","Westpunt","Ephermeroptera",0
+"1538","Phylodactylus","MCB 1110","Westpunt","Ephermeroptera",0
+"1539","Phylodactylus","MCB 1111","Westpunt","Ephermeroptera",0
+"1540","Phylodactylus","MCB 1112","Westpunt","Ephermeroptera",0
+"1541","Phylodactylus","MCB 1113","Westpunt","Ephermeroptera",0
+"1542","Phylodactylus","MCB 1114","Westpunt","Ephermeroptera",0
+"1543","Phylodactylus","MCB 1115","Westpunt","Ephermeroptera",0
+"1544","Phylodactylus","MCB 1117","Westpunt","Ephermeroptera",0
+"1545","Phylodactylus","MCB 1118","Westpunt","Ephermeroptera",0
+"1546","Hemidactylus mabuoia","a1","Westpunt","Ephermeroptera",0
+"1547","Hemidactylus mabuoia","a2","Westpunt","Ephermeroptera",0
+"1548","Hemidactylus mabuoia","a3","Westpunt","Ephermeroptera",0
+"1549","Hemidactylus mabuoia","a4","Westpunt","Ephermeroptera",0
+"1550","Hemidactylus mabuoia","a5","Westpunt","Ephermeroptera",0
+"1551","Hemidactylus mabuoia","a6","Westpunt","Ephermeroptera",0
+"1552","Hemidactylus mabuoia","a7","Westpunt","Ephermeroptera",0
+"1553","Hemidactylus mabuoia","a8","Westpunt","Ephermeroptera",0
+"1554","Hemidactylus mabuoia","a9","Westpunt","Ephermeroptera",0
+"1555","Hemidactylus mabuoia","a10","Westpunt","Ephermeroptera",0
+"1556","Hemidactylus mabuoia","a11","Westpunt","Ephermeroptera",0
+"1557","Hemidactylus mabuoia","a12","Westpunt","Ephermeroptera",0
+"1558","Hemidactylus mabuoia","a13","Westpunt","Ephermeroptera",0
+"1559","Hemidactylus mabuoia","a14","Westpunt","Ephermeroptera",0
+"1560","Hemidactylus mabuoia","a15","Westpunt","Ephermeroptera",0
+"1561","Hemidactylus mabuoia","a16","Westpunt","Ephermeroptera",0
+"1613","Hemidactylus mabuoia","12506","Westpunt","Gecko_skin",0
+"1614","Hemidactylus mabuoia","12507","Westpunt","Gecko_skin",0
+"1615","Hemidactylus mabuoia","12508","Westpunt","Gecko_skin",0
+"1616","Hemidactylus mabuoia","12509","Westpunt","Gecko_skin",0
+"1617","Hemidactylus mabuoia","12510","Westpunt","Gecko_skin",0
+"1618","Phylodactylus","12513","Westpunt","Gecko_skin",0
+"1619","Phylodactylus","12514","Westpunt","Gecko_skin",0
+"1620","Phylodactylus","12515","Westpunt","Gecko_skin",0
+"1621","Phylodactylus","12516","Westpunt","Gecko_skin",0
+"1622","Phylodactylus","12517","Westpunt","Gecko_skin",0
+"1623","Phylodactylus","12518","Westpunt","Gecko_skin",0
+"1624","Phylodactylus","12520","Westpunt","Gecko_skin",0
+"1625","Phylodactylus","12521","Westpunt","Gecko_skin",0
+"1626","Phylodactylus","12522","Westpunt","Gecko_skin",0
+"1627","Phylodactylus","12524","Westpunt","Gecko_skin",0
+"1628","Phylodactylus","12525","Westpunt","Gecko_skin",0
+"1629","Hemidactylus mabuoia","12540","Westpunt","Gecko_skin",0
+"1630","Phylodactylus","12541","Westpunt","Gecko_skin",0
+"1631","Phylodactylus","12543","Westpunt","Gecko_skin",0
+"1632","Phylodactylus","12544","Westpunt","Gecko_skin",0
+"1633","Phylodactylus","12547","Westpunt","Gecko_skin",0
+"1634","Phylodactylus","12551","Westpunt","Gecko_skin",0
+"1635","Hemidactylus mabuoia","12552","Westpunt","Gecko_skin",0
+"1636","Hemidactylus mabuoia","12575","Westpunt","Gecko_skin",0
+"1637","Hemidactylus mabuoia","12576","Westpunt","Gecko_skin",0
+"1638","Hemidactylus mabuoia","12577","Westpunt","Gecko_skin",0
+"1639","Phylodactylus","12582","Westpunt","Gecko_skin",0
+"1640","Phylodactylus","12583","Westpunt","Gecko_skin",0
+"1641","Phylodactylus","12584","Westpunt","Gecko_skin",0
+"1642","Phylodactylus","12615","Westpunt","Gecko_skin",0
+"1643","Phylodactylus","12618","Westpunt","Gecko_skin",0
+"1644","Phylodactylus","12621","Westpunt","Gecko_skin",0
+"1645","Phylodactylus","12622","Westpunt","Gecko_skin",0
+"1646","Phylodactylus","12623","Westpunt","Gecko_skin",0
+"1647","Hemidactylus mabuoia","12632","Westpunt","Gecko_skin",0
+"1648","Hemidactylus mabuoia","12633","Westpunt","Gecko_skin",0
+"1649","Hemidactylus mabuoia","12634","Westpunt","Gecko_skin",0
+"1650","Phylodactylus","12636","Westpunt","Gecko_skin",0
+"1651","Phylodactylus","12637","Westpunt","Gecko_skin",0
+"1652","Phylodactylus","12638","Westpunt","Gecko_skin",0
+"1653","Phylodactylus","12639","Westpunt","Gecko_skin",0
+"1654","Phylodactylus","12640","Westpunt","Gecko_skin",0
+"1655","Hemidactylus mabuoia","12674","Westpunt","Gecko_skin",0
+"1656","Hemidactylus mabuoia","12676","Westpunt","Gecko_skin",0
+"1657","Phylodactylus","MCB 1098","Westpunt","Gecko_skin",0
+"1658","Phylodactylus","MCB 1099","Westpunt","Gecko_skin",0
+"1659","Phylodactylus","MCB 1100","Westpunt","Gecko_skin",0
+"1660","Phylodactylus","MCB 1101","Westpunt","Gecko_skin",0
+"1661","Phylodactylus","MCB 1102","Westpunt","Gecko_skin",0
+"1662","Phylodactylus","MCB 1103","Westpunt","Gecko_skin",0
+"1663","Phylodactylus","MCB 1104","Westpunt","Gecko_skin",0
+"1664","Phylodactylus","MCB 1105","Westpunt","Gecko_skin",0
+"1665","Phylodactylus","MCB 1106","Westpunt","Gecko_skin",0
+"1666","Phylodactylus","MCB 1107","Westpunt","Gecko_skin",0
+"1667","Phylodactylus","MCB 1108","Westpunt","Gecko_skin",0
+"1668","Phylodactylus","MCB 1109","Westpunt","Gecko_skin",0
+"1669","Phylodactylus","MCB 1110","Westpunt","Gecko_skin",0
+"1670","Phylodactylus","MCB 1111","Westpunt","Gecko_skin",0
+"1671","Phylodactylus","MCB 1112","Westpunt","Gecko_skin",0
+"1672","Phylodactylus","MCB 1113","Westpunt","Gecko_skin",0
+"1673","Phylodactylus","MCB 1114","Westpunt","Gecko_skin",0
+"1674","Phylodactylus","MCB 1115","Westpunt","Gecko_skin",0
+"1675","Phylodactylus","MCB 1117","Westpunt","Gecko_skin",0
+"1676","Phylodactylus","MCB 1118","Westpunt","Gecko_skin",0
+"1677","Hemidactylus mabuoia","a1","Westpunt","Gecko_skin",0
+"1678","Hemidactylus mabuoia","a2","Westpunt","Gecko_skin",0
+"1679","Hemidactylus mabuoia","a3","Westpunt","Gecko_skin",0
+"1680","Hemidactylus mabuoia","a4","Westpunt","Gecko_skin",0
+"1681","Hemidactylus mabuoia","a5","Westpunt","Gecko_skin",0
+"1682","Hemidactylus mabuoia","a6","Westpunt","Gecko_skin",0
+"1683","Hemidactylus mabuoia","a7","Westpunt","Gecko_skin",0.5
+"1684","Hemidactylus mabuoia","a8","Westpunt","Gecko_skin",0
+"1685","Hemidactylus mabuoia","a9","Westpunt","Gecko_skin",0
+"1686","Hemidactylus mabuoia","a10","Westpunt","Gecko_skin",0
+"1687","Hemidactylus mabuoia","a11","Westpunt","Gecko_skin",0
+"1688","Hemidactylus mabuoia","a12","Westpunt","Gecko_skin",0
+"1689","Hemidactylus mabuoia","a13","Westpunt","Gecko_skin",0
+"1690","Hemidactylus mabuoia","a14","Westpunt","Gecko_skin",0
+"1691","Hemidactylus mabuoia","a15","Westpunt","Gecko_skin",0
+"1692","Hemidactylus mabuoia","a16","Westpunt","Gecko_skin",0
+"1744","Hemidactylus mabuoia","12506","Westpunt","Blattaria",0
+"1745","Hemidactylus mabuoia","12507","Westpunt","Blattaria",0
+"1746","Hemidactylus mabuoia","12508","Westpunt","Blattaria",0
+"1747","Hemidactylus mabuoia","12509","Westpunt","Blattaria",0
+"1748","Hemidactylus mabuoia","12510","Westpunt","Blattaria",0
+"1749","Phylodactylus","12513","Westpunt","Blattaria",0
+"1750","Phylodactylus","12514","Westpunt","Blattaria",0
+"1751","Phylodactylus","12515","Westpunt","Blattaria",0
+"1752","Phylodactylus","12516","Westpunt","Blattaria",0
+"1753","Phylodactylus","12517","Westpunt","Blattaria",0
+"1754","Phylodactylus","12518","Westpunt","Blattaria",0
+"1755","Phylodactylus","12520","Westpunt","Blattaria",0
+"1756","Phylodactylus","12521","Westpunt","Blattaria",0
+"1757","Phylodactylus","12522","Westpunt","Blattaria",0
+"1758","Phylodactylus","12524","Westpunt","Blattaria",0
+"1759","Phylodactylus","12525","Westpunt","Blattaria",0
+"1760","Hemidactylus mabuoia","12540","Westpunt","Blattaria",0
+"1761","Phylodactylus","12541","Westpunt","Blattaria",0
+"1762","Phylodactylus","12543","Westpunt","Blattaria",0
+"1763","Phylodactylus","12544","Westpunt","Blattaria",0
+"1764","Phylodactylus","12547","Westpunt","Blattaria",0
+"1765","Phylodactylus","12551","Westpunt","Blattaria",0
+"1766","Hemidactylus mabuoia","12552","Westpunt","Blattaria",0
+"1767","Hemidactylus mabuoia","12575","Westpunt","Blattaria",0
+"1768","Hemidactylus mabuoia","12576","Westpunt","Blattaria",0
+"1769","Hemidactylus mabuoia","12577","Westpunt","Blattaria",0
+"1770","Phylodactylus","12582","Westpunt","Blattaria",0
+"1771","Phylodactylus","12583","Westpunt","Blattaria",0
+"1772","Phylodactylus","12584","Westpunt","Blattaria",0
+"1773","Phylodactylus","12615","Westpunt","Blattaria",0
+"1774","Phylodactylus","12618","Westpunt","Blattaria",0
+"1775","Phylodactylus","12621","Westpunt","Blattaria",0
+"1776","Phylodactylus","12622","Westpunt","Blattaria",0
+"1777","Phylodactylus","12623","Westpunt","Blattaria",0
+"1778","Hemidactylus mabuoia","12632","Westpunt","Blattaria",0
+"1779","Hemidactylus mabuoia","12633","Westpunt","Blattaria",0
+"1780","Hemidactylus mabuoia","12634","Westpunt","Blattaria",0
+"1781","Phylodactylus","12636","Westpunt","Blattaria",0
+"1782","Phylodactylus","12637","Westpunt","Blattaria",0
+"1783","Phylodactylus","12638","Westpunt","Blattaria",0
+"1784","Phylodactylus","12639","Westpunt","Blattaria",0
+"1785","Phylodactylus","12640","Westpunt","Blattaria",0
+"1786","Hemidactylus mabuoia","12674","Westpunt","Blattaria",0
+"1787","Hemidactylus mabuoia","12676","Westpunt","Blattaria",0
+"1788","Phylodactylus","MCB 1098","Westpunt","Blattaria",0
+"1789","Phylodactylus","MCB 1099","Westpunt","Blattaria",0
+"1790","Phylodactylus","MCB 1100","Westpunt","Blattaria",0
+"1791","Phylodactylus","MCB 1101","Westpunt","Blattaria",0
+"1792","Phylodactylus","MCB 1102","Westpunt","Blattaria",0
+"1793","Phylodactylus","MCB 1103","Westpunt","Blattaria",0
+"1794","Phylodactylus","MCB 1104","Westpunt","Blattaria",0
+"1795","Phylodactylus","MCB 1105","Westpunt","Blattaria",0
+"1796","Phylodactylus","MCB 1106","Westpunt","Blattaria",0
+"1797","Phylodactylus","MCB 1107","Westpunt","Blattaria",0
+"1798","Phylodactylus","MCB 1108","Westpunt","Blattaria",0
+"1799","Phylodactylus","MCB 1109","Westpunt","Blattaria",0
+"1800","Phylodactylus","MCB 1110","Westpunt","Blattaria",0
+"1801","Phylodactylus","MCB 1111","Westpunt","Blattaria",0
+"1802","Phylodactylus","MCB 1112","Westpunt","Blattaria",0
+"1803","Phylodactylus","MCB 1113","Westpunt","Blattaria",0
+"1804","Phylodactylus","MCB 1114","Westpunt","Blattaria",0
+"1805","Phylodactylus","MCB 1115","Westpunt","Blattaria",0
+"1806","Phylodactylus","MCB 1117","Westpunt","Blattaria",0
+"1807","Phylodactylus","MCB 1118","Westpunt","Blattaria",0
+"1808","Hemidactylus mabuoia","a1","Westpunt","Blattaria",0
+"1809","Hemidactylus mabuoia","a2","Westpunt","Blattaria",0
+"1810","Hemidactylus mabuoia","a3","Westpunt","Blattaria",0
+"1811","Hemidactylus mabuoia","a4","Westpunt","Blattaria",0
+"1812","Hemidactylus mabuoia","a5","Westpunt","Blattaria",0
+"1813","Hemidactylus mabuoia","a6","Westpunt","Blattaria",0
+"1814","Hemidactylus mabuoia","a7","Westpunt","Blattaria",0
+"1815","Hemidactylus mabuoia","a8","Westpunt","Blattaria",0
+"1816","Hemidactylus mabuoia","a9","Westpunt","Blattaria",0
+"1817","Hemidactylus mabuoia","a10","Westpunt","Blattaria",0
+"1818","Hemidactylus mabuoia","a11","Westpunt","Blattaria",0
+"1819","Hemidactylus mabuoia","a12","Westpunt","Blattaria",0
+"1820","Hemidactylus mabuoia","a13","Westpunt","Blattaria",0
+"1821","Hemidactylus mabuoia","a14","Westpunt","Blattaria",0
+"1822","Hemidactylus mabuoia","a15","Westpunt","Blattaria",0
+"1823","Hemidactylus mabuoia","a16","Westpunt","Blattaria",0
+"1875","Hemidactylus mabuoia","12506","Westpunt","Empty",0
+"1876","Hemidactylus mabuoia","12507","Westpunt","Empty",0
+"1877","Hemidactylus mabuoia","12508","Westpunt","Empty",0
+"1878","Hemidactylus mabuoia","12509","Westpunt","Empty",0
+"1879","Hemidactylus mabuoia","12510","Westpunt","Empty",0
+"1880","Phylodactylus","12513","Westpunt","Empty",0
+"1881","Phylodactylus","12514","Westpunt","Empty",0
+"1882","Phylodactylus","12515","Westpunt","Empty",0
+"1883","Phylodactylus","12516","Westpunt","Empty",0
+"1884","Phylodactylus","12517","Westpunt","Empty",0
+"1885","Phylodactylus","12518","Westpunt","Empty",0
+"1886","Phylodactylus","12520","Westpunt","Empty",0
+"1887","Phylodactylus","12521","Westpunt","Empty",0
+"1888","Phylodactylus","12522","Westpunt","Empty",0
+"1889","Phylodactylus","12524","Westpunt","Empty",0
+"1890","Phylodactylus","12525","Westpunt","Empty",0
+"1891","Hemidactylus mabuoia","12540","Westpunt","Empty",0
+"1892","Phylodactylus","12541","Westpunt","Empty",1
+"1893","Phylodactylus","12543","Westpunt","Empty",0
+"1894","Phylodactylus","12544","Westpunt","Empty",0
+"1895","Phylodactylus","12547","Westpunt","Empty",1
+"1896","Phylodactylus","12551","Westpunt","Empty",0
+"1897","Hemidactylus mabuoia","12552","Westpunt","Empty",0
+"1898","Hemidactylus mabuoia","12575","Westpunt","Empty",1
+"1899","Hemidactylus mabuoia","12576","Westpunt","Empty",0
+"1900","Hemidactylus mabuoia","12577","Westpunt","Empty",1
+"1901","Phylodactylus","12582","Westpunt","Empty",0
+"1902","Phylodactylus","12583","Westpunt","Empty",1
+"1903","Phylodactylus","12584","Westpunt","Empty",0
+"1904","Phylodactylus","12615","Westpunt","Empty",0
+"1905","Phylodactylus","12618","Westpunt","Empty",1
+"1906","Phylodactylus","12621","Westpunt","Empty",0
+"1907","Phylodactylus","12622","Westpunt","Empty",0
+"1908","Phylodactylus","12623","Westpunt","Empty",0
+"1909","Hemidactylus mabuoia","12632","Westpunt","Empty",1
+"1910","Hemidactylus mabuoia","12633","Westpunt","Empty",1
+"1911","Hemidactylus mabuoia","12634","Westpunt","Empty",0
+"1912","Phylodactylus","12636","Westpunt","Empty",0
+"1913","Phylodactylus","12637","Westpunt","Empty",0
+"1914","Phylodactylus","12638","Westpunt","Empty",0
+"1915","Phylodactylus","12639","Westpunt","Empty",0
+"1916","Phylodactylus","12640","Westpunt","Empty",0
+"1917","Hemidactylus mabuoia","12674","Westpunt","Empty",1
+"1918","Hemidactylus mabuoia","12676","Westpunt","Empty",1
+"1919","Phylodactylus","MCB 1098","Westpunt","Empty",0
+"1920","Phylodactylus","MCB 1099","Westpunt","Empty",0
+"1921","Phylodactylus","MCB 1100","Westpunt","Empty",0
+"1922","Phylodactylus","MCB 1101","Westpunt","Empty",0
+"1923","Phylodactylus","MCB 1102","Westpunt","Empty",0
+"1924","Phylodactylus","MCB 1103","Westpunt","Empty",0
+"1925","Phylodactylus","MCB 1104","Westpunt","Empty",1
+"1926","Phylodactylus","MCB 1105","Westpunt","Empty",0
+"1927","Phylodactylus","MCB 1106","Westpunt","Empty",0
+"1928","Phylodactylus","MCB 1107","Westpunt","Empty",0
+"1929","Phylodactylus","MCB 1108","Westpunt","Empty",0
+"1930","Phylodactylus","MCB 1109","Westpunt","Empty",0
+"1931","Phylodactylus","MCB 1110","Westpunt","Empty",0
+"1932","Phylodactylus","MCB 1111","Westpunt","Empty",0
+"1933","Phylodactylus","MCB 1112","Westpunt","Empty",0
+"1934","Phylodactylus","MCB 1113","Westpunt","Empty",0
+"1935","Phylodactylus","MCB 1114","Westpunt","Empty",0
+"1936","Phylodactylus","MCB 1115","Westpunt","Empty",0
+"1937","Phylodactylus","MCB 1117","Westpunt","Empty",1
+"1938","Phylodactylus","MCB 1118","Westpunt","Empty",0
+"1939","Hemidactylus mabuoia","a1","Westpunt","Empty",0
+"1940","Hemidactylus mabuoia","a2","Westpunt","Empty",1
+"1941","Hemidactylus mabuoia","a3","Westpunt","Empty",0
+"1942","Hemidactylus mabuoia","a4","Westpunt","Empty",0
+"1943","Hemidactylus mabuoia","a5","Westpunt","Empty",0
+"1944","Hemidactylus mabuoia","a6","Westpunt","Empty",1
+"1945","Hemidactylus mabuoia","a7","Westpunt","Empty",0
+"1946","Hemidactylus mabuoia","a8","Westpunt","Empty",0
+"1947","Hemidactylus mabuoia","a9","Westpunt","Empty",0
+"1948","Hemidactylus mabuoia","a10","Westpunt","Empty",0
+"1949","Hemidactylus mabuoia","a11","Westpunt","Empty",0
+"1950","Hemidactylus mabuoia","a12","Westpunt","Empty",0
+"1951","Hemidactylus mabuoia","a13","Westpunt","Empty",0
+"1952","Hemidactylus mabuoia","a14","Westpunt","Empty",1
+"1953","Hemidactylus mabuoia","a15","Westpunt","Empty",1
+"1954","Hemidactylus mabuoia","a16","Westpunt","Empty",0
+"2006","Hemidactylus mabuoia","12506","Westpunt","Ramphotyphlops",0
+"2007","Hemidactylus mabuoia","12507","Westpunt","Ramphotyphlops",0
+"2008","Hemidactylus mabuoia","12508","Westpunt","Ramphotyphlops",0
+"2009","Hemidactylus mabuoia","12509","Westpunt","Ramphotyphlops",1
+"2010","Hemidactylus mabuoia","12510","Westpunt","Ramphotyphlops",0
+"2011","Phylodactylus","12513","Westpunt","Ramphotyphlops",0
+"2012","Phylodactylus","12514","Westpunt","Ramphotyphlops",0
+"2013","Phylodactylus","12515","Westpunt","Ramphotyphlops",0
+"2014","Phylodactylus","12516","Westpunt","Ramphotyphlops",0
+"2015","Phylodactylus","12517","Westpunt","Ramphotyphlops",0
+"2016","Phylodactylus","12518","Westpunt","Ramphotyphlops",0
+"2017","Phylodactylus","12520","Westpunt","Ramphotyphlops",0
+"2018","Phylodactylus","12521","Westpunt","Ramphotyphlops",0
+"2019","Phylodactylus","12522","Westpunt","Ramphotyphlops",0
+"2020","Phylodactylus","12524","Westpunt","Ramphotyphlops",0
+"2021","Phylodactylus","12525","Westpunt","Ramphotyphlops",0
+"2022","Hemidactylus mabuoia","12540","Westpunt","Ramphotyphlops",0
+"2023","Phylodactylus","12541","Westpunt","Ramphotyphlops",0
+"2024","Phylodactylus","12543","Westpunt","Ramphotyphlops",0
+"2025","Phylodactylus","12544","Westpunt","Ramphotyphlops",0
+"2026","Phylodactylus","12547","Westpunt","Ramphotyphlops",0
+"2027","Phylodactylus","12551","Westpunt","Ramphotyphlops",0
+"2028","Hemidactylus mabuoia","12552","Westpunt","Ramphotyphlops",0
+"2029","Hemidactylus mabuoia","12575","Westpunt","Ramphotyphlops",0
+"2030","Hemidactylus mabuoia","12576","Westpunt","Ramphotyphlops",0
+"2031","Hemidactylus mabuoia","12577","Westpunt","Ramphotyphlops",0
+"2032","Phylodactylus","12582","Westpunt","Ramphotyphlops",0
+"2033","Phylodactylus","12583","Westpunt","Ramphotyphlops",0
+"2034","Phylodactylus","12584","Westpunt","Ramphotyphlops",0
+"2035","Phylodactylus","12615","Westpunt","Ramphotyphlops",0
+"2036","Phylodactylus","12618","Westpunt","Ramphotyphlops",0
+"2037","Phylodactylus","12621","Westpunt","Ramphotyphlops",0
+"2038","Phylodactylus","12622","Westpunt","Ramphotyphlops",0
+"2039","Phylodactylus","12623","Westpunt","Ramphotyphlops",0
+"2040","Hemidactylus mabuoia","12632","Westpunt","Ramphotyphlops",0
+"2041","Hemidactylus mabuoia","12633","Westpunt","Ramphotyphlops",0
+"2042","Hemidactylus mabuoia","12634","Westpunt","Ramphotyphlops",0
+"2043","Phylodactylus","12636","Westpunt","Ramphotyphlops",0
+"2044","Phylodactylus","12637","Westpunt","Ramphotyphlops",0
+"2045","Phylodactylus","12638","Westpunt","Ramphotyphlops",0
+"2046","Phylodactylus","12639","Westpunt","Ramphotyphlops",0
+"2047","Phylodactylus","12640","Westpunt","Ramphotyphlops",0
+"2048","Hemidactylus mabuoia","12674","Westpunt","Ramphotyphlops",0
+"2049","Hemidactylus mabuoia","12676","Westpunt","Ramphotyphlops",0
+"2050","Phylodactylus","MCB 1098","Westpunt","Ramphotyphlops",0
+"2051","Phylodactylus","MCB 1099","Westpunt","Ramphotyphlops",0
+"2052","Phylodactylus","MCB 1100","Westpunt","Ramphotyphlops",0
+"2053","Phylodactylus","MCB 1101","Westpunt","Ramphotyphlops",0
+"2054","Phylodactylus","MCB 1102","Westpunt","Ramphotyphlops",0
+"2055","Phylodactylus","MCB 1103","Westpunt","Ramphotyphlops",0
+"2056","Phylodactylus","MCB 1104","Westpunt","Ramphotyphlops",0
+"2057","Phylodactylus","MCB 1105","Westpunt","Ramphotyphlops",0
+"2058","Phylodactylus","MCB 1106","Westpunt","Ramphotyphlops",0
+"2059","Phylodactylus","MCB 1107","Westpunt","Ramphotyphlops",0
+"2060","Phylodactylus","MCB 1108","Westpunt","Ramphotyphlops",0
+"2061","Phylodactylus","MCB 1109","Westpunt","Ramphotyphlops",0
+"2062","Phylodactylus","MCB 1110","Westpunt","Ramphotyphlops",0
+"2063","Phylodactylus","MCB 1111","Westpunt","Ramphotyphlops",0
+"2064","Phylodactylus","MCB 1112","Westpunt","Ramphotyphlops",0
+"2065","Phylodactylus","MCB 1113","Westpunt","Ramphotyphlops",0
+"2066","Phylodactylus","MCB 1114","Westpunt","Ramphotyphlops",0
+"2067","Phylodactylus","MCB 1115","Westpunt","Ramphotyphlops",0
+"2068","Phylodactylus","MCB 1117","Westpunt","Ramphotyphlops",0
+"2069","Phylodactylus","MCB 1118","Westpunt","Ramphotyphlops",0
+"2070","Hemidactylus mabuoia","a1","Westpunt","Ramphotyphlops",0
+"2071","Hemidactylus mabuoia","a2","Westpunt","Ramphotyphlops",0
+"2072","Hemidactylus mabuoia","a3","Westpunt","Ramphotyphlops",0
+"2073","Hemidactylus mabuoia","a4","Westpunt","Ramphotyphlops",0
+"2074","Hemidactylus mabuoia","a5","Westpunt","Ramphotyphlops",0
+"2075","Hemidactylus mabuoia","a6","Westpunt","Ramphotyphlops",0
+"2076","Hemidactylus mabuoia","a7","Westpunt","Ramphotyphlops",0
+"2077","Hemidactylus mabuoia","a8","Westpunt","Ramphotyphlops",0
+"2078","Hemidactylus mabuoia","a9","Westpunt","Ramphotyphlops",0
+"2079","Hemidactylus mabuoia","a10","Westpunt","Ramphotyphlops",0
+"2080","Hemidactylus mabuoia","a11","Westpunt","Ramphotyphlops",0
+"2081","Hemidactylus mabuoia","a12","Westpunt","Ramphotyphlops",0
+"2082","Hemidactylus mabuoia","a13","Westpunt","Ramphotyphlops",0
+"2083","Hemidactylus mabuoia","a14","Westpunt","Ramphotyphlops",0
+"2084","Hemidactylus mabuoia","a15","Westpunt","Ramphotyphlops",0
+"2085","Hemidactylus mabuoia","a16","Westpunt","Ramphotyphlops",0
+"2137","Hemidactylus mabuoia","12506","Westpunt","Gonatodes.antillensis",0
+"2138","Hemidactylus mabuoia","12507","Westpunt","Gonatodes.antillensis",0
+"2139","Hemidactylus mabuoia","12508","Westpunt","Gonatodes.antillensis",0
+"2140","Hemidactylus mabuoia","12509","Westpunt","Gonatodes.antillensis",0
+"2141","Hemidactylus mabuoia","12510","Westpunt","Gonatodes.antillensis",0
+"2142","Phylodactylus","12513","Westpunt","Gonatodes.antillensis",0
+"2143","Phylodactylus","12514","Westpunt","Gonatodes.antillensis",0
+"2144","Phylodactylus","12515","Westpunt","Gonatodes.antillensis",0
+"2145","Phylodactylus","12516","Westpunt","Gonatodes.antillensis",0
+"2146","Phylodactylus","12517","Westpunt","Gonatodes.antillensis",0
+"2147","Phylodactylus","12518","Westpunt","Gonatodes.antillensis",0
+"2148","Phylodactylus","12520","Westpunt","Gonatodes.antillensis",0
+"2149","Phylodactylus","12521","Westpunt","Gonatodes.antillensis",0
+"2150","Phylodactylus","12522","Westpunt","Gonatodes.antillensis",0
+"2151","Phylodactylus","12524","Westpunt","Gonatodes.antillensis",0
+"2152","Phylodactylus","12525","Westpunt","Gonatodes.antillensis",0
+"2153","Hemidactylus mabuoia","12540","Westpunt","Gonatodes.antillensis",0
+"2154","Phylodactylus","12541","Westpunt","Gonatodes.antillensis",0
+"2155","Phylodactylus","12543","Westpunt","Gonatodes.antillensis",0
+"2156","Phylodactylus","12544","Westpunt","Gonatodes.antillensis",0
+"2157","Phylodactylus","12547","Westpunt","Gonatodes.antillensis",0
+"2158","Phylodactylus","12551","Westpunt","Gonatodes.antillensis",0
+"2159","Hemidactylus mabuoia","12552","Westpunt","Gonatodes.antillensis",0
+"2160","Hemidactylus mabuoia","12575","Westpunt","Gonatodes.antillensis",0
+"2161","Hemidactylus mabuoia","12576","Westpunt","Gonatodes.antillensis",0
+"2162","Hemidactylus mabuoia","12577","Westpunt","Gonatodes.antillensis",0
+"2163","Phylodactylus","12582","Westpunt","Gonatodes.antillensis",0
+"2164","Phylodactylus","12583","Westpunt","Gonatodes.antillensis",0
+"2165","Phylodactylus","12584","Westpunt","Gonatodes.antillensis",0
+"2166","Phylodactylus","12615","Westpunt","Gonatodes.antillensis",0
+"2167","Phylodactylus","12618","Westpunt","Gonatodes.antillensis",0
+"2168","Phylodactylus","12621","Westpunt","Gonatodes.antillensis",0
+"2169","Phylodactylus","12622","Westpunt","Gonatodes.antillensis",0
+"2170","Phylodactylus","12623","Westpunt","Gonatodes.antillensis",0
+"2171","Hemidactylus mabuoia","12632","Westpunt","Gonatodes.antillensis",0
+"2172","Hemidactylus mabuoia","12633","Westpunt","Gonatodes.antillensis",0
+"2173","Hemidactylus mabuoia","12634","Westpunt","Gonatodes.antillensis",0
+"2174","Phylodactylus","12636","Westpunt","Gonatodes.antillensis",0
+"2175","Phylodactylus","12637","Westpunt","Gonatodes.antillensis",0
+"2176","Phylodactylus","12638","Westpunt","Gonatodes.antillensis",0
+"2177","Phylodactylus","12639","Westpunt","Gonatodes.antillensis",0
+"2178","Phylodactylus","12640","Westpunt","Gonatodes.antillensis",0
+"2179","Hemidactylus mabuoia","12674","Westpunt","Gonatodes.antillensis",0
+"2180","Hemidactylus mabuoia","12676","Westpunt","Gonatodes.antillensis",0
+"2181","Phylodactylus","MCB 1098","Westpunt","Gonatodes.antillensis",0
+"2182","Phylodactylus","MCB 1099","Westpunt","Gonatodes.antillensis",0
+"2183","Phylodactylus","MCB 1100","Westpunt","Gonatodes.antillensis",0
+"2184","Phylodactylus","MCB 1101","Westpunt","Gonatodes.antillensis",0
+"2185","Phylodactylus","MCB 1102","Westpunt","Gonatodes.antillensis",0
+"2186","Phylodactylus","MCB 1103","Westpunt","Gonatodes.antillensis",0
+"2187","Phylodactylus","MCB 1104","Westpunt","Gonatodes.antillensis",0
+"2188","Phylodactylus","MCB 1105","Westpunt","Gonatodes.antillensis",0
+"2189","Phylodactylus","MCB 1106","Westpunt","Gonatodes.antillensis",0
+"2190","Phylodactylus","MCB 1107","Westpunt","Gonatodes.antillensis",0
+"2191","Phylodactylus","MCB 1108","Westpunt","Gonatodes.antillensis",0
+"2192","Phylodactylus","MCB 1109","Westpunt","Gonatodes.antillensis",0
+"2193","Phylodactylus","MCB 1110","Westpunt","Gonatodes.antillensis",0
+"2194","Phylodactylus","MCB 1111","Westpunt","Gonatodes.antillensis",0
+"2195","Phylodactylus","MCB 1112","Westpunt","Gonatodes.antillensis",0
+"2196","Phylodactylus","MCB 1113","Westpunt","Gonatodes.antillensis",0
+"2197","Phylodactylus","MCB 1114","Westpunt","Gonatodes.antillensis",0
+"2198","Phylodactylus","MCB 1115","Westpunt","Gonatodes.antillensis",0
+"2199","Phylodactylus","MCB 1117","Westpunt","Gonatodes.antillensis",0
+"2200","Phylodactylus","MCB 1118","Westpunt","Gonatodes.antillensis",0
+"2201","Hemidactylus mabuoia","a1","Westpunt","Gonatodes.antillensis",0
+"2202","Hemidactylus mabuoia","a2","Westpunt","Gonatodes.antillensis",0
+"2203","Hemidactylus mabuoia","a3","Westpunt","Gonatodes.antillensis",0
+"2204","Hemidactylus mabuoia","a4","Westpunt","Gonatodes.antillensis",0
+"2205","Hemidactylus mabuoia","a5","Westpunt","Gonatodes.antillensis",0
+"2206","Hemidactylus mabuoia","a6","Westpunt","Gonatodes.antillensis",0
+"2207","Hemidactylus mabuoia","a7","Westpunt","Gonatodes.antillensis",0
+"2208","Hemidactylus mabuoia","a8","Westpunt","Gonatodes.antillensis",0
+"2209","Hemidactylus mabuoia","a9","Westpunt","Gonatodes.antillensis",0
+"2210","Hemidactylus mabuoia","a10","Westpunt","Gonatodes.antillensis",0
+"2211","Hemidactylus mabuoia","a11","Westpunt","Gonatodes.antillensis",0
+"2212","Hemidactylus mabuoia","a12","Westpunt","Gonatodes.antillensis",1
+"2213","Hemidactylus mabuoia","a13","Westpunt","Gonatodes.antillensis",0
+"2214","Hemidactylus mabuoia","a14","Westpunt","Gonatodes.antillensis",0
+"2215","Hemidactylus mabuoia","a15","Westpunt","Gonatodes.antillensis",0
+"2216","Hemidactylus mabuoia","a16","Westpunt","Gonatodes.antillensis",0
+"2268","Hemidactylus mabuoia","12506","Westpunt","Phylodactylus",0
+"2269","Hemidactylus mabuoia","12507","Westpunt","Phylodactylus",0
+"2270","Hemidactylus mabuoia","12508","Westpunt","Phylodactylus",0
+"2271","Hemidactylus mabuoia","12509","Westpunt","Phylodactylus",0
+"2272","Hemidactylus mabuoia","12510","Westpunt","Phylodactylus",0
+"2273","Phylodactylus","12513","Westpunt","Phylodactylus",0
+"2274","Phylodactylus","12514","Westpunt","Phylodactylus",0
+"2275","Phylodactylus","12515","Westpunt","Phylodactylus",0
+"2276","Phylodactylus","12516","Westpunt","Phylodactylus",0
+"2277","Phylodactylus","12517","Westpunt","Phylodactylus",0
+"2278","Phylodactylus","12518","Westpunt","Phylodactylus",0
+"2279","Phylodactylus","12520","Westpunt","Phylodactylus",0
+"2280","Phylodactylus","12521","Westpunt","Phylodactylus",0
+"2281","Phylodactylus","12522","Westpunt","Phylodactylus",0
+"2282","Phylodactylus","12524","Westpunt","Phylodactylus",0
+"2283","Phylodactylus","12525","Westpunt","Phylodactylus",0
+"2284","Hemidactylus mabuoia","12540","Westpunt","Phylodactylus",0
+"2285","Phylodactylus","12541","Westpunt","Phylodactylus",0
+"2286","Phylodactylus","12543","Westpunt","Phylodactylus",0
+"2287","Phylodactylus","12544","Westpunt","Phylodactylus",0
+"2288","Phylodactylus","12547","Westpunt","Phylodactylus",0
+"2289","Phylodactylus","12551","Westpunt","Phylodactylus",0
+"2290","Hemidactylus mabuoia","12552","Westpunt","Phylodactylus",0
+"2291","Hemidactylus mabuoia","12575","Westpunt","Phylodactylus",0
+"2292","Hemidactylus mabuoia","12576","Westpunt","Phylodactylus",0
+"2293","Hemidactylus mabuoia","12577","Westpunt","Phylodactylus",0
+"2294","Phylodactylus","12582","Westpunt","Phylodactylus",0
+"2295","Phylodactylus","12583","Westpunt","Phylodactylus",0
+"2296","Phylodactylus","12584","Westpunt","Phylodactylus",0
+"2297","Phylodactylus","12615","Westpunt","Phylodactylus",0
+"2298","Phylodactylus","12618","Westpunt","Phylodactylus",0
+"2299","Phylodactylus","12621","Westpunt","Phylodactylus",0
+"2300","Phylodactylus","12622","Westpunt","Phylodactylus",0
+"2301","Phylodactylus","12623","Westpunt","Phylodactylus",0
+"2302","Hemidactylus mabuoia","12632","Westpunt","Phylodactylus",0
+"2303","Hemidactylus mabuoia","12633","Westpunt","Phylodactylus",0
+"2304","Hemidactylus mabuoia","12634","Westpunt","Phylodactylus",0
+"2305","Phylodactylus","12636","Westpunt","Phylodactylus",0
+"2306","Phylodactylus","12637","Westpunt","Phylodactylus",0
+"2307","Phylodactylus","12638","Westpunt","Phylodactylus",0
+"2308","Phylodactylus","12639","Westpunt","Phylodactylus",0
+"2309","Phylodactylus","12640","Westpunt","Phylodactylus",0
+"2310","Hemidactylus mabuoia","12674","Westpunt","Phylodactylus",0
+"2311","Hemidactylus mabuoia","12676","Westpunt","Phylodactylus",0
+"2312","Phylodactylus","MCB 1098","Westpunt","Phylodactylus",0
+"2313","Phylodactylus","MCB 1099","Westpunt","Phylodactylus",0
+"2314","Phylodactylus","MCB 1100","Westpunt","Phylodactylus",0
+"2315","Phylodactylus","MCB 1101","Westpunt","Phylodactylus",0
+"2316","Phylodactylus","MCB 1102","Westpunt","Phylodactylus",0
+"2317","Phylodactylus","MCB 1103","Westpunt","Phylodactylus",0
+"2318","Phylodactylus","MCB 1104","Westpunt","Phylodactylus",0
+"2319","Phylodactylus","MCB 1105","Westpunt","Phylodactylus",0
+"2320","Phylodactylus","MCB 1106","Westpunt","Phylodactylus",0
+"2321","Phylodactylus","MCB 1107","Westpunt","Phylodactylus",0
+"2322","Phylodactylus","MCB 1108","Westpunt","Phylodactylus",0
+"2323","Phylodactylus","MCB 1109","Westpunt","Phylodactylus",0
+"2324","Phylodactylus","MCB 1110","Westpunt","Phylodactylus",0
+"2325","Phylodactylus","MCB 1111","Westpunt","Phylodactylus",0
+"2326","Phylodactylus","MCB 1112","Westpunt","Phylodactylus",0
+"2327","Phylodactylus","MCB 1113","Westpunt","Phylodactylus",0
+"2328","Phylodactylus","MCB 1114","Westpunt","Phylodactylus",0
+"2329","Phylodactylus","MCB 1115","Westpunt","Phylodactylus",0
+"2330","Phylodactylus","MCB 1117","Westpunt","Phylodactylus",0
+"2331","Phylodactylus","MCB 1118","Westpunt","Phylodactylus",0
+"2332","Hemidactylus mabuoia","a1","Westpunt","Phylodactylus",0
+"2333","Hemidactylus mabuoia","a2","Westpunt","Phylodactylus",0
+"2334","Hemidactylus mabuoia","a3","Westpunt","Phylodactylus",0
+"2335","Hemidactylus mabuoia","a4","Westpunt","Phylodactylus",0
+"2336","Hemidactylus mabuoia","a5","Westpunt","Phylodactylus",0
+"2337","Hemidactylus mabuoia","a6","Westpunt","Phylodactylus",0
+"2338","Hemidactylus mabuoia","a7","Westpunt","Phylodactylus",0
+"2339","Hemidactylus mabuoia","a8","Westpunt","Phylodactylus",0
+"2340","Hemidactylus mabuoia","a9","Westpunt","Phylodactylus",0
+"2341","Hemidactylus mabuoia","a10","Westpunt","Phylodactylus",0
+"2342","Hemidactylus mabuoia","a11","Westpunt","Phylodactylus",0
+"2343","Hemidactylus mabuoia","a12","Westpunt","Phylodactylus",0
+"2344","Hemidactylus mabuoia","a13","Westpunt","Phylodactylus",0
+"2345","Hemidactylus mabuoia","a14","Westpunt","Phylodactylus",0
+"2346","Hemidactylus mabuoia","a15","Westpunt","Phylodactylus",0
+"2347","Hemidactylus mabuoia","a16","Westpunt","Phylodactylus",1
